@@ -1,6 +1,6 @@
 # antispam-it
 
-liste per mandare in spam un sacco di zozzeria... curata a mano contro gli spammer che tartassano povere mailbox .it #spamrevenge
+liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
 le liste sono:
 
