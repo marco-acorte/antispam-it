@@ -12,6 +12,7 @@ blacklist_from *.agrogyanta.com
 blacklist_from *.alialketbi.com
 blacklist_from *.analyticsoptimize.com
 blacklist_from *.andreacastellana.com
+blacklist_from *.andreacastellana.it
 blacklist_from *.animewebradio.it
 blacklist_from *.antalyalab.com
 blacklist_from *.aperfu.online
