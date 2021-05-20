@@ -40,6 +40,7 @@ blacklist_from *.bluemotion.it
 blacklist_from *.btc-net.bg
 blacklist_from *.business-staff.com
 blacklist_from *.cantinenicosia.it
+blacklist_from *.cestmadiffusion.space
 blacklist_from *.chibo.it
 blacklist_from *.chromaleont.it
 blacklist_from *.cionfs.it
