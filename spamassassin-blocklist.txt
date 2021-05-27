@@ -227,10 +227,12 @@ blacklist_from *.theranchmalibu.com
 blacklist_from *.toptecq.com
 blacklist_from *.toptecq.xyz
 blacklist_from *.track-point.rocks
+blacklist_from *.tradepdt.com
 blacklist_from *.tradepro.net
 blacklist_from *.trankilite.site
 blacklist_from *.trueweb.biz
 blacklist_from *.useq.com
+blacklist_from *.uwei.online
 blacklist_from *.uwo.com
 blacklist_from *.v-class.su
 blacklist_from *.virtualreal.space
