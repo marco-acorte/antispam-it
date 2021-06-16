@@ -1,4 +1,3 @@
-blacklist_from *.hgg54.surf
 blacklist_from *.12minbitdeep.top
 blacklist_from *.28erp.com
 blacklist_from *.2life.it
@@ -91,6 +90,7 @@ blacklist_from *.growthrecords.com
 blacklist_from *.guerrinuccio.it
 blacklist_from *.gzzetta.casa
 blacklist_from *.gzztt.casa
+blacklist_from *.hgg54.surf
 blacklist_from *.hyperionow.it
 blacklist_from *.hyperoffice.com
 blacklist_from *.impactrouting.com
