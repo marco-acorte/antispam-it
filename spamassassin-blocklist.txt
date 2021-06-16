@@ -195,6 +195,7 @@ blacklist_from *.schedule.purplegammaroute.top
 blacklist_from *.searchranknow.com
 blacklist_from *.seo1505.site
 blacklist_from *.service.silicon.it
+blacklist_from *.sharkoon.com
 blacklist_from *.signature.redflexiroute.top
 blacklist_from *.siteat199.online
 blacklist_from *.siteleaf.com
