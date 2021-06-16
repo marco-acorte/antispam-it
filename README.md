@@ -6,7 +6,7 @@ le liste sono:
 
 - antispam-it.txt (DNSBL da usare come filtri per client di posta o per filtri server)
 - ip-to-ban.txt (lista ip per firewall blocklist)
-- spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /ect/mail/spamassassin/local.cf)
+- spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
 
 ## 💖 Sostieni lo sviluppo
 
