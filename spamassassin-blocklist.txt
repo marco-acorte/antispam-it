@@ -172,6 +172,7 @@ blacklist_from *.premiumpost.casa
 blacklist_from *.procars-shop-cz1.com
 blacklist_from *.profit.bluewayroute.top
 blacklist_from *.progetti-digitali.it
+blacklist_from *.promonews24.com
 blacklist_from *.promotion.futureroute.top
 blacklist_from *.purpleminimumlynk.top
 blacklist_from *.qemailserver.com
