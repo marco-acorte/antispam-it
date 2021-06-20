@@ -106,6 +106,7 @@ blacklist_from *.isadatamarketing.info
 blacklist_from *.kaiho-giken.co.jp
 blacklist_from *.kellysofficefurniture.com
 blacklist_from *.koecher-neuss.de
+blacklist_from *.laconsegnadem.com
 blacklist_from *.leonetprovedor.com.br
 blacklist_from *.littleblackdress.it
 blacklist_from *.livecolours.it
