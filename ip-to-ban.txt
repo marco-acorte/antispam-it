@@ -2,6 +2,7 @@
 152.228.135.45 #smtp.virtualreal.space
 188.214.104.129 #sustain-rental.world
 194.146.167.41 #mail.promonews24.com
+5.134.127.200 #smtp147.ext.armada.it
 51.38.225.181 #cestmadiffusion.space
 51.79.48.129 #hgg54.surf
 51.91.253.254 #smtp.communicationsympa.site

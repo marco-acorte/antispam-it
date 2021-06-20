@@ -239,6 +239,7 @@ blacklist_from *.uwei.online
 blacklist_from *.uwo.com
 blacklist_from *.v-class.su
 blacklist_from *.virtualreal.space
+blacklist_from *.vodafoneaziende.tech
 blacklist_from *.voxelhomes.co
 blacklist_from *.wcm45.top
 blacklist_from *.wdp00.top
