@@ -103,6 +103,7 @@ blacklist_from *.ipaice.com
 blacklist_from *.irtel.ru
 blacklist_from *.isadatamarketing.com
 blacklist_from *.isadatamarketing.info
+blacklist_from *.jobsora.com
 blacklist_from *.kaiho-giken.co.jp
 blacklist_from *.kellysofficefurniture.com
 blacklist_from *.koecher-neuss.de
