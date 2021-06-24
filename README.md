@@ -1,19 +1,19 @@
 # antispam-it
 
-*Read this in other languages: [English](README.en.md)*
+*Read this in other languages: [Italian](README.it.md)*
 
-liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
+lists to spam a lot of rubbish ... hand-cured to fight spammers harassing poor mailboxes .it #spamrevenge
 
-le liste sono:
+the lists are:
 
-- antispam-it.txt (DNSBL da usare come filtri per client di posta o per filtri server)
-- ip-to-ban.txt (lista ip per firewall blocklist)
-- spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
+- antispam-it.txt (DNSBL to be used as mail client filters or server filters)
+- ip-to-ban.txt (ip list for firewall blocklist)
+- spamassassin-blocklist.txt (rules already prepared to be added to /etc/mail/spamassassin/local.cf)
 
-## 💖 Sostieni lo sviluppo
+## 💖 Support development
 
-### Ti piace questo progetto? Sostienilo donando
+### Do you like this project? Support it by donating
 
-- PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
+- PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
-Antispam-it è un software open source concesso in licenza con licenza  [GNU GENERAL PUBLIC LICENSE](LICENSE.md).
+Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE] (LICENSE.md) license. 
