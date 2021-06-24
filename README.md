@@ -1,5 +1,7 @@
 # antispam-it
 
+*Read this in other languages: [English](README.en.md)*
+
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
 le liste sono:
