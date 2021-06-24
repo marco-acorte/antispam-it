@@ -16,4 +16,4 @@ the lists are:
 
 - PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
-Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE] (LICENSE.md) license. 
+Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE] (LICENSE.md) license.
