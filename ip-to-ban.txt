@@ -19,3 +19,5 @@
 93.159.213.82 #s3mt82p.consultorpc.com
 93.159.213.83 #s3mt83p.consultorpc.com
 93.159.213.84 #s3mt84p.consultorpc.com
+185.26.126.60 #wordpress.accounts-fastdatalytics.live
+161.35.152.193 #se.omer-tech.com

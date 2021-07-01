@@ -217,6 +217,9 @@ blacklist_from *.studiottaviano.it
 blacklist_from *.success.boostconnekt.top
 blacklist_from *.success.purpleoverlynk.top
 blacklist_from *.supermarketo.shop
+blacklist_from *.se.omer-tech.com
+blacklist_from *.omer-tech.com
+blacklist_from *.accounts-fastdatalytics.live
 blacklist_from *.supplier-point.rocks
 blacklist_from *.supply.mixedlink.top
 blacklist_from *.surdeu.de
