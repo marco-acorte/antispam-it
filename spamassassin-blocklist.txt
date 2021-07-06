@@ -1,3 +1,4 @@
+blacklist_from *.erbasintetica24.com
 blacklist_from *.12minbitdeep.top
 blacklist_from *.28erp.com
 blacklist_from *.2life.it
