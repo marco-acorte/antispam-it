@@ -1,4 +1,3 @@
-blacklist_from *.elasticemail.com
 blacklist_from *.12minbitdeep.top
 blacklist_from *.28erp.com
 blacklist_from *.2life.it
