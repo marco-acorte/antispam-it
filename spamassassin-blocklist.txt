@@ -1,3 +1,4 @@
+blacklist_from *.northsixty.com
 blacklist_from *.gigabytedistribuzione.it
 blacklist_from *.sistemiunico.it
 blacklist_from *.erbasintetica24.com
