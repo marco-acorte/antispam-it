@@ -1,3 +1,4 @@
+blacklist_from *.salpie.org
 blacklist_from *.hgg54.surf
 blacklist_from *.offerteistantanee2021.eu
 blacklist_from *.northsixty.com
