@@ -26,3 +26,4 @@
 84.33.237.43 #mta237-43.nw.offerteistantanee2021.eu
 51.79.48.129 #hgg54.surf
 84.33.207.211 #mta207-211.nw.laconsegnadem.com
+5.134.127.203 #smtp140a.ext.armada.it

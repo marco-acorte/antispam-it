@@ -1,3 +1,5 @@
+blacklist_from *.armada.it
+blacklist_from *.windtreweb.it
 blacklist_from *.salpie.org
 blacklist_from *.hgg54.surf
 blacklist_from *.offerteistantanee2021.eu
