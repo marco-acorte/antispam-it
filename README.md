@@ -2,7 +2,7 @@
 
 *Read this in other languages: [Italian](README.it.md)*
 
-lists to spam a lot of rubbish ... hand-cured to fight spammers harassing poor mailboxes .it #spamrevenge
+lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
 the lists are:
 
