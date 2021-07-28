@@ -1,3 +1,9 @@
+blacklist_from *.superomaggio.it
+blacklist_from *.lafabbricadeipremi.com
+blacklist_from *.vincipremioperte2021.it
+blacklist_from *.vincipremioperte2021.com
+blacklist_from *.adsalsa.com
+blacklist_from *.adsalsa.it
 blacklist_from *.armada.it
 blacklist_from *.windtreweb.it
 blacklist_from *.salpie.org
