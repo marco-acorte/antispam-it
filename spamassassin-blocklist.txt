@@ -1,5 +1,6 @@
 blacklist_from *@andreacastellana.com
 blacklist_from *@andreacastellana.it
+blacklist_from *.perfect-quotes.com
 blacklist_from *.superomaggio.it
 blacklist_from *.lafabbricadeipremi.com
 blacklist_from *.vincipremioperte2021.it
