@@ -1,3 +1,4 @@
+blacklist_from *.verticalmailer.com
 blacklist_from *.perfect-quotes.com
 blacklist_from *.selected-offers.net
 blacklist_from *.superomaggio.it
