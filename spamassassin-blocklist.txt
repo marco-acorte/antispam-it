@@ -1,6 +1,5 @@
-blacklist_from *@andreacastellana.com
-blacklist_from *@andreacastellana.it
 blacklist_from *.perfect-quotes.com
+blacklist_from *.selected-offers.net
 blacklist_from *.superomaggio.it
 blacklist_from *.lafabbricadeipremi.com
 blacklist_from *.vincipremioperte2021.it
@@ -29,6 +28,8 @@ blacklist_from *.agenziave.casa
 blacklist_from *.agrogyanta.com
 blacklist_from *.alialketbi.com
 blacklist_from *.analyticsoptimize.com
+blacklist_from *@andreacastellana.com
+blacklist_from *@andreacastellana.it
 blacklist_from *.andreacastellana.com
 blacklist_from *.andreacastellana.it
 blacklist_from *.animewebradio.it
