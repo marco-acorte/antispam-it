@@ -1,3 +1,4 @@
+blacklist_from *.seosmoppc.net
 blacklist_from *.business-listing.net
 blacklist_from *.ebr-businesslistings.net
 blacklist_from *.eubusinessdatabase.com
