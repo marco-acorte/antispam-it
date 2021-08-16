@@ -1,3 +1,4 @@
+blacklist_from *.iqtech360.com
 blacklist_from *.offer-experts.net
 blacklist_from *.verticalmailer.com
 blacklist_from *.perfect-quotes.com
