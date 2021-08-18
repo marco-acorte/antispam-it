@@ -1,3 +1,7 @@
+blacklist_from *.karmaresponse.com
+blacklist_from *.fabrilosoto.com
+blacklist_from *.supremeshoppers.com
+blacklist_from *.uploadaily.com
 blacklist_from *.seosmoppc.net
 blacklist_from *.business-listing.net
 blacklist_from *.ebr-businesslistings.net
