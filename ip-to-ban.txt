@@ -27,3 +27,7 @@
 51.79.48.129 #hgg54.surf
 84.33.207.211 #mta207-211.nw.laconsegnadem.com
 5.134.127.203 #smtp140a.ext.armada.it
+193.107.79.32 #smtp4-31.uploadaily.com
+193.107.79.31 #smtp4-30.uploadaily.com
+193.107.79.30 #smtp4-29.uploadaily.com
+193.107.79.29 #smtp4-28.uploadaily.com
