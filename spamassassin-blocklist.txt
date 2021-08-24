@@ -1,3 +1,4 @@
+blacklist_from *.demagencyvma.it
 blacklist_from *.ebr2021.com
 blacklist_from *.src08.top
 blacklist_from *.karmaresponse.com
