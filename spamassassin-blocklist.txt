@@ -1,3 +1,4 @@
+blacklist_from *.vodafoneweb.it
 blacklist_from *.k2innovazione.it
 blacklist_from *.cassapertutti.it
 blacklist_from *.fatturapertutti.it
