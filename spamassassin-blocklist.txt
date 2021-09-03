@@ -16,6 +16,7 @@ blacklist_from *.fabrilosoto.com
 blacklist_from *.supremeshoppers.com
 blacklist_from *.uploadaily.com
 blacklist_from *.seosmoppc.net
+blacklist_from *@seosmoppc.net
 blacklist_from *.business-listing.net
 blacklist_from *.ebr-businesslistings.net
 blacklist_from *.eubusinessdatabase.com
