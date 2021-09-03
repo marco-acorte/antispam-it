@@ -1,3 +1,5 @@
+blacklist_from *.smm42.surf
+blacklist_from *.pvx54.top
 blacklist_from *.artigianinvetrina.com
 blacklist_from *.compranaturale.it
 blacklist_from *.ebr-reg.eu
