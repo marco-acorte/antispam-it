@@ -1,3 +1,4 @@
+blacklist_from *.stratoserver.net
 blacklist_from *.smm42.surf
 blacklist_from *.pvx54.top
 blacklist_from *.artigianinvetrina.com
