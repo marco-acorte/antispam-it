@@ -4,6 +4,7 @@ blacklist_from *.pvx54.top
 blacklist_from *.artigianinvetrina.com
 blacklist_from *.compranaturale.it
 blacklist_from *.ebr-reg.eu
+blacklist_from *@ebr-reg.eu
 blacklist_from *.vodafoneaziende.store
 blacklist_from *.vodafoneweb.it
 blacklist_from *.k2innovazione.it
