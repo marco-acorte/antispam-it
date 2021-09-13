@@ -1,3 +1,7 @@
+blacklist_from *.promopermail.com
+blacklist_from *.megamta.com
+blacklist_from *.promoviamail.com
+blacklist_from *.pubblicitasemplice.it
 blacklist_from *.samifimaroc.ma
 blacklist_from *.stratoserver.net
 blacklist_from *.smm42.surf
