@@ -1,3 +1,4 @@
+blacklist_from *.espansionegrafica.it
 blacklist_from *.promopermail.com
 blacklist_from *.megamta.com
 blacklist_from *.promoviamail.com
