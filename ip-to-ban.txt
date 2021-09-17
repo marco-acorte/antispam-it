@@ -37,3 +37,4 @@
 188.127.251.234 #
 85.214.131.36 #phishing mail relay srv
 5.183.101.16 #email spoofing using an exploited host
+87.251.88.152 #mailx.xjsandals.com
