@@ -1,3 +1,7 @@
+blacklist_from *@medecongreateco.com
+blacklist_from *.medecongreateco.com
+blacklist_from *@greatecoglove.com
+blacklist_from *.greatecoglove.com
 blacklist_from *@webmetrics.it
 blacklist_from *.webmetrics.it
 blacklist_from *@ilmomentoperfetto.com
