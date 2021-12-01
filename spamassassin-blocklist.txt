@@ -159,6 +159,7 @@ blacklist_from *.essetr.it
 blacklist_from *.estatesustain.today
 blacklist_from *.estimate.redimmediatelynk.top
 blacklist_from *.etelweb.com
+blacklist_from *@etelweb.com
 blacklist_from *.etelweb.it
 blacklist_from *.extremebit.it
 blacklist_from *.factory.blueweeklylynk.top
