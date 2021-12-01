@@ -1,3 +1,5 @@
+blacklist_from *@dndwebdesign.com
+blacklist_from *.dndwebdesign.com
 blacklist_from *@quotes-expert.com
 blacklist_from *.quotes-expert.com
 blacklist_from *@ouzhoubeiqyhjg.com
