@@ -1,3 +1,5 @@
+blacklist_from *@ultimawp.com
+blacklist_from *.ultimawp.com
 blacklist_from *@bobokom.site
 blacklist_from *.bobokom.site
 blacklist_from *@offer-experts.com
