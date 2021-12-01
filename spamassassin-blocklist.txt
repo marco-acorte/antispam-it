@@ -1,3 +1,5 @@
+blacklist_from *@email-connekt.cloud
+blacklist_from *.email-connekt.cloud
 blacklist_from *@bonolaoffice.com
 blacklist_from *.bonolaoffice.com
 blacklist_from *@bonolaoffice.eu
