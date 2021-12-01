@@ -1,3 +1,5 @@
+blacklist_from *@posizionamentogooglebrescia.it
+blacklist_from *.posizionamentogooglebrescia.it
 blacklist_from *@dndwebdesign.com
 blacklist_from *.dndwebdesign.com
 blacklist_from *@quotes-expert.com
