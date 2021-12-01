@@ -1,3 +1,5 @@
+blacklist_from *@scapcshop.com
+blacklist_from *.scapcshop.com
 blacklist_from *@spicyisgood.com
 blacklist_from *.spicyisgood.com
 blacklist_from *@demcampagne.it
