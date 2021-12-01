@@ -161,6 +161,9 @@ blacklist_from *.estimate.redimmediatelynk.top
 blacklist_from *.etelweb.com
 blacklist_from *@etelweb.com
 blacklist_from *.etelweb.it
+blacklist_from *@etelweb.it
+blacklist_from *.etelwebmedical.it
+blacklist_from *@etelwebmedical.it
 blacklist_from *.extremebit.it
 blacklist_from *.factory.blueweeklylynk.top
 blacklist_from *.fasteragents.com
