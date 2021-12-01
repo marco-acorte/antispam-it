@@ -1,3 +1,5 @@
+blacklist_from *@webmetrics.it
+blacklist_from *.webmetrics.it
 blacklist_from *@ilmomentoperfetto.com
 blacklist_from *.ilmomentoperfetto.com
 blacklist_from *@business-reg.net
