@@ -1,3 +1,5 @@
+blacklist_from *@ebr.directory
+blacklist_from *.ebr.directory
 blacklist_from *.xjsandals.com
 blacklist_from *.espansionegrafica.it
 blacklist_from *.promopermail.com
