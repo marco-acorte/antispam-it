@@ -1,3 +1,5 @@
+blacklist_from *@bonolaoffice.eu
+blacklist_from *.bonolaoffice.eu
 blacklist_from *@ultimawp.com
 blacklist_from *.ultimawp.com
 blacklist_from *@bobokom.site
