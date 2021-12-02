@@ -1,3 +1,11 @@
+blacklist_from *@shopnetllc.com
+blacklist_from *.shopnetllc.com
+blacklist_from *@socialurbi.com
+blacklist_from *.socialurbi.com
+blacklist_from *@dpi48.it
+blacklist_from *.dpi48.it
+blacklist_from *@biztohigher.com
+blacklist_from *.biztohigher.com
 blacklist_from *@medecongreateco.com
 blacklist_from *.medecongreateco.com
 blacklist_from *@greatecoglove.com
