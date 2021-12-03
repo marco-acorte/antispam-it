@@ -755,3 +755,5 @@ blacklist_from pandolwe@gmail.com
 blacklist_from satyabanseoconsultant01@gmail.com
 blacklist_from huong4s1604@gmail.com
 blacklist_from misshuongvippro@gmail.com
+blacklist_from davidepetrella.mida@gmail.com
+blacklist_from vetrineartigiani@gmail.com
