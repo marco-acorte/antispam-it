@@ -8,7 +8,7 @@ le liste sono:
 
 - antispam-it.txt (DNSBL da usare come filtri per client di posta o per filtri server)
 - ip-to-ban.txt (lista ip per firewall blocklist)
-- antispam-emails.txt (indirizzi emails competi da bloccare, vengono aggiunti in spamassassin-blocklist.txt)
+- antispam-emails.txt (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
 - spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
 
 ## 💖 Sostieni lo sviluppo
