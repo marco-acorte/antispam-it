@@ -1,3 +1,5 @@
+blacklist_from *@lmkyz.com
+blacklist_from *.@lmkyz.com
 blacklist_from *@xzlicai.com
 blacklist_from *.@xzlicai.com
 blacklist_from *@lmkzd.com
