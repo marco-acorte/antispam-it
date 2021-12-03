@@ -1,3 +1,5 @@
+blacklist_from *@proof-connekt.co
+blacklist_from *.@proof-connekt.co
 blacklist_from *@lmkyz.com
 blacklist_from *.@lmkyz.com
 blacklist_from *@xzlicai.com
