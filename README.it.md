@@ -10,6 +10,7 @@ le liste sono:
 - ip-to-ban.txt (lista ip per firewall blocklist)
 - antispam-emails.txt (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
 - spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
+- outlook-blocklist.txt (regole già pronte per essere aggiunte a MS Outlook)
 
 ## 💖 Sostieni lo sviluppo
 
