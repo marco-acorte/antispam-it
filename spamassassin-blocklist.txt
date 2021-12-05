@@ -772,3 +772,4 @@ blacklist_from misshuongvippro@gmail.com
 blacklist_from davidepetrella.mida@gmail.com
 blacklist_from vetrineartigiani@gmail.com
 blacklist_from thomasmontag8@gmail.com
+blacklist_from chikyujin2019@gmail.com
