@@ -1,3 +1,5 @@
+blacklist_from *@diff-connekt.cloud
+blacklist_from *.diff-connekt.cloud
 blacklist_from *@gikousya.com
 blacklist_from *.gikousya.com
 blacklist_from *@proof-connekt.co
