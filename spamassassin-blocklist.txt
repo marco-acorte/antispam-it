@@ -1,3 +1,5 @@
+blacklist_from *@motherdaygifts.monster
+blacklist_from *.motherdaygifts.monster
 blacklist_from *@dcsrb.com
 blacklist_from *.dcsrb.com
 blacklist_from *@yfanss.com
