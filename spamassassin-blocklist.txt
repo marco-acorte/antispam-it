@@ -1,3 +1,13 @@
+blacklist_from *@offertarapida.it
+blacklist_from *.offertarapida.it
+blacklist_from *@offertoner.info
+blacklist_from *.offertoner.info
+blacklist_from *@p-pconsulting.it
+blacklist_from *.p-pconsulting.it
+blacklist_from *@p-pconsulting.com 
+blacklist_from *.p-pconsulting.com 
+blacklist_from *@serversmtpbond.com
+blacklist_from *.serversmtpbond.com
 blacklist_from *@customnameprints.com
 blacklist_from *.customnameprints.com
 blacklist_from *@motherdaygifts.monster
@@ -777,3 +787,4 @@ blacklist_from davidepetrella.mida@gmail.com
 blacklist_from vetrineartigiani@gmail.com
 blacklist_from thomasmontag8@gmail.com
 blacklist_from chikyujin2019@gmail.com
+blacklist_from thuhabinbon@gmail.com
