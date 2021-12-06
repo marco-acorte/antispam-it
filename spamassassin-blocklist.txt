@@ -788,3 +788,4 @@ blacklist_from vetrineartigiani@gmail.com
 blacklist_from thomasmontag8@gmail.com
 blacklist_from chikyujin2019@gmail.com
 blacklist_from thuhabinbon@gmail.com
+blacklist_from compatibilirigenerati@gmail.com
