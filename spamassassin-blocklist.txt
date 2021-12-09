@@ -1,3 +1,7 @@
+blacklist_from *@emails-lynk.cloud
+blacklist_from *.emails-lynk.cloud
+blacklist_from *@accaps.top
+blacklist_from *.accaps.top
 blacklist_from *@offertarapida.it
 blacklist_from *.offertarapida.it
 blacklist_from *@offertoner.info
@@ -789,3 +793,5 @@ blacklist_from thomasmontag8@gmail.com
 blacklist_from chikyujin2019@gmail.com
 blacklist_from thuhabinbon@gmail.com
 blacklist_from compatibilirigenerati@gmail.com
+blacklist_from iltuonuovoeshop@gmail.com
+blacklist_from officialnine10@outlook.com
