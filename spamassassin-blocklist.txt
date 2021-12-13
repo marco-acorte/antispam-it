@@ -1,3 +1,5 @@
+blacklist_from *@offertefantastiche.eu
+blacklist_from *.offertefantastiche.eu
 blacklist_from *@emails-lynk.cloud
 blacklist_from *.emails-lynk.cloud
 blacklist_from *@accaps.top
