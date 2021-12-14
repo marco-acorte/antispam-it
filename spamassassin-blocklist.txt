@@ -1,3 +1,5 @@
+blacklist_from *@e-italyfood.com
+blacklist_from *.e-italyfood.com
 blacklist_from *@promozioniclktr.eu
 blacklist_from *.promozioniclktr.eu
 blacklist_from *@offertefantastiche.eu
@@ -12,8 +14,8 @@ blacklist_from *@offertoner.info
 blacklist_from *.offertoner.info
 blacklist_from *@p-pconsulting.it
 blacklist_from *.p-pconsulting.it
-blacklist_from *@p-pconsulting.com 
-blacklist_from *.p-pconsulting.com 
+blacklist_from *@p-pconsulting.com
+blacklist_from *.p-pconsulting.com
 blacklist_from *@serversmtpbond.com
 blacklist_from *.serversmtpbond.com
 blacklist_from *@customnameprints.com
@@ -48,8 +50,8 @@ blacklist_from *@letters-connekt.cloud
 blacklist_from *.letters-connekt.cloud
 blacklist_from *@globaltrados.it
 blacklist_from *.globaltrados.it
-blacklist_from *@globaltrados.eu 
-blacklist_from *.globaltrados.eu 
+blacklist_from *@globaltrados.eu
+blacklist_from *.globaltrados.eu
 blacklist_from *@world-designer.org
 blacklist_from *.world-designer.org
 blacklist_from *@atlasoftwares.com
