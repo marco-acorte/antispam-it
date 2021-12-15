@@ -1,3 +1,7 @@
+blacklist_from *@medium-lynk.cloud
+blacklist_from *.medium-lynk.cloud
+blacklist_from *@company-connekt.co
+blacklist_from *.company-connekt.co
 blacklist_from *@e-italyfood.com
 blacklist_from *.e-italyfood.com
 blacklist_from *@promozioniclktr.eu
