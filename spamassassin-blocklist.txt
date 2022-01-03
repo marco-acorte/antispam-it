@@ -110,6 +110,8 @@ blacklist_from *@bonolaoffice.com
 blacklist_from *.bonolaoffice.com
 blacklist_from *@bonolaoffice.eu
 blacklist_from *.bonolaoffice.eu
+blacklist_from *@bonolaoffice.it
+blacklist_from *.bonolaoffice.it
 blacklist_from *@ultimawp.com
 blacklist_from *.ultimawp.com
 blacklist_from *@bobokom.site
