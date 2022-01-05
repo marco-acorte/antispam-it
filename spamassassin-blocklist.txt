@@ -1,3 +1,5 @@
+blacklist_from *@interlysun.com
+blacklist_from *.interlysun.com
 blacklist_from *@zxkrb.com
 blacklist_from *.zxkrb.com
 blacklist_from *@protettivo.net
