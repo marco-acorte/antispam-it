@@ -1,5 +1,11 @@
 blacklist_from *@fondazionefenice.it
 blacklist_from *.fondazionefenice.it
+blacklist_from *@interlysun.com
+blacklist_from *.interlysun.com
+blacklist_from *@zxkrb.com
+blacklist_from *.zxkrb.com
+blacklist_from *@protettivo.net
+blacklist_from *.protettivo.net
 blacklist_from *@medium-lynk.cloud
 blacklist_from *.medium-lynk.cloud
 blacklist_from *@company-connekt.co
@@ -112,6 +118,8 @@ blacklist_from *@bonolaoffice.com
 blacklist_from *.bonolaoffice.com
 blacklist_from *@bonolaoffice.eu
 blacklist_from *.bonolaoffice.eu
+blacklist_from *@bonolaoffice.it
+blacklist_from *.bonolaoffice.it
 blacklist_from *@ultimawp.com
 blacklist_from *.ultimawp.com
 blacklist_from *@bobokom.site
@@ -782,6 +790,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from *@zekelliott.com
+blacklist_from *.zekelliott.com
 blacklist_from web.creative99@gmail.com
 blacklist_from tonercartucceshop@gmail.com
 blacklist_from ngocqui2771990@gmail.com
@@ -808,3 +818,5 @@ blacklist_from compatibilirigenerati@gmail.com
 blacklist_from iltuonuovoeshop@gmail.com
 blacklist_from officialnine10@outlook.com
 blacklist_from cerfun@aol.com
+blacklist_from info654609@gmail.com
+blacklist_from tranthihien36k15.2@gmail.com
