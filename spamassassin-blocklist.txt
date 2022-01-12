@@ -1,3 +1,5 @@
+blacklist_from *@green-jobs.it
+blacklist_from *.green-jobs.it
 blacklist_from *@fondazionefenice.it
 blacklist_from *.fondazionefenice.it
 blacklist_from *@interlysun.com
