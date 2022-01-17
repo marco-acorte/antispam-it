@@ -1,5 +1,9 @@
 blacklist_from *@mygiftshop.xyz
 blacklist_from *.mygiftshop.xyz
+blacklist_from *@mail-nmg.com
+blacklist_from *.mail-nmg.com
+blacklist_from *@green-jobs.it
+blacklist_from *.green-jobs.it
 blacklist_from *@fondazionefenice.it
 blacklist_from *.fondazionefenice.it
 blacklist_from *@interlysun.com
