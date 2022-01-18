@@ -827,3 +827,4 @@ blacklist_from cerfun@aol.com
 blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
+blacklist_from jamilyob830@gmail.com
