@@ -1,3 +1,5 @@
+blacklist_from *@o-sites.online
+blacklist_from *.o-sites.online
 blacklist_from *@mygiftshop.xyz
 blacklist_from *.mygiftshop.xyz
 blacklist_from *@mail-nmg.com
