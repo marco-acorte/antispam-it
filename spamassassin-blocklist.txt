@@ -1,3 +1,5 @@
+blacklist_from *@edilnet.it
+blacklist_from *.edilnet.it
 blacklist_from *@medium-bridging.co
 blacklist_from *.medium-bridging.co
 blacklist_from *@corporate-funnel.co
