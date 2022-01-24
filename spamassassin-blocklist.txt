@@ -1,3 +1,5 @@
+blacklist_from *@super-lotto.com
+blacklist_from *.super-lotto.com
 blacklist_from *@edilnet.it
 blacklist_from *.edilnet.it
 blacklist_from *@medium-bridging.co
