@@ -1,3 +1,5 @@
+blacklist_from *@onelive.group
+blacklist_from *.onelive.group
 blacklist_from *@topmailing.eu
 blacklist_from *.topmailing.eu
 blacklist_from *@toptoner.info
