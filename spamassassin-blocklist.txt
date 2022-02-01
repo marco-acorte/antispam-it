@@ -1,3 +1,5 @@
+blacklist_from *@topmailing.eu
+blacklist_from *.topmailing.eu
 blacklist_from *@toptoner.info
 blacklist_from *.toptoner.info
 blacklist_from *@yougetnow.com
