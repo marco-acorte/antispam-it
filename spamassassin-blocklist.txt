@@ -1,3 +1,5 @@
+blacklist_from *@officetoner.info
+blacklist_from *.officetoner.info
 blacklist_from *@onelive.group
 blacklist_from *.onelive.group
 blacklist_from *@topmailing.eu
@@ -816,6 +818,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from tonercartucceshop@gmail.com
 blacklist_from hoathuytien173@gmail.com
 blacklist_from webmarketing.net15@mail.ru
 blacklist_from web.creative99@gmail.com
