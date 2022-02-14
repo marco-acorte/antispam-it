@@ -1,3 +1,9 @@
+blacklist_from *@img.cart-checkout.com
+blacklist_from *.img.cart-checkout.com
+blacklist_from *@gearlaunch-prod.imgix.net
+blacklist_from *.gearlaunch-prod.imgix.net
+blacklist_from *@plusbase.click
+blacklist_from *.plusbase.click
 blacklist_from *@officetoner.info
 blacklist_from *.officetoner.info
 blacklist_from *@onelive.group
@@ -818,6 +824,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from hcmavan@gmail.com
 blacklist_from tonercartucceshop@gmail.com
 blacklist_from hoathuytien173@gmail.com
 blacklist_from webmarketing.net15@mail.ru
