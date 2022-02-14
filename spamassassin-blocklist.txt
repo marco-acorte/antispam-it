@@ -1,3 +1,5 @@
+blacklist_from *@tuytehfapp.eu
+blacklist_from *.tuytehfapp.eu
 blacklist_from *@img.cart-checkout.com
 blacklist_from *.img.cart-checkout.com
 blacklist_from *@gearlaunch-prod.imgix.net
