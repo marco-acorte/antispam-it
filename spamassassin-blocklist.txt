@@ -1,3 +1,5 @@
+blacklist_from *@webbooster.info
+blacklist_from *.webbooster.info
 blacklist_from *@tuytehfapp.eu
 blacklist_from *.tuytehfapp.eu
 blacklist_from *@img.cart-checkout.com
