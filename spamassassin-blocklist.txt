@@ -1,3 +1,5 @@
+blacklist_from *@sentforyou.com
+blacklist_from *.sentforyou.com
 blacklist_from *@preventivi-azienda.it
 blacklist_from *.preventivi-azienda.it
 blacklist_from *@rewardmarketing.co
