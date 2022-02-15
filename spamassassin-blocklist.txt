@@ -1,3 +1,13 @@
+blacklist_from *@preventivi-azienda.it
+blacklist_from *.preventivi-azienda.it
+blacklist_from *@rewardmarketing.co
+blacklist_from *.rewardmarketing.co
+blacklist_from *@socialperformance.top
+blacklist_from *.socialperformance.top
+blacklist_from *@quicktrace.co
+blacklist_from *.quicktrace.co
+blacklist_from *@ultrarelay.co
+blacklist_from *.ultrarelay.co
 blacklist_from *@webbooster.info
 blacklist_from *.webbooster.info
 blacklist_from *@tuytehfapp.eu
