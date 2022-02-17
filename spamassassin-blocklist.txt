@@ -1,3 +1,5 @@
+blacklist_from *@buymarket.net
+blacklist_from *.buymarket.net
 blacklist_from *@fluter.co
 blacklist_from *.fluter.co
 blacklist_from *@t-shirt4engineers.store
