@@ -1,3 +1,5 @@
+blacklist_from *@fluter.co
+blacklist_from *.fluter.co
 blacklist_from *@t-shirt4engineers.store
 blacklist_from *.t-shirt4engineers.store
 blacklist_from *@sentforyou.com
