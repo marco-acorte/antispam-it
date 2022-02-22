@@ -1,3 +1,5 @@
+blacklist_from *@yellowemailer.com
+blacklist_from *.yellowemailer.com
 blacklist_from *@affactions.co
 blacklist_from *.affactions.co
 blacklist_from *@yelloweditions.com
