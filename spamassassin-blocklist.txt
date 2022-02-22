@@ -1,3 +1,9 @@
+blacklist_from *@l-iberan.org.uk
+blacklist_from *.l-iberan.org.uk
+blacklist_from *@newstre.org.uk
+blacklist_from *.newstre.org.uk
+blacklist_from *@a-rdsdy.co.uk
+blacklist_from *.a-rdsdy.co.uk
 blacklist_from *@yellowemailer.com
 blacklist_from *.yellowemailer.com
 blacklist_from *@affactions.co
