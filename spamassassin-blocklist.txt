@@ -1,3 +1,7 @@
+blacklist_from *@affactions.co
+blacklist_from *.affactions.co
+blacklist_from *@yelloweditions.com
+blacklist_from *.yelloweditions.com
 blacklist_from *@globaltrad.it
 blacklist_from *.globaltrad.it
 blacklist_from *@buymarket.net
