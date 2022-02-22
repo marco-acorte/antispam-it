@@ -1,3 +1,5 @@
+blacklist_from *@globaltrad.it
+blacklist_from *.globaltrad.it
 blacklist_from *@buymarket.net
 blacklist_from *.buymarket.net
 blacklist_from *@fluter.co
