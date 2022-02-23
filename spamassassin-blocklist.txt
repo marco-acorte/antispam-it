@@ -1,3 +1,5 @@
+blacklist_from *@vbs-srl.it
+blacklist_from *.vbs-srl.it
 blacklist_from *@l-iberan.org.uk
 blacklist_from *.l-iberan.org.uk
 blacklist_from *@newstre.org.uk
