@@ -1,3 +1,11 @@
+blacklist_from *@p-pconsulting.com
+blacklist_from *.p-pconsulting.com
+blacklist_from *@p-pconsulting.it
+blacklist_from *.p-pconsulting.it
+blacklist_from *@p-pcommerce.com
+blacklist_from *.p-pcommerce.com
+blacklist_from *@mailtrack.me
+blacklist_from *.mailtrack.me
 blacklist_from *@vbs-srl.it
 blacklist_from *.vbs-srl.it
 blacklist_from *@l-iberan.org.uk
