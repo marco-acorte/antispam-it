@@ -1,3 +1,7 @@
+blacklist_from *@apollon-attuale.it
+blacklist_from *.apollon-attuale.it
+blacklist_from *@apollon2go.com
+blacklist_from *.apollon2go.com
 blacklist_from *@p-pconsulting.com
 blacklist_from *.p-pconsulting.com
 blacklist_from *@p-pconsulting.it
