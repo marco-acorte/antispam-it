@@ -874,6 +874,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from ezcertificazioni47@gmail.com
+blacklist_from elisabetta-zanasi@libero.it
 blacklist_from roodneuyhitupp@gmail.com
 blacklist_from hcmavan@gmail.com
 blacklist_from tonercartucceshop@gmail.com
