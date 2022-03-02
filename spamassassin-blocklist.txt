@@ -1,3 +1,7 @@
+blacklist_from *@stikabros.com
+blacklist_from *.stikabros.com
+blacklist_from *@zecrb.com
+blacklist_from *.zecrb.com
 blacklist_from *@apollon-attuale.it
 blacklist_from *.apollon-attuale.it
 blacklist_from *@apollon2go.com
