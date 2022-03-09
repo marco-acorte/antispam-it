@@ -1,3 +1,7 @@
+blacklist_from *@sedesign.site
+blacklist_from *.sedesign.site
+blacklist_from *@rabbitandjohn.com
+blacklist_from *.rabbitandjohn.com
 blacklist_from *@stikabros.com
 blacklist_from *.stikabros.com
 blacklist_from *@zecrb.com
