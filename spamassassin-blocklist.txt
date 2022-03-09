@@ -1,3 +1,5 @@
+blacklist_from *@xunkangpackage.com
+blacklist_from *.xunkangpackage.com
 blacklist_from *@sedesign.site
 blacklist_from *.sedesign.site
 blacklist_from *@rabbitandjohn.com
