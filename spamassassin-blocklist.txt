@@ -1,3 +1,11 @@
+blacklist_from *@achmements.fr
+blacklist_from *.achmements.fr
+blacklist_from *@constructq.fr
+blacklist_from *.constructq.fr
+blacklist_from *@quantimessage.fr
+blacklist_from *.quantimessage.fr
+blacklist_from *@voicicemessage.fr
+blacklist_from *.voicicemessage.fr
 blacklist_from *@xunkangpackage.com
 blacklist_from *.xunkangpackage.com
 blacklist_from *@sedesign.site
