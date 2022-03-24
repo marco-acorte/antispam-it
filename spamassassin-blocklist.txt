@@ -1,3 +1,7 @@
+blacklist_from *@tradingeducators.it
+blacklist_from *.tradingeducators.it
+blacklist_from *@mac-reloades.eu
+blacklist_from *.mac-reloades.eu
 blacklist_from *@lrbzd.com
 blacklist_from *.lrbzd.com
 blacklist_from *@wwl-sh.com
