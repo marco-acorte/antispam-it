@@ -920,6 +920,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from elisabettazanasi76@gmail.com
+blacklist_from elisabetta-zanasi@libero.it
 blacklist_from chungzhao2014@gmail.com
 blacklist_from ezcertificazioni47@gmail.com
 blacklist_from elisabetta-zanasi@libero.it
