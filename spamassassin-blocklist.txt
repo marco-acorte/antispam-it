@@ -1,3 +1,7 @@
+blacklist_from *@dracmaservice.it
+blacklist_from *.dracmaservice.it
+blacklist_from *@marketmail.it
+blacklist_from *.marketmail.it
 blacklist_from *@tradingeducators.it
 blacklist_from *.tradingeducators.it
 blacklist_from *@mac-reloades.eu
