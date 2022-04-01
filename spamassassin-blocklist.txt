@@ -1,3 +1,7 @@
+blacklist_from *@dasrb.com
+blacklist_from *.dasrb.com
+blacklist_from *@ero-star-24.com
+blacklist_from *.ero-star-24.com
 blacklist_from *@riassuntodelmese.com
 blacklist_from *.riassuntodelmese.com
 blacklist_from *@datawork.agency
