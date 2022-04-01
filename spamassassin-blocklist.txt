@@ -1,3 +1,7 @@
+blacklist_from *@riassuntodelmese.com
+blacklist_from *.riassuntodelmese.com
+blacklist_from *@datawork.agency
+blacklist_from *.datawork.agency
 blacklist_from *@dracmaservice.it
 blacklist_from *.dracmaservice.it
 blacklist_from *@marketmail.it
