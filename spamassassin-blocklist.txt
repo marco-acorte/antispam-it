@@ -936,6 +936,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from djarassoba@gmail.com
+blacklist_from direzion.polizia05@gmail.com
 blacklist_from elisabettazanasi76@gmail.com
 blacklist_from elisabetta-zanasi@libero.it
 blacklist_from chungzhao2014@gmail.com
