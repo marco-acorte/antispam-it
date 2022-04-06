@@ -1,3 +1,5 @@
+blacklist_from *@vbs-srl.com
+blacklist_from *.vbs-srl.com
 blacklist_from *@klenhosnc.com
 blacklist_from *.klenhosnc.com
 blacklist_from *@italiadigitalagency.it
