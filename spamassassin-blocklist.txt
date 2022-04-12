@@ -1,3 +1,5 @@
+blacklist_from *@geguniversal.it
+blacklist_from *.geguniversal.it
 blacklist_from *@vbs-srl.com
 blacklist_from *.vbs-srl.com
 blacklist_from *@klenhosnc.com
