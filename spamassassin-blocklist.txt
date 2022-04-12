@@ -1,3 +1,9 @@
+blacklist_from *@mgpg.it
+blacklist_from *.mgpg.it
+blacklist_from *@mg.cor.to.it
+blacklist_from *.mg.cor.to.it
+blacklist_from *@mggroupitalia.net
+blacklist_from *.mggroupitalia.net
 blacklist_from *@geguniversal.it
 blacklist_from *.geguniversal.it
 blacklist_from *@vbs-srl.com
