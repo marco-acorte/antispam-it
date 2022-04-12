@@ -1,3 +1,7 @@
+blacklist_from *@bonolacenter.it
+blacklist_from *.bonolacenter.it
+blacklist_from *@serversmtproute.com
+blacklist_from *.serversmtproute.com
 blacklist_from *@mgpg.it
 blacklist_from *.mgpg.it
 blacklist_from *@mg.cor.to.it
