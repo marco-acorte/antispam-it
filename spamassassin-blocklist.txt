@@ -1,3 +1,7 @@
+blacklist_from *@seo-allen-tx.com
+blacklist_from *.seo-allen-tx.com
+blacklist_from *@zwwrb.com
+blacklist_from *.zwwrb.com
 blacklist_from *@bonolacenter.it
 blacklist_from *.bonolacenter.it
 blacklist_from *@serversmtproute.com
