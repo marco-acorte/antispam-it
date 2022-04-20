@@ -1,3 +1,5 @@
+blacklist_from *@agenziawindtre.com
+blacklist_from *.agenziawindtre.com
 blacklist_from *@ideedelgiorno.com
 blacklist_from *.ideedelgiorno.com
 blacklist_from *@demagenzia.com
