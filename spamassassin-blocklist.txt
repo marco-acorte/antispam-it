@@ -1,3 +1,5 @@
+blacklist_from *@ideedelgiorno.com
+blacklist_from *.ideedelgiorno.com
 blacklist_from *@demagenzia.com
 blacklist_from *.demagenzia.com
 blacklist_from *@campagnedemitalia.it
