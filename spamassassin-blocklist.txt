@@ -1,3 +1,7 @@
+blacklist_from *@lasfloristas.in
+blacklist_from *.lasfloristas.in
+blacklist_from *@cenitmodelos.com.mx
+blacklist_from *.cenitmodelos.com.mx
 blacklist_from *@agenziawindtre.com
 blacklist_from *.agenziawindtre.com
 blacklist_from *@ideedelgiorno.com
