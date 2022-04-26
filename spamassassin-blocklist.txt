@@ -1,3 +1,5 @@
+blacklist_from *@asoter.it
+blacklist_from *.asoter.it
 blacklist_from *@ebrregistry.company
 blacklist_from *.ebrregistry.company
 blacklist_from *@lasfloristas.in
