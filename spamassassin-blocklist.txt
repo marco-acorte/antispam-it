@@ -1,3 +1,5 @@
+blacklist_from *@engagio.eu
+blacklist_from *.engagio.eu
 blacklist_from *@crisrecomienda.com
 blacklist_from *.crisrecomienda.com
 blacklist_from *@attivitasettimanale.com
