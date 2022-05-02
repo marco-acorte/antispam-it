@@ -1,3 +1,5 @@
+blacklist_from *@emailofferte.it
+blacklist_from *.emailofferte.it
 blacklist_from *@notebookricondizionati.store
 blacklist_from *.notebookricondizionati.store
 blacklist_from *@engagio.eu
