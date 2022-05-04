@@ -984,6 +984,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from clickbank.contactus@gmail.com
+blacklist_from krtatbeasi@gmail.com
 blacklist_from infos.poliziadistato@gmail.com
 blacklist_from wabisco05@gmail.com
 blacklist_from djarassoba@gmail.com
