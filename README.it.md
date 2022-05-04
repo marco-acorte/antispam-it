@@ -17,5 +17,6 @@ le liste sono:
 ### Ti piace questo progetto? Sostienilo donando
 
 - PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
+- Liberapay: [Donazione](https://liberapay.com/acor3/donate)
 
 Antispam-it è un software open source concesso in licenza con licenza  [GNU GENERAL PUBLIC LICENSE](LICENSE).
