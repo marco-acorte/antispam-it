@@ -1,3 +1,5 @@
+blacklist_from *@aplushitech.info
+blacklist_from *.aplushitech.info
 blacklist_from *@pro-usb.eu
 blacklist_from *.pro-usb.eu
 blacklist_from *@cercalooggi.com
