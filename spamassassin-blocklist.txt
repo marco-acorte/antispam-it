@@ -1,3 +1,5 @@
+blacklist_from *@cercalooggi.com
+blacklist_from *.cercalooggi.com
 blacklist_from *@rincondesugerencias.com
 blacklist_from *.rincondesugerencias.com
 blacklist_from *@emailofferte.it
