@@ -1,3 +1,5 @@
+blacklist_from *@printbasez.store
+blacklist_from *.printbasez.store
 blacklist_from *@selezioneperte.com
 blacklist_from *.selezioneperte.com
 blacklist_from *@magellano-posizionamento.it
