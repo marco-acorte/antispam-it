@@ -1,3 +1,5 @@
+blacklist_from *@pro-offerta.it
+blacklist_from *.pro-offerta.it
 blacklist_from *@printbasez.store
 blacklist_from *.printbasez.store
 blacklist_from *@selezioneperte.com
