@@ -1,3 +1,5 @@
+blacklist_from *@encorelapourla.fr
+blacklist_from *.encorelapourla.fr
 blacklist_from *@hbpnkz.ru
 blacklist_from *.hbpnkz.ru
 blacklist_from *@pro-offerta.it
