@@ -1,3 +1,5 @@
+blacklist_from *@hjlogistic.top
+blacklist_from *.hjlogistic.top
 blacklist_from *@techcodebuilders.com
 blacklist_from *.techcodebuilders.com
 blacklist_from *@ainp.site
