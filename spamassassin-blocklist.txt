@@ -1,3 +1,7 @@
+blacklist_from *@impresedigital.it
+blacklist_from *.impresedigital.it
+blacklist_from *@eoaclk.com
+blacklist_from *.eoaclk.com
 blacklist_from *@encorelapourla.fr
 blacklist_from *.encorelapourla.fr
 blacklist_from *@hbpnkz.ru
