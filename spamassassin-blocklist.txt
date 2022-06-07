@@ -1016,6 +1016,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from shanti.webdevelopmentservic@outlook.com
 blacklist_from phongaipy@gmail.com
 blacklist_from clickbank.contactus@gmail.com
 blacklist_from krtatbeasi@gmail.com
