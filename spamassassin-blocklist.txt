@@ -1,3 +1,5 @@
+blacklist_from *@lofipod.cfd
+blacklist_from *.lofipod.cfd
 blacklist_from *@global-info.it
 blacklist_from *.global-info.it
 blacklist_from *@hjlogistic.top
@@ -1020,6 +1022,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from jodimaldonado823@gmail.com
 blacklist_from portalidelturista@gmail.com
 blacklist_from shanti.webdevelopmentservic@outlook.com
 blacklist_from phongaipy@gmail.com
