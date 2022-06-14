@@ -1,3 +1,7 @@
+blacklist_from *@mytrille.fr
+blacklist_from *.mytrille.fr
+blacklist_from *@aslapts.fr
+blacklist_from *.aslapts.fr
 blacklist_from *@lofipod.cfd
 blacklist_from *.lofipod.cfd
 blacklist_from *@global-info.it
