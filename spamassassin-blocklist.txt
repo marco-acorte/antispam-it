@@ -1,3 +1,5 @@
+blacklist_from *@isaemailmarketing.info
+blacklist_from *.isaemailmarketing.info
 blacklist_from *@astutesoftwares.com
 blacklist_from *.astutesoftwares.com
 blacklist_from *@eharbour.net
