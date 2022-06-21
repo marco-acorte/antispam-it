@@ -1,3 +1,5 @@
+blacklist_from *@takeoffcrm.com
+blacklist_from *.takeoffcrm.com
 blacklist_from *@isaemailmarketing.info
 blacklist_from *.isaemailmarketing.info
 blacklist_from *@astutesoftwares.com
