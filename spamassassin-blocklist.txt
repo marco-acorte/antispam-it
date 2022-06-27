@@ -1,3 +1,5 @@
+blacklist_from *@amicale-portal.fr
+blacklist_from *.amicale-portal.fr
 blacklist_from *@thecode-crafters.com
 blacklist_from *.thecode-crafters.com
 blacklist_from *@takeoffcrm.com
