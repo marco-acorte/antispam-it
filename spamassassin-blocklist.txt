@@ -1,3 +1,5 @@
+blacklist_from *@ebr-database.gq
+blacklist_from *.ebr-database.gq
 blacklist_from *@adashopping.it
 blacklist_from *.adashopping.it
 blacklist_from *@agency-performance.it
