@@ -1,3 +1,7 @@
+blacklist_from *@flexworkweb.com
+blacklist_from *.flexworkweb.com
+blacklist_from *@flexworktalent.com
+blacklist_from *.flexworktalent.com
 blacklist_from *@roge.rest
 blacklist_from *.roge.rest
 blacklist_from *@rogrands.rest
