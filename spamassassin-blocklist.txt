@@ -1,3 +1,5 @@
+blacklist_from *@companyreg.net
+blacklist_from *.companyreg.net
 blacklist_from *@vaporld.com
 blacklist_from *.vaporld.com
 blacklist_from *@ewooow.com
