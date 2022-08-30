@@ -1,3 +1,5 @@
+blacklist_from *@apoll-b2b-inside.it
+blacklist_from *.apoll-b2b-inside.it
 blacklist_from *@autosuggest.net
 blacklist_from *.autosuggest.net
 blacklist_from *@autosuggest-emails.com
