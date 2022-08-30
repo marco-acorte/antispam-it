@@ -1,3 +1,5 @@
+blacklist_from *@epbg.directory
+blacklist_from *.epbg.directory
 blacklist_from *@pix-corpo-support.pw
 blacklist_from *.pix-corpo-support.pw
 blacklist_from *@croissyour.gq
