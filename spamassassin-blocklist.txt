@@ -1,3 +1,5 @@
+blacklist_from *@epbg-db.com
+blacklist_from *.epbg-db.com
 blacklist_from *@innovationinbusiness.com
 blacklist_from *.innovationinbusiness.com
 blacklist_from *@vbs-srls.com
