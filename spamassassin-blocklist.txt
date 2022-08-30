@@ -1,3 +1,9 @@
+blacklist_from *@autosuggest.net
+blacklist_from *.autosuggest.net
+blacklist_from *@autosuggest-emails.com
+blacklist_from *.autosuggest-emails.com
+blacklist_from *@auto-suggest-web.eu
+blacklist_from *.auto-suggest-web.eu
 blacklist_from *@epbg-db.com
 blacklist_from *.epbg-db.com
 blacklist_from *@innovationinbusiness.com
