@@ -1,3 +1,5 @@
+blacklist_from *@innovationinbusiness.com
+blacklist_from *.innovationinbusiness.com
 blacklist_from *@vbs-srls.com
 blacklist_from *.vbs-srls.com
 blacklist_from *@mg-web.it
