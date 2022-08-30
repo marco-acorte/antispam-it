@@ -1076,6 +1076,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from wyattluke84@gmail.com
 blacklist_from simone.mariaada@libero.it
 blacklist_from noahadam405@gmail.com
 blacklist_from jodimaldonado823@gmail.com
