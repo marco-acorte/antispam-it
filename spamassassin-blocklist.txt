@@ -1,3 +1,5 @@
+blacklist_from *@losmarty.skin
+blacklist_from *.losmarty.skin
 blacklist_from *@rigeneratech.it
 blacklist_from *.rigeneratech.it
 blacklist_from *@epbg.directory
