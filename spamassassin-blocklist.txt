@@ -1,3 +1,5 @@
+blacklist_from *@lowify.rest
+blacklist_from *.lowify.rest
 blacklist_from *@epbg.link
 blacklist_from *.epbg.link
 blacklist_from *@intondo.com
