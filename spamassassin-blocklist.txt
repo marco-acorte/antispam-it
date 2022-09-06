@@ -1,3 +1,5 @@
+blacklist_from *@epbg.link
+blacklist_from *.epbg.link
 blacklist_from *@intondo.com
 blacklist_from *.intondo.com
 blacklist_from *@losmarty.skin
