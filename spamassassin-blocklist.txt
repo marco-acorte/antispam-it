@@ -1,3 +1,5 @@
+blacklist_from *@qstep.it
+blacklist_from *.qstep.it
 blacklist_from *@lowify.rest
 blacklist_from *.lowify.rest
 blacklist_from *@epbg.link
