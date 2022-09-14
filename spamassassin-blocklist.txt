@@ -1,3 +1,5 @@
+blacklist_from *@nameshirts.com
+blacklist_from *.nameshirts.com
 blacklist_from *@strongpod.xyz
 blacklist_from *.strongpod.xyz
 blacklist_from *@qstep.it
