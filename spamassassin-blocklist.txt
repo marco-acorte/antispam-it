@@ -1,3 +1,7 @@
+blacklist_from *@auto-suggest.net
+blacklist_from *.auto-suggest.net
+blacklist_from *@auto-suggest-service.eu
+blacklist_from *.auto-suggest-service.eu
 blacklist_from *@ebr-db.com
 blacklist_from *.ebr-db.com
 blacklist_from *@nameshirts.com
