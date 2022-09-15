@@ -1,3 +1,5 @@
+blacklist_from *@eitservices.co
+blacklist_from *.eitservices.co
 blacklist_from *@auto-suggest.net
 blacklist_from *.auto-suggest.net
 blacklist_from *@auto-suggest-service.eu
