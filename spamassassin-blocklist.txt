@@ -1,3 +1,5 @@
+blacklist_from *@ebr-db.com
+blacklist_from *.ebr-db.com
 blacklist_from *@nameshirts.com
 blacklist_from *.nameshirts.com
 blacklist_from *@strongpod.xyz
