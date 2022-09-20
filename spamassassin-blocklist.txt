@@ -1,3 +1,5 @@
+blacklist_from *@generatoredicorrente7kw.com
+blacklist_from *.generatoredicorrente7kw.com
 blacklist_from *@business-db.net
 blacklist_from *.business-db.net
 blacklist_from *@eitservices.co
