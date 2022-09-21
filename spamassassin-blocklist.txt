@@ -1,3 +1,7 @@
+blacklist_from *@zprogression.co
+blacklist_from *.zprogression.co
+blacklist_from *@progressyour.tk
+blacklist_from *.progressyour.tk
 blacklist_from *@generatoredicorrente7kw.com
 blacklist_from *.generatoredicorrente7kw.com
 blacklist_from *@business-db.net
