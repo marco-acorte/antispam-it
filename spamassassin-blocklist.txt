@@ -1,3 +1,5 @@
+blacklist_from *@toptechninjas.com
+blacklist_from *.toptechninjas.com
 blacklist_from *@progressyour.tk
 blacklist_from *.progressyour.tk
 blacklist_from *@emails-bridging.co
