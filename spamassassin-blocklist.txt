@@ -1,3 +1,5 @@
+blacklist_from *@designagencies.org
+blacklist_from *.designagencies.org
 blacklist_from *@toptechninjas.com
 blacklist_from *.toptechninjas.com
 blacklist_from *@progressyour.tk
