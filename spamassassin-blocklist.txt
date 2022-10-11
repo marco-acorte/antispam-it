@@ -1,3 +1,5 @@
+blacklist_from *@codepro.info
+blacklist_from *.codepro.info
 blacklist_from *@studiolegalecarriero.com
 blacklist_from *.studiolegalecarriero.com
 blacklist_from *@flexworkmail.com
