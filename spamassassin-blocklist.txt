@@ -1,3 +1,5 @@
+blacklist_from *@wiiper.it
+blacklist_from *.wiiper.it
 blacklist_from *@toner-top.info
 blacklist_from *.toner-top.info
 blacklist_from *@dotsoftserve.com
