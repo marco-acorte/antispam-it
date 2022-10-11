@@ -1,3 +1,9 @@
+blacklist_from *@progressyour.tk
+blacklist_from *.progressyour.tk
+blacklist_from *@emails-bridging.co
+blacklist_from *.emails-bridging.co
+blacklist_from *@zprogression.co
+blacklist_from *.zprogression.co
 blacklist_from *@wiiper.it
 blacklist_from *.wiiper.it
 blacklist_from *@toner-top.info
