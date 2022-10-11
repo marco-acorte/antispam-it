@@ -1,3 +1,11 @@
+blacklist_from *@tunedbtob.co
+blacklist_from *.tunedbtob.co
+blacklist_from *@enteringbtob.co
+blacklist_from *.enteringbtob.co
+blacklist_from *@flexy-corpo.cf
+blacklist_from *.flexy-corpo.cf
+blacklist_from *@weekly-corpo.cf
+blacklist_from *.weekly-corpo.cf
 blacklist_from *@morrisconsulting.online
 blacklist_from *.morrisconsulting.online
 blacklist_from *@softenterprisepower.it
