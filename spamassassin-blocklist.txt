@@ -1,3 +1,7 @@
+blacklist_from *@morrisconsulting.online
+blacklist_from *.morrisconsulting.online
+blacklist_from *@softenterprisepower.it
+blacklist_from *.softenterprisepower.it
 blacklist_from *@nhe.seli.rest
 blacklist_from *.nhe.seli.rest
 blacklist_from *@rozame.rest
