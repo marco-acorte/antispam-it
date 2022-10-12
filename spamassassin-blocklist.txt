@@ -1,3 +1,5 @@
+blacklist_from *@isaemailmarketing.co
+blacklist_from *.isaemailmarketing.co
 blacklist_from *@tunedbtob.co
 blacklist_from *.tunedbtob.co
 blacklist_from *@enteringbtob.co
