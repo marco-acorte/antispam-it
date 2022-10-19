@@ -40,6 +40,10 @@ blacklist_from *@flexworkmail.com
 blacklist_from *.flexworkmail.com
 blacklist_from *@ronaldscotivtst.com
 blacklist_from *.ronaldscotivtst.com
+blacklist_from *@mediamarketingshop.it
+blacklist_from *.mediamarketingshop.it
+blacklist_from *@offerteufficio.info
+blacklist_from *.offerteufficio.info
 blacklist_from *@zprogression.co
 blacklist_from *.zprogression.co
 blacklist_from *@progressyour.tk
@@ -1179,7 +1183,6 @@ blacklist_from tonercartucceshop@gmail.com
 blacklist_from hoathuytien173@gmail.com
 blacklist_from webmarketing.net15@mail.ru
 blacklist_from web.creative99@gmail.com
-blacklist_from tonercartucceshop@gmail.com
 blacklist_from ngocqui2771990@gmail.com
 blacklist_from bubokova@centrum.cz
 blacklist_from cugepbisa@gmail.com
