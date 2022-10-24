@@ -4,6 +4,8 @@
 
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
+Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
+
 the lists are:
 
 - antispam-it.txt (DNSBL to be used as mail client filters or server filters)
