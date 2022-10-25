@@ -1,3 +1,7 @@
+blacklist_from *@larepubblica.online
+blacklist_from *.larepubblica.online
+blacklist_from *@instant-finance-deals-daily.com
+blacklist_from *.instant-finance-deals-daily.com
 blacklist_from *@db-registry.com
 blacklist_from *.db-registry.com
 blacklist_from *@isaemailmarketing.co
