@@ -1,3 +1,9 @@
+blacklist_from *@services-pagamento.com
+blacklist_from *.services-pagamento.com
+blacklist_from *@vipcontol.me
+blacklist_from *.vipcontol.me
+blacklist_from *@streb-engineering.com
+blacklist_from *.streb-engineering.com
 blacklist_from *@larepubblica.online
 blacklist_from *.larepubblica.online
 blacklist_from *@instant-finance-deals-daily.com
