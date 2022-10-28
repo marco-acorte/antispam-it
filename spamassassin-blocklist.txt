@@ -1,3 +1,5 @@
+blacklist_from *@vbs-srls.it
+blacklist_from *.vbs-srls.it
 blacklist_from *@rinnovo-automatico.com
 blacklist_from *.rinnovo-automatico.com
 blacklist_from *@services-pagamento.com

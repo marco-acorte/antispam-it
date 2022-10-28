@@ -1,3 +1,4 @@
+5.134.127.198 #smtp141.ext.armada.it / vbs-srl.it
 5.134.127.202 #smtp149.ext.armada.it / vbs-srl.it
 128.1.41.187 #server1.uwei.online
 152.228.135.45 #smtp.virtualreal.space
