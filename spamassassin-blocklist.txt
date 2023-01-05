@@ -1,3 +1,7 @@
+blacklist_from *@campagnedemitalia.eu
+blacklist_from *.campagnedemitalia.eu
+blacklist_from *@campagnemirate.it
+blacklist_from *.campagnemirate.it
 blacklist_from *@vbs-srls.it
 blacklist_from *.vbs-srls.it
 blacklist_from *@rinnovo-automatico.com
