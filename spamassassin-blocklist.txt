@@ -1,3 +1,7 @@
+blacklist_from *@leadqualificati.it
+blacklist_from *.leadqualificati.it
+blacklist_from *@digitalagencyweb.it
+blacklist_from *.digitalagencyweb.it
 blacklist_from *@campagnedemitalia.eu
 blacklist_from *.campagnedemitalia.eu
 blacklist_from *@campagnemirate.it
