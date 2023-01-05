@@ -1,3 +1,5 @@
+blacklist_from *@serviziengagio.it
+blacklist_from *.serviziengagio.it
 blacklist_from *@authorityguestpost.com
 blacklist_from *.authorityguestpost.com
 blacklist_from *@leadqualificati.it
