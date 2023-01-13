@@ -1,3 +1,5 @@
+blacklist_from *@intellectsoftserve.com
+blacklist_from *.intellectsoftserve.com
 blacklist_from *@bitbonuses.xyz
 blacklist_from *.bitbonuses.xyz
 blacklist_from *@serviziengagio.it
