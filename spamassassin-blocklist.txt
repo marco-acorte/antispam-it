@@ -1188,6 +1188,15 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from abascalkathiesofbp@gmail.com
+blacklist_from diggsteresitavkbfcs@gmail.com
+blacklist_from lisarobinsonhac6@gmail.com
+blacklist_from leonesiokyrazfvnvg@gmail.com
+blacklist_from macnamaramavisposuvi@gmail.com
+blacklist_from insasunigatvtgz@gmail.com
+blacklist_from goetzingersuzieyzksa@gmail.com
+blacklist_from viganobernahrzme@gmail.com
+blacklist_from helenrobertsuhu1@gmail.com
 blacklist_from sutruong90@gmail.com
 blacklist_from lauren.builder@gmail.com
 blacklist_from nguyenhuong1913@gmail.com
