@@ -1,3 +1,5 @@
+blacklist_from *@fiber23.it
+blacklist_from *.fiber23.it
 blacklist_from *@connessioneinfibra.it
 blacklist_from *.connessioneinfibra.it
 blacklist_from *@db-registry.net
