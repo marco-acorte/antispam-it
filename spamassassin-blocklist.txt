@@ -1,3 +1,5 @@
+blacklist_from *@sttopografico.it
+blacklist_from *.sttopografico.it
 blacklist_from *@goodwolder.com
 blacklist_from *.goodwolder.com
 blacklist_from *@fiber23.it
