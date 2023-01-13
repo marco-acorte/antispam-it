@@ -1,3 +1,5 @@
+blacklist_from *@connessioneinfibra.it
+blacklist_from *.connessioneinfibra.it
 blacklist_from *@db-registry.net
 blacklist_from *.db-registry.net
 blacklist_from *@intellectsoftserve.com
