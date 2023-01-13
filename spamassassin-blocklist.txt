@@ -1,3 +1,5 @@
+blacklist_from *@db-registry.net
+blacklist_from *.db-registry.net
 blacklist_from *@intellectsoftserve.com
 blacklist_from *.intellectsoftserve.com
 blacklist_from *@bitbonuses.xyz
