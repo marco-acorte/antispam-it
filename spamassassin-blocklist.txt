@@ -1,5 +1,3 @@
-blacklist_from *@apollon2go.com
-blacklist_from *.apollon2go.com
 blacklist_from *@apollon-newsletter23.it
 blacklist_from *.apollon-newsletter23.it
 blacklist_from *@ebrupdate.com
