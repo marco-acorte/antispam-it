@@ -1,3 +1,7 @@
+blacklist_from *@ebrupdate.com
+blacklist_from *.ebrupdate.com
+blacklist_from *@epbg-db.eu
+blacklist_from *.epbg-db.eu
 blacklist_from *@sttopografico.it
 blacklist_from *.sttopografico.it
 blacklist_from *@goodwolder.com
