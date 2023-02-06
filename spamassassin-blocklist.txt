@@ -1,3 +1,5 @@
+blacklist_from *@myassistenzaclienti.net
+blacklist_from *.myassistenzaclienti.net
 blacklist_from *@apollon-newsletter23.it
 blacklist_from *.apollon-newsletter23.it
 blacklist_from *@ebrupdate.com
