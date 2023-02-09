@@ -1,3 +1,5 @@
+blacklist_from *@studiolegalemarino.info
+blacklist_from *.studiolegalemarino.info
 blacklist_from *@studiospalletta.com
 blacklist_from *.studiospalletta.com
 blacklist_from *@morrisconsulting.eu
