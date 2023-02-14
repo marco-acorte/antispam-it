@@ -1,3 +1,7 @@
+blacklist_from *@autosuggest.info
+blacklist_from *.autosuggest.info
+blacklist_from *@auto-suggester.eu
+blacklist_from *.auto-suggester.eu
 blacklist_from *@studiolegalemarino.info
 blacklist_from *.studiolegalemarino.info
 blacklist_from *@studiospalletta.com
