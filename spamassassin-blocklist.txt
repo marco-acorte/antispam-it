@@ -1,3 +1,5 @@
+blacklist_from *@livejob.cloud
+blacklist_from *.livejob.cloud
 blacklist_from *@autosuggest.info
 blacklist_from *.autosuggest.info
 blacklist_from *@auto-suggester.eu
