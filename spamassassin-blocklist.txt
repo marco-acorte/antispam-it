@@ -1,3 +1,5 @@
+blacklist_from *@spaziarredati.com
+blacklist_from *.spaziarredati.com
 blacklist_from *@livejob.cloud
 blacklist_from *.livejob.cloud
 blacklist_from *@autosuggest.info
