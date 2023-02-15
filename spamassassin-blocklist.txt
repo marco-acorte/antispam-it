@@ -1,3 +1,5 @@
+blacklist_from *@profitadventltd.com
+blacklist_from *.profitadventltd.com
 blacklist_from *@spaziarredati.com
 blacklist_from *.spaziarredati.com
 blacklist_from *@livejob.cloud
