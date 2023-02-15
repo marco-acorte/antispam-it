@@ -1,3 +1,5 @@
+blacklist_from *@avancetechsolutions.com
+blacklist_from *.avancetechsolutions.com
 blacklist_from *@profitadventltd.com
 blacklist_from *.profitadventltd.com
 blacklist_from *@spaziarredati.com
