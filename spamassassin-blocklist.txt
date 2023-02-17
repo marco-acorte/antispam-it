@@ -1,3 +1,11 @@
+blacklist_from *@clikkalo.com
+blacklist_from *.clikkalo.com
+blacklist_from *@leadplaza.it
+blacklist_from *.leadplaza.it
+blacklist_from *@occhiali24.it
+blacklist_from *.occhiali24.it
+blacklist_from *@trkadviceme.com
+blacklist_from *.trkadviceme.com
 blacklist_from *@cambiaregistro.it
 blacklist_from *.cambiaregistro.it
 blacklist_from *@offertemensili.com
