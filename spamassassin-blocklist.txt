@@ -1,3 +1,7 @@
+blacklist_from *@cambiaregistro.it
+blacklist_from *.cambiaregistro.it
+blacklist_from *@offertemensili.com
+blacklist_from *.offertemensili.com
 blacklist_from *@dunp.it
 blacklist_from *.dunp.it
 blacklist_from *@avancetechsolutions.com
