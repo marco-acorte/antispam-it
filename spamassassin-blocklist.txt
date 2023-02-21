@@ -1,3 +1,5 @@
+blacklist_from *@prontomailtarget.it
+blacklist_from *.prontomailtarget.it
 blacklist_from *@dudestailgate.com
 blacklist_from *.dudestailgate.com
 blacklist_from *@webselections.it
