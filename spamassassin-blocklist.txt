@@ -1246,6 +1246,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from abduh.pemkabdompu@gmail.com
 blacklist_from abascalkathiesofbp@gmail.com
 blacklist_from diggsteresitavkbfcs@gmail.com
 blacklist_from lisarobinsonhac6@gmail.com
