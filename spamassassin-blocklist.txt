@@ -1,3 +1,5 @@
+blacklist_from *@jihanret.online
+blacklist_from *.jihanret.online
 blacklist_from *@subjectsuccess.co.in
 blacklist_from *.subjectsuccess.co.in
 blacklist_from *@prontomailtarget.it
