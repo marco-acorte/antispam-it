@@ -1,3 +1,5 @@
+blacklist_from *@designinsights.net
+blacklist_from *.designinsights.net
 blacklist_from *@jihanret.online
 blacklist_from *.jihanret.online
 blacklist_from *@subjectsuccess.co.in
