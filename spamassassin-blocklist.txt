@@ -1,3 +1,5 @@
+blacklist_from *@donno.rest
+blacklist_from *.donno.rest
 blacklist_from *@paillema.monster
 blacklist_from *.paillema.monster
 blacklist_from *@agencywebservice.it
