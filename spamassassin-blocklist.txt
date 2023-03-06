@@ -1,3 +1,5 @@
+blacklist_from *@agencywebservice.it
+blacklist_from *.agencywebservice.it
 blacklist_from *@designinsights.net
 blacklist_from *.designinsights.net
 blacklist_from *@jihanret.online
