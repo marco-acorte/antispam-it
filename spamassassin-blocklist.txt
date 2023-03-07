@@ -1,3 +1,5 @@
+blacklist_from *@livejob.it
+blacklist_from *.livejob.it
 blacklist_from *@freeno.rest
 blacklist_from *.freeno.rest
 blacklist_from *@internetmo.rest
