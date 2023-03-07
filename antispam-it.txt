@@ -1,3 +1,4 @@
+freeno.rest
 internetmo.rest
 donno.rest
 paillema.monster

@@ -1,3 +1,5 @@
+blacklist_from *@freeno.rest
+blacklist_from *.freeno.rest
 blacklist_from *@internetmo.rest
 blacklist_from *.internetmo.rest
 blacklist_from *@donno.rest
