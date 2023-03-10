@@ -1,3 +1,5 @@
+blacklist_from *@purposenotice.cc
+blacklist_from *.purposenotice.cc
 blacklist_from *@livejob.it
 blacklist_from *.livejob.it
 blacklist_from *@freeno.rest
