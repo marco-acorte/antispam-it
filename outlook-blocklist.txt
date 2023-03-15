@@ -1,4 +1,5 @@
 mobileapp.news
+newsapp.pro
 purposenotice.cc
 livejob.it
 freeno.rest

@@ -1,5 +1,7 @@
 blacklist_from *@mobileapp.news
 blacklist_from *.mobileapp.news
+blacklist_from *@newsapp.pro
+blacklist_from *.newsapp.pro
 blacklist_from *@purposenotice.cc
 blacklist_from *.purposenotice.cc
 blacklist_from *@livejob.it
