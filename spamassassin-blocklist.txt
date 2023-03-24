@@ -1,3 +1,7 @@
+blacklist_from *@apollon-online.com
+blacklist_from *.apollon-online.com
+blacklist_from *@cliccaescegli.it
+blacklist_from *.cliccaescegli.it
 blacklist_from *@vendita-toner.info
 blacklist_from *.vendita-toner.info
 blacklist_from *@mobileapp.news
