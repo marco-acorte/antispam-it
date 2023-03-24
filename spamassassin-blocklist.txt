@@ -1,3 +1,5 @@
+blacklist_from *@ebrupdate.net
+blacklist_from *.ebrupdate.net
 blacklist_from *@ebr-database.org
 blacklist_from *.ebr-database.org
 blacklist_from *@apollon-online.com
