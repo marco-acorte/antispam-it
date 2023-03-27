@@ -1280,6 +1280,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from iltelcinquanta@gmail.com
 blacklist_from rigenerati.compatibili@gmail.com
 blacklist_from gracejwschneider5117@gmail.com
 blacklist_from elnamosleycrcnvt@gmail.com
