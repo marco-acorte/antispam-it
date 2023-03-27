@@ -1,3 +1,5 @@
+blacklist_from *@mileno.rest
+blacklist_from *.mileno.rest
 blacklist_from *@meetvertical.com
 blacklist_from *.meetvertical.com
 blacklist_from *@ebrupdate.net
