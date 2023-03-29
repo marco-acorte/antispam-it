@@ -1,3 +1,11 @@
+blacklist_from *@internetno.rest
+blacklist_from *.internetno.rest
+blacklist_from *@eexpo.rest
+blacklist_from *.eexpo.rest
+blacklist_from *@dpratiques.rest
+blacklist_from *.dpratiques.rest
+blacklist_from *@efil.rest
+blacklist_from *.efil.rest
 blacklist_from *@mileno.rest
 blacklist_from *.mileno.rest
 blacklist_from *@meetvertical.com
