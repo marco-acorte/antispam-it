@@ -1,3 +1,4 @@
+galerino.rest
 apollon-informato.it
 internetno.rest
 eexpo.rest
