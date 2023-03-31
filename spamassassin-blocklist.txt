@@ -1,3 +1,5 @@
+blacklist_from *@gammeno.rest
+blacklist_from *.gammeno.rest
 blacklist_from *@parasponsive-web.com
 blacklist_from *.parasponsive-web.com
 blacklist_from *@smsend.it
