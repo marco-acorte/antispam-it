@@ -1,3 +1,7 @@
+blacklist_from *@smsend.it
+blacklist_from *.smsend.it
+blacklist_from *@sqm-secure.eu
+blacklist_from *.sqm-secure.eu
 blacklist_from *@galerino.rest
 blacklist_from *.galerino.rest
 blacklist_from *@apollon-informato.it

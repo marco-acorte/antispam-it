@@ -1,3 +1,5 @@
+smsend.it
+sqm-secure.eu
 galerino.rest
 apollon-informato.it
 internetno.rest
