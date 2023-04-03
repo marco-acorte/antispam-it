@@ -1,3 +1,5 @@
+blacklist_from *@webbusinessmarket.com
+blacklist_from *.webbusinessmarket.com
 blacklist_from *@artificialrobotics.online
 blacklist_from *.artificialrobotics.online
 blacklist_from *@techmartkings.site
