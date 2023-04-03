@@ -1,3 +1,5 @@
+blacklist_from *@namestee.us
+blacklist_from *.namestee.us
 blacklist_from *@webbusinessmarket.com
 blacklist_from *.webbusinessmarket.com
 blacklist_from *@artificialrobotics.online
