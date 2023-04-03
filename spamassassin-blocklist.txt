@@ -1310,6 +1310,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from minhquan060508@gmail.com
 blacklist_from yusri552012@gmail.com
 blacklist_from sibuchishala@gmail.com
 blacklist_from iltelcinquanta@gmail.com
