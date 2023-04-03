@@ -1,3 +1,7 @@
+blacklist_from *@artificialrobotics.online
+blacklist_from *.artificialrobotics.online
+blacklist_from *@techmartkings.site
+blacklist_from *.techmartkings.site
 blacklist_from *@gammeno.rest
 blacklist_from *.gammeno.rest
 blacklist_from *@parasponsive-web.com
