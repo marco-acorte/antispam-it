@@ -1,3 +1,9 @@
+blacklist_from *@businessreg2024.com
+blacklist_from *.businessreg2024.com
+blacklist_from *@businessreg2023.com
+blacklist_from *.businessreg2023.com
+blacklist_from *@businessreg2022.com
+blacklist_from *.businessreg2022.com
 blacklist_from *@ligneo.rest
 blacklist_from *.ligneo.rest
 blacklist_from *@domuscostruzionisrl.it
