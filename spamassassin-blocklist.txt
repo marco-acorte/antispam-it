@@ -1,3 +1,5 @@
+blacklist_from *@ligneo.rest
+blacklist_from *.ligneo.rest
 blacklist_from *@domuscostruzionisrl.it
 blacklist_from *.domuscostruzionisrl.it
 blacklist_from *@namestee.us
