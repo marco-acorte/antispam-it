@@ -1,3 +1,5 @@
+blacklist_from *@advertis1.com
+blacklist_from *.advertis1.com
 blacklist_from *@spritznews.it
 blacklist_from *.spritznews.it
 blacklist_from *@clothingsly.com
