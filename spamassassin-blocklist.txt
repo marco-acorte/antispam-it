@@ -1,3 +1,7 @@
+blacklist_from *@spritznews.it
+blacklist_from *.spritznews.it
+blacklist_from *@clothingsly.com
+blacklist_from *.clothingsly.com
 blacklist_from *@cioa.rest
 blacklist_from *.cioa.rest
 blacklist_from *@nasdo.rest
