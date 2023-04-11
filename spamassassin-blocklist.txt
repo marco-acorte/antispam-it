@@ -1336,6 +1336,13 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from zionroseannesefavp@gmail.com
+blacklist_from borromeogenevieveyello@gmail.com
+blacklist_from barrancaheathertacnz@gmail.com
+blacklist_from egloffmagdalenamptonm@gmail.com
+blacklist_from cabreradaiseyurivw@gmail.com
+blacklist_from tamayolanellnlklqw@gmail.com
+blacklist_from nelamaf73@gmail.com
 blacklist_from margaretlutwinnpwoa@gmail.com
 blacklist_from joaquinatlloernws@gmail.com
 blacklist_from mikareindlxwecb@gmail.com
