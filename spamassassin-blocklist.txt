@@ -1332,6 +1332,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from baroxkon@gmail.com
+blacklist_from shawandahaisleywy@gmail.com
 blacklist_from phanvanthien2016@gmail.com
 blacklist_from minhquan060508@gmail.com
 blacklist_from yusri552012@gmail.com
