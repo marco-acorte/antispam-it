@@ -1,3 +1,5 @@
+blacklist_from *@digilabsvc.com
+blacklist_from *.digilabsvc.com
 blacklist_from *@offerteweb365.it
 blacklist_from *.offerteweb365.it
 blacklist_from *@nl6offerteweb365.it
