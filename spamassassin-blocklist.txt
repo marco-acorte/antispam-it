@@ -1,3 +1,5 @@
+blacklist_from *@chairmanwelcome.cc
+blacklist_from *.chairmanwelcome.cc
 blacklist_from *@qcghmcslof.ru
 blacklist_from *.qcghmcslof.ru
 blacklist_from *@advertis1.com
