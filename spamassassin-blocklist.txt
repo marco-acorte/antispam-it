@@ -1,3 +1,17 @@
+blacklist_from *@offerteweb365.it
+blacklist_from *.offerteweb365.it
+blacklist_from *@nl6offerteweb365.it
+blacklist_from *.nl6offerteweb365.it
+blacklist_from *@nl5offerteweb365.it
+blacklist_from *.nl5offerteweb365.it
+blacklist_from *@nl4offerteweb365.it
+blacklist_from *.nl4offerteweb365.it
+blacklist_from *@nl3offerteweb365.it
+blacklist_from *.nl3offerteweb365.it
+blacklist_from *@nl2offerteweb365.it
+blacklist_from *.nl2offerteweb365.it
+blacklist_from *@nl1offerteweb365.it
+blacklist_from *.nl1offerteweb365.it
 blacklist_from *@chairmanwelcome.cc
 blacklist_from *.chairmanwelcome.cc
 blacklist_from *@qcghmcslof.ru
