@@ -1,3 +1,5 @@
+blacklist_from *@eu-sellercentral.store
+blacklist_from *.eu-sellercentral.store
 blacklist_from *@digilabsvc.com
 blacklist_from *.digilabsvc.com
 blacklist_from *@offerteweb365.it
