@@ -1,3 +1,5 @@
+blacklist_from *@mntgreenenergy.it
+blacklist_from *.mntgreenenergy.it
 blacklist_from *@eu-sellercentral.store
 blacklist_from *.eu-sellercentral.store
 blacklist_from *@digilabsvc.com
