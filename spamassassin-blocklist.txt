@@ -1,3 +1,5 @@
+blacklist_from *@piadipizza.com
+blacklist_from *.piadipizza.com
 blacklist_from *@mntgreenenergy.it
 blacklist_from *.mntgreenenergy.it
 blacklist_from *@eu-sellercentral.store
