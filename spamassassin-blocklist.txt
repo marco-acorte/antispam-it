@@ -1,3 +1,11 @@
+blacklist_from *@tuesdaylatch.com
+blacklist_from *.tuesdaylatch.com
+blacklist_from *@morningthurs.com
+blacklist_from *.morningthurs.com
+blacklist_from *@prestitoonline.info
+blacklist_from *.prestitoonline.info
+blacklist_from *@ilmegafono.info
+blacklist_from *.ilmegafono.info
 blacklist_from *@caminskipinski.com
 blacklist_from *.caminskipinski.com
 blacklist_from *@piadipizza.com
