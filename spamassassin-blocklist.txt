@@ -1380,6 +1380,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from summitjune.com
 blacklist_from jixinaj@gmail.com
 blacklist_from muafburtinhiss@gmail.com
 blacklist_from allan.hane2402@gmail.com
