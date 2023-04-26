@@ -1,3 +1,5 @@
+blacklist_from *@eu.selected-offers.com
+blacklist_from *.eu.selected-offers.com
 blacklist_from *@b2b-news23-by-apollon.it
 blacklist_from *.b2b-news23-by-apollon.it
 blacklist_from *@corpo-diff.top
