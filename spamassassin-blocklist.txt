@@ -1374,6 +1374,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from allan.hane2402@gmail.com
 blacklist_from hoerris69@gmail.com
 blacklist_from quangvinh016@gmail.com
 blacklist_from mrnobody5111@gmail.com
