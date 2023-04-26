@@ -1,3 +1,5 @@
+blacklist_from *@vitadaviaggiatore.com
+blacklist_from *.vitadaviaggiatore.com
 blacklist_from *@apollon-ltd.com
 blacklist_from *.apollon-ltd.com
 blacklist_from *@gestioneperuscire.com
