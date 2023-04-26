@@ -1,3 +1,7 @@
+blacklist_from *@zy3pvT2x6j.com
+blacklist_from *.zy3pvT2x6j.com
+blacklist_from *@kabron.info
+blacklist_from *.kabron.info
 blacklist_from *@vitadaviaggiatore.com
 blacklist_from *.vitadaviaggiatore.com
 blacklist_from *@apollon-ltd.com
