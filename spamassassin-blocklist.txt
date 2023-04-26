@@ -1,3 +1,7 @@
+blacklist_from *@corpo-diff.top
+blacklist_from *.corpo-diff.top
+blacklist_from *@dedicated-diff.top
+blacklist_from *.dedicated-diff.top
 blacklist_from *@tuesdaylatch.com
 blacklist_from *.tuesdaylatch.com
 blacklist_from *@morningthurs.com
