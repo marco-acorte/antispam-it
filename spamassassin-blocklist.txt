@@ -1,3 +1,5 @@
+blacklist_from *@bargainsly.com
+blacklist_from *.bargainsly.com
 blacklist_from *@zy3pvT2x6j.com
 blacklist_from *.zy3pvT2x6j.com
 blacklist_from *@kabron.info
