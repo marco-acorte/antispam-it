@@ -1,3 +1,5 @@
+blacklist_from *@apollon-notiziario23.it
+blacklist_from *.apollon-notiziario23.it
 blacklist_from *@bargainsly.com
 blacklist_from *.bargainsly.com
 blacklist_from *@zy3pvT2x6j.com
