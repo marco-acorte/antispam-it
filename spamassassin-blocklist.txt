@@ -1,3 +1,5 @@
+blacklist_from *@cibosanissimo.com
+blacklist_from *.cibosanissimo.com
 blacklist_from *@tecnologiainnovativa.com
 blacklist_from *.tecnologiainnovativa.com
 blacklist_from *@forpro-hubbing.top
