@@ -1,3 +1,7 @@
+blacklist_from *@dailydeestribution.monster
+blacklist_from *.dailydeestribution.monster
+blacklist_from *@yteutrainer.online
+blacklist_from *.yteutrainer.online
 blacklist_from *@nuclenews.it
 blacklist_from *.nuclenews.it
 blacklist_from *@companiesdb.pro
