@@ -1,3 +1,5 @@
+blacklist_from *@deltadeestribution.monster
+blacklist_from *.deltadeestribution.monster
 blacklist_from *@dailydeestribution.monster
 blacklist_from *.dailydeestribution.monster
 blacklist_from *@yteutrainer.online
