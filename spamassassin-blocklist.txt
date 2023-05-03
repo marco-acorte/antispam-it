@@ -1,3 +1,9 @@
+blacklist_from *@eurotrendagency.com
+blacklist_from *.eurotrendagency.com
+blacklist_from *@couponslabs.net
+blacklist_from *.couponslabs.net
+blacklist_from *@corporate-channel.top
+blacklist_from *.corporate-channel.top
 blacklist_from *@deltadeestribution.monster
 blacklist_from *.deltadeestribution.monster
 blacklist_from *@dailydeestribution.monster
