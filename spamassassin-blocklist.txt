@@ -1,3 +1,5 @@
+blacklist_from *@nuclenews.it
+blacklist_from *.nuclenews.it
 blacklist_from *@companiesdb.pro
 blacklist_from *.companiesdb.pro
 blacklist_from *@cibosanissimo.com
