@@ -1,3 +1,5 @@
+blacklist_from *@information-voice.eu
+blacklist_from *.information-voice.eu
 blacklist_from *@eurotrendagency.com
 blacklist_from *.eurotrendagency.com
 blacklist_from *@couponslabs.net
