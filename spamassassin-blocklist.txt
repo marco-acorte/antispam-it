@@ -1,3 +1,5 @@
+blacklist_from *@pro-tunnel.top
+blacklist_from *.pro-tunnel.top
 blacklist_from *@information-voice.eu
 blacklist_from *.information-voice.eu
 blacklist_from *@eurotrendagency.com
