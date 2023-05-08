@@ -1,3 +1,5 @@
+blacklist_from *@trknuclenews.it
+blacklist_from *.trknuclenews.it
 blacklist_from *@pro-tunnel.top
 blacklist_from *.pro-tunnel.top
 blacklist_from *@information-voice.eu
