@@ -1424,6 +1424,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from carabinieri.carabinieri1@gmail.com
 blacklist_from caokhangduy1997@gmail.com
 blacklist_from orville.stokesl@gmail.com
 blacklist_from jixinaj@gmail.com
