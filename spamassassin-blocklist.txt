@@ -1,3 +1,7 @@
+blacklist_from *@professional-hubbing.top
+blacklist_from *.professional-hubbing.top
+blacklist_from *@dispatching-society.top
+blacklist_from *.dispatching-society.top
 blacklist_from *@apoll-business-newsletter.it
 blacklist_from *.apoll-business-newsletter.it
 blacklist_from *@ike-b2b.com
