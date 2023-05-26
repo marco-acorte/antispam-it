@@ -1,3 +1,5 @@
+blacklist_from *@apollon-b2b-updates.it
+blacklist_from *.apollon-b2b-updates.it
 blacklist_from *@supp-dhl.it
 blacklist_from *.supp-dhl.it
 blacklist_from *@professional-hubbing.top
