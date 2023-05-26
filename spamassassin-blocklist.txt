@@ -1,3 +1,5 @@
+blacklist_from *@supp-dhl.it
+blacklist_from *.supp-dhl.it
 blacklist_from *@professional-hubbing.top
 blacklist_from *.professional-hubbing.top
 blacklist_from *@dispatching-society.top
