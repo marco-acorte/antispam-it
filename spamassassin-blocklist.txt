@@ -1,3 +1,7 @@
+blacklist_from *@yupsilntrainer.online
+blacklist_from *.yupsilntrainer.online
+blacklist_from *@apollon-nlalert.it
+blacklist_from *.apollon-nlalert.it
 blacklist_from *@fashionslabs.com
 blacklist_from *.fashionslabs.com
 blacklist_from *@trymakeups.com
@@ -1460,6 +1464,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from lehien210496@gmail.com
+blacklist_from xuantruong241194@gmail.com
 blacklist_from carabineri.polizia@gmail.com
 blacklist_from polizia.postal03@gmail.com
 blacklist_from tawandamoncivaisluuptvbw@gmail.com
