@@ -1,3 +1,9 @@
+blacklist_from *@fashionslabs.com
+blacklist_from *.fashionslabs.com
+blacklist_from *@trymakeups.com
+blacklist_from *.trymakeups.com
+blacklist_from *@openboutiques.com
+blacklist_from *.openboutiques.com
 blacklist_from *@apollon-b2b-updates.it
 blacklist_from *.apollon-b2b-updates.it
 blacklist_from *@supp-dhl.it
@@ -1454,6 +1460,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from carabineri.polizia@gmail.com
+blacklist_from polizia.postal03@gmail.com
 blacklist_from tawandamoncivaisluuptvbw@gmail.com
 blacklist_from xayoran@gmail.com
 blacklist_from yongzakrzewskihvfios@gmail.com
