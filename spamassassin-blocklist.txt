@@ -1,3 +1,5 @@
+blacklist_from *@richopto.com
+blacklist_from *.richopto.com
 blacklist_from *@yupsilntrainer.online
 blacklist_from *.yupsilntrainer.online
 blacklist_from *@apollon-nlalert.it
@@ -1464,6 +1466,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from steven.xiu870@gmail.com
 blacklist_from lehien210496@gmail.com
 blacklist_from xuantruong241194@gmail.com
 blacklist_from carabineri.polizia@gmail.com
