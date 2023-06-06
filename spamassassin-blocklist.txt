@@ -1,3 +1,5 @@
+blacklist_from *@companies-db.info
+blacklist_from *.companies-db.info
 blacklist_from *@infodata-channel.eu
 blacklist_from *.infodata-channel.eu
 blacklist_from *@richopto.com
