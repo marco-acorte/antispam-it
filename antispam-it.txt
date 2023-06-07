@@ -1,3 +1,5 @@
+ebr-2024.directory
+ebr-2023.directory
 companies-db.info
 infodata-channel.eu
 richopto.com
