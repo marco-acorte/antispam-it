@@ -1,3 +1,5 @@
+blacklist_from *@agenciesapp.com
+blacklist_from *.agenciesapp.com
 blacklist_from *@sportlaeu.com
 blacklist_from *.sportlaeu.com
 blacklist_from *@buyadvertiser.com
