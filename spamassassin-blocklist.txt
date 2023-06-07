@@ -1,3 +1,5 @@
+blacklist_from *@sportlaeu.com
+blacklist_from *.sportlaeu.com
 blacklist_from *@buyadvertiser.com
 blacklist_from *.buyadvertiser.com
 blacklist_from *@arizonapickles.com
