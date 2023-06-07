@@ -1,3 +1,5 @@
+blacklist_from *@buyadvertiser.com
+blacklist_from *.buyadvertiser.com
 blacklist_from *@arizonapickles.com
 blacklist_from *.arizonapickles.com
 blacklist_from *@ebr-2024.directory
