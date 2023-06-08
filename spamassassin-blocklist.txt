@@ -1,3 +1,5 @@
+blacklist_from *@offerta.in
+blacklist_from *.offerta.in
 blacklist_from *@tigermedias.com
 blacklist_from *.tigermedias.com
 blacklist_from *@agenciesapp.com
