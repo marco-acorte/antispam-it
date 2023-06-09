@@ -1,3 +1,5 @@
+blacklist_from *@excellenceno.click
+blacklist_from *.excellenceno.click
 blacklist_from *@tryshoppings.com
 blacklist_from *.tryshoppings.com
 blacklist_from *@couponslabs.com
