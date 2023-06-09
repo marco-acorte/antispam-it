@@ -1,3 +1,5 @@
+blacklist_from *@couponslabs.com
+blacklist_from *.couponslabs.com
 blacklist_from *@tim.offerta.in
 blacklist_from *.tim.offerta.in
 blacklist_from *@tigermedias.com
