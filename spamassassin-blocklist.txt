@@ -1,3 +1,7 @@
+blacklist_from *@eurofin.org
+blacklist_from *.eurofin.org
+blacklist_from *@eurofinprestiti.com
+blacklist_from *.eurofinprestiti.com
 blacklist_from *@antonsmtp.online
 blacklist_from *.antonsmtp.online
 blacklist_from *@jifainternational.com
