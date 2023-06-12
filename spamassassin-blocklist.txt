@@ -1,3 +1,9 @@
+blacklist_from *@mashuphaircare.com
+blacklist_from *.mashuphaircare.com
+blacklist_from *@saleslabs.org
+blacklist_from *.saleslabs.org
+blacklist_from *@bhsalon-newtrade.it
+blacklist_from *.bhsalon-newtrade.it
 blacklist_from *@yalphatrainer.online
 blacklist_from *.yalphatrainer.online
 blacklist_from *@formalresultats.monster
