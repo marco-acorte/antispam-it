@@ -1,3 +1,11 @@
+blacklist_from *@tech-hive.store
+blacklist_from *.tech-hive.store
+blacklist_from *@biltonfarms.com
+blacklist_from *.biltonfarms.com
+blacklist_from *@pxo2o.net
+blacklist_from *.pxo2o.net
+blacklist_from *@trobnewx.com
+blacklist_from *.trobnewx.com
 blacklist_from *@eurofin.org
 blacklist_from *.eurofin.org
 blacklist_from *@eurofinprestiti.com
