@@ -1,3 +1,5 @@
+blacklist_from *@murphyfuture.com
+blacklist_from *.murphyfuture.com
 blacklist_from *@tech-hive.store
 blacklist_from *.tech-hive.store
 blacklist_from *@biltonfarms.com
