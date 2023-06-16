@@ -1,3 +1,7 @@
+blacklist_from *@aufierionformaticas.com
+blacklist_from *.aufierionformaticas.com
+blacklist_from *@tryagencies.com
+blacklist_from *.tryagencies.com
 blacklist_from *@murphyfuture.com
 blacklist_from *.murphyfuture.com
 blacklist_from *@tech-hive.store
