@@ -1,3 +1,5 @@
+blacklist_from *@dm-data.com
+blacklist_from *.dm-data.com
 blacklist_from *@aufierionformaticas.com
 blacklist_from *.aufierionformaticas.com
 blacklist_from *@tryagencies.com
