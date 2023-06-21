@@ -1,3 +1,5 @@
+blacklist_from *@info-verified.eu
+blacklist_from *.info-verified.eu
 blacklist_from *@apollon-nlinsights.it
 blacklist_from *.apollon-nlinsights.it
 blacklist_from *@trypromotional.com
