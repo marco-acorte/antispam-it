@@ -1,3 +1,7 @@
+blacklist_from *@promartellago.com
+blacklist_from *.promartellago.com
+blacklist_from *@giancarlobelardi.com
+blacklist_from *.giancarlobelardi.com
 blacklist_from *@info-verified.eu
 blacklist_from *.info-verified.eu
 blacklist_from *@apollon-nlinsights.it
