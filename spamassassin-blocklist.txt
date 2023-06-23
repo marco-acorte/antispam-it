@@ -1,5 +1,7 @@
 blacklist_from *@surety-professional.top
 blacklist_from *.surety-professional.top
+blacklist_from *@upto-collections.top
+blacklist_from *.upto-collections.top
 blacklist_from *@promartellago.com
 blacklist_from *.promartellago.com
 blacklist_from *@giancarlobelardi.com
