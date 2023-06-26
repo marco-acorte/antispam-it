@@ -1,3 +1,5 @@
+blacklist_from *@emailbrand.net
+blacklist_from *.emailbrand.net
 blacklist_from *@trycoupons.net
 blacklist_from *.trycoupons.net
 blacklist_from *@qebsolutions.org
