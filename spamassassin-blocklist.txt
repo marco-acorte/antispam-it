@@ -1,3 +1,7 @@
+blacklist_from *@trycoupons.net
+blacklist_from *.trycoupons.net
+blacklist_from *@qebsolutions.org
+blacklist_from *.qebsolutions.org
 blacklist_from *@qpbxbubkpb.ru
 blacklist_from *.qpbxbubkpb.ru
 blacklist_from *@surety-professional.top
