@@ -1,3 +1,5 @@
+blacklist_from *@wpenginepowered.com
+blacklist_from *.wpenginepowered.com
 blacklist_from *@mcmservice.it
 blacklist_from *.mcmservice.it
 blacklist_from *@emailbrand.net
