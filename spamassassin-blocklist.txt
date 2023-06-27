@@ -1,3 +1,7 @@
+blacklist_from *@funnelvincenti.eu
+blacklist_from *.funnelvincenti.eu
+blacklist_from *@emlmind.com
+blacklist_from *.emlmind.com
 blacklist_from *@wpenginepowered.com
 blacklist_from *.wpenginepowered.com
 blacklist_from *@mcmservice.it
