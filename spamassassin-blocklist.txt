@@ -1,3 +1,5 @@
+blacklist_from *@mcmservice.it
+blacklist_from *.mcmservice.it
 blacklist_from *@emailbrand.net
 blacklist_from *.emailbrand.net
 blacklist_from *@trycoupons.net
