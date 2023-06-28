@@ -1,3 +1,5 @@
+blacklist_from *@europebusinessregistry.org
+blacklist_from *.europebusinessregistry.org
 blacklist_from *@funnelvincenti.eu
 blacklist_from *.funnelvincenti.eu
 blacklist_from *@emlmind.com
