@@ -1,3 +1,5 @@
+blacklist_from *@communication365.eu
+blacklist_from *.communication365.eu
 blacklist_from *@europebusinessregistry.org
 blacklist_from *.europebusinessregistry.org
 blacklist_from *@funnelvincenti.eu
