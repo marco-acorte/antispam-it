@@ -1,3 +1,5 @@
+blacklist_from *@pratiqueson.news
+blacklist_from *.pratiqueson.news
 blacklist_from *@dispatching-collections.top
 blacklist_from *.dispatching-collections.top
 blacklist_from *@information-path.eu
