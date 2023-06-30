@@ -1,3 +1,5 @@
+blacklist_from *@believeallow.co.in
+blacklist_from *.believeallow.co.in
 blacklist_from *@pratiqueson.news
 blacklist_from *.pratiqueson.news
 blacklist_from *@dispatching-collections.top
@@ -1572,6 +1574,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from karlacomk.sv@gmail.com
 blacklist_from francespatrickc3@gmail.com
 blacklist_from steven.xiu870@gmail.com
 blacklist_from lehien210496@gmail.com
