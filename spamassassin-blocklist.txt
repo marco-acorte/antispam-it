@@ -1,3 +1,5 @@
+blacklist_from *@360digitaltrend.com
+blacklist_from *.360digitaltrend.com
 blacklist_from *@believeallow.co.in
 blacklist_from *.believeallow.co.in
 blacklist_from *@pratiqueson.news
