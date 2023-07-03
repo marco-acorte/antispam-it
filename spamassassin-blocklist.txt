@@ -1,3 +1,5 @@
+blacklist_from *@agenziamailtarget.it
+blacklist_from *.agenziamailtarget.it
 blacklist_from *@360digitaltrend.com
 blacklist_from *.360digitaltrend.com
 blacklist_from *@believeallow.co.in
