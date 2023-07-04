@@ -1,3 +1,7 @@
+blacklist_from *@ebr-database.info
+blacklist_from *.ebr-database.info
+blacklist_from *@mignondimitri.be
+blacklist_from *.mignondimitri.be
 blacklist_from *@agenziamailtarget.it
 blacklist_from *.agenziamailtarget.it
 blacklist_from *@360digitaltrend.com
