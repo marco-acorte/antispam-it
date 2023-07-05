@@ -1584,6 +1584,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from VijayKhairnar@outlook.com
 blacklist_from karlacomk.sv@gmail.com
 blacklist_from francespatrickc3@gmail.com
 blacklist_from steven.xiu870@gmail.com
