@@ -1,3 +1,5 @@
+blacklist_from *@aspectcouncil.cc
+blacklist_from *.aspectcouncil.cc
 blacklist_from *@marketing-tvp.com
 blacklist_from *.marketing-tvp.com
 blacklist_from *@information-tunneling.eu
