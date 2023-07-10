@@ -1,3 +1,9 @@
+blacklist_from *@mobilesoftco.com
+blacklist_from *.mobilesoftco.com
+blacklist_from *@buymailers.com
+blacklist_from *.buymailers.com
+blacklist_from *@useagencies.com
+blacklist_from *.useagencies.com
 blacklist_from *@aspectcouncil.cc
 blacklist_from *.aspectcouncil.cc
 blacklist_from *@marketing-tvp.com
