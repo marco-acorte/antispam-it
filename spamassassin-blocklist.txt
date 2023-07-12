@@ -1,3 +1,5 @@
+blacklist_from *@associationjoin.co.in
+blacklist_from *.associationjoin.co.in
 blacklist_from *@commercemails.com
 blacklist_from *.commercemails.com
 blacklist_from *@peakprospects.top
