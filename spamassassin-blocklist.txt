@@ -1,3 +1,5 @@
+blacklist_from *@business-brodacasto.top
+blacklist_from *.business-brodacasto.top
 blacklist_from *@associationjoin.co.in
 blacklist_from *.associationjoin.co.in
 blacklist_from *@commercemails.com
