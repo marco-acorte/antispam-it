@@ -1,3 +1,13 @@
+blacklist_from *@apollonbusiness-nl-23.it
+blacklist_from *.apollonbusiness-nl-23.it
+blacklist_from *@apollonbusiness-nl-24.it
+blacklist_from *.apollonbusiness-nl-24.it
+blacklist_from *@wcr-datacontrol.info
+blacklist_from *.wcr-datacontrol.info
+blacklist_from *@fruitsun.it
+blacklist_from *.fruitsun.it
+blacklist_from *@a-p-l-n.info
+blacklist_from *.a-p-l-n.info
 blacklist_from *@business-brodacasto.top
 blacklist_from *.business-brodacasto.top
 blacklist_from *@associationjoin.co.in
