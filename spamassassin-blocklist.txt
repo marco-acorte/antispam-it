@@ -1,3 +1,7 @@
+blacklist_from *@autosuggest.email
+blacklist_from *.autosuggest.email
+blacklist_from *@auto-suggest-search.eu
+blacklist_from *.auto-suggest-search.eu
 blacklist_from *@apollonbusiness-nl-23.it
 blacklist_from *.apollonbusiness-nl-23.it
 blacklist_from *@apollonbusiness-nl-24.it
