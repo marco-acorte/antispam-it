@@ -1,3 +1,7 @@
+blacklist_from *@autosuggest-info.eu
+blacklist_from *.autosuggest-info.eu
+blacklist_from *@autosuggest-mail.com
+blacklist_from *.autosuggest-mail.com
 blacklist_from *@autosuggest.email
 blacklist_from *.autosuggest.email
 blacklist_from *@auto-suggest-search.eu
