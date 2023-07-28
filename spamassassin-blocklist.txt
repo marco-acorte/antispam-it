@@ -1,3 +1,5 @@
+blacklist_from *@perfoagy.com
+blacklist_from *.perfoagy.com
 blacklist_from *@agencyservicemail.eu
 blacklist_from *.agencyservicemail.eu
 blacklist_from *@wcr-datacontrol.com
