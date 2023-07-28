@@ -1,3 +1,7 @@
+blacklist_from *@agencyservicemail.eu
+blacklist_from *.agencyservicemail.eu
+blacklist_from *@wcr-datacontrol.com
+blacklist_from *.wcr-datacontrol.com
 blacklist_from *@autosuggest-info.eu
 blacklist_from *.autosuggest-info.eu
 blacklist_from *@autosuggest-mail.com
