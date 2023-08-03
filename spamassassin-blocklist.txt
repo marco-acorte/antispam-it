@@ -1,3 +1,5 @@
+blacklist_from *@usebargains.com
+blacklist_from *.usebargains.com
 blacklist_from *@wcr-datacontrol.pro
 blacklist_from *.wcr-datacontrol.pro
 blacklist_from *@perfoagy.com
