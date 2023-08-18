@@ -1,3 +1,17 @@
+blacklist_from *@db-register2023.com
+blacklist_from *.db-register2023.com
+blacklist_from *@db-register2024.com
+blacklist_from *.db-register2024.com
+blacklist_from *@bestverticals.com
+blacklist_from *.bestverticals.com
+blacklist_from *@thefundedtraderprogram.com
+blacklist_from *.thefundedtraderprogram.com
+blacklist_from *@buyverticals.com
+blacklist_from *.buyverticals.com
+blacklist_from *@opencoupons.net
+blacklist_from *.opencoupons.net
+blacklist_from *@advischer.com
+blacklist_from *.advischer.com
 blacklist_from *@trackmw.com
 blacklist_from *.trackmw.com
 blacklist_from *@usebargains.com
