@@ -1,3 +1,9 @@
+blacklist_from *@redoccia.net
+blacklist_from *.redoccia.net
+blacklist_from *@redoccia.it
+blacklist_from *.redoccia.it
+blacklist_from *@bonolaoffice.biz
+blacklist_from *.bonolaoffice.biz
 blacklist_from *@db-register2023.com
 blacklist_from *.db-register2023.com
 blacklist_from *@db-register2024.com
@@ -1660,6 +1666,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from wiliyanusu3@gmail.com
+blacklist_from aminmoya26@gmail.com
 blacklist_from tutela.pg@gmail.com
 blacklist_from doncella05@gmail.com
 blacklist_from admrqa6@gmail.com
