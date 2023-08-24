@@ -1670,6 +1670,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from gfhshj7@gmail.com
+blacklist_from ufficio.carabinieri1@gmail.com
 blacklist_from wiliyanusu3@gmail.com
 blacklist_from aminmoya26@gmail.com
 blacklist_from tutela.pg@gmail.com
