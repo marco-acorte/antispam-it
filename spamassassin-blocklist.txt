@@ -1,5 +1,7 @@
-blacklist_from *@agencieslabs.com
-blacklist_from *.agencieslabs.com
+blacklist_from *@investmentlmtd.com
+blacklist_from *.investmentlmtd.com
+blacklist_from *@ike-b2b.info
+blacklist_from *.ike-b2b.info
 blacklist_from *@quoteslabs.net
 blacklist_from *.quoteslabs.net
 blacklist_from *@redoccia.net
