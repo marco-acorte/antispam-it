@@ -1,3 +1,5 @@
+blacklist_from *@mailtargetdigitale.it
+blacklist_from *.mailtargetdigitale.it
 blacklist_from *@thelivesales.com
 blacklist_from *.thelivesales.com
 blacklist_from *@webagencydem.it
