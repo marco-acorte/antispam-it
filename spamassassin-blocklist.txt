@@ -1,3 +1,5 @@
+blacklist_from *@officialworldrecord.com
+blacklist_from *.officialworldrecord.com
 blacklist_from *@mailtargetdigitale.it
 blacklist_from *.mailtargetdigitale.it
 blacklist_from *@thelivesales.com
