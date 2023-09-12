@@ -1,3 +1,9 @@
+blacklist_from *@tripwa.net
+blacklist_from *.tripwa.net
+blacklist_from *@superbasev.com
+blacklist_from *.superbasev.com
+blacklist_from *@agencygrowthguide.com
+blacklist_from *.agencygrowthguide.com
 blacklist_from *@officialworldrecord.com
 blacklist_from *.officialworldrecord.com
 blacklist_from *@mailtargetdigitale.it
