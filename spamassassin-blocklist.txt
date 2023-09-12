@@ -1,3 +1,11 @@
+blacklist_from *@grospa.com
+blacklist_from *.grospa.com
+blacklist_from *@businessdb.pro
+blacklist_from *.businessdb.pro
+blacklist_from *@infodata-brodacast.eu
+blacklist_from *.infodata-brodacast.eu
+blacklist_from *@emailroute-mngt.top
+blacklist_from *.emailroute-mngt.top
 blacklist_from *@tripwa.net
 blacklist_from *.tripwa.net
 blacklist_from *@superbasev.com
