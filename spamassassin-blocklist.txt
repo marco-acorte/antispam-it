@@ -1,3 +1,5 @@
+blacklist_from *@cryptotek.org
+blacklist_from *.cryptotek.org
 blacklist_from *@grospa.com
 blacklist_from *.grospa.com
 blacklist_from *@businessdb.pro
