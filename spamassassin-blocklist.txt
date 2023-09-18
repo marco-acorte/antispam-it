@@ -1,3 +1,17 @@
+blacklist_from *@apob2b23business.it
+blacklist_from *.apob2b23business.it
+blacklist_from *@apob2b24business.it
+blacklist_from *.apob2b24business.it
+blacklist_from *@programs-projects.net
+blacklist_from *.programs-projects.net
+blacklist_from *@demikian.com
+blacklist_from *.demikian.com
+blacklist_from *@stitchmd.com
+blacklist_from *.stitchmd.com
+blacklist_from *@majestical.top
+blacklist_from *.majestical.top
+blacklist_from *@optiadsmedia.com
+blacklist_from *.optiadsmedia.com
 blacklist_from *@cryptotek.org
 blacklist_from *.cryptotek.org
 blacklist_from *@grospa.com
