@@ -1,3 +1,5 @@
+blacklist_from *@emailbroad-management.top
+blacklist_from *.emailbroad-management.top
 blacklist_from *@apob2b23business.it
 blacklist_from *.apob2b23business.it
 blacklist_from *@apob2b24business.it
