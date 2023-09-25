@@ -1,3 +1,7 @@
+blacklist_from *@b2bnet.co
+blacklist_from *.b2bnet.co
+blacklist_from *@corporate-check.co
+blacklist_from *.corporate-check.co
 blacklist_from *@emailbroad-management.top
 blacklist_from *.emailbroad-management.top
 blacklist_from *@apob2b23business.it
