@@ -1,3 +1,5 @@
+blacklist_from *@supporto-comunicazioni.com
+blacklist_from *.supporto-comunicazioni.com
 blacklist_from *@b2bnet.co
 blacklist_from *.b2bnet.co
 blacklist_from *@corporate-check.co
