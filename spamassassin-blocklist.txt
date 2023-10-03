@@ -1,3 +1,5 @@
+blacklist_from *@tryoffer.net
+blacklist_from *.tryoffer.net
 blacklist_from *@data-control.pro
 blacklist_from *.data-control.pro
 blacklist_from *@demagency.it
