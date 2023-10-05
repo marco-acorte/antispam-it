@@ -1,3 +1,5 @@
+blacklist_from *@poolservice.software
+blacklist_from *.poolservice.software
 blacklist_from *@tryoffer.net
 blacklist_from *.tryoffer.net
 blacklist_from *@data-control.pro
