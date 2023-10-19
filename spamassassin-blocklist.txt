@@ -1,3 +1,5 @@
+blacklist_from *@ilraduno.it
+blacklist_from *.ilraduno.it
 blacklist_from *@lumtor.com
 blacklist_from *.lumtor.com
 blacklist_from *@servizio-clienti48h.com
