@@ -1,3 +1,5 @@
+blacklist_from *@musikaexpo.it
+blacklist_from *.musikaexpo.it
 blacklist_from *@marketsapp.net
 blacklist_from *.marketsapp.net
 blacklist_from *@devasms.com
