@@ -1,3 +1,5 @@
+blacklist_from *@belecon.co.za
+blacklist_from *.belecon.co.za
 blacklist_from *@musikaexpo.it
 blacklist_from *.musikaexpo.it
 blacklist_from *@marketsapp.net
