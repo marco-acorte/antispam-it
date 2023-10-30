@@ -1,3 +1,7 @@
+blacklist_from *@faturazionselitroniicass.com
+blacklist_from *.faturazionselitroniicass.com
+blacklist_from *@enligneio.monster
+blacklist_from *.enligneio.monster
 blacklist_from *@belecon.co.za
 blacklist_from *.belecon.co.za
 blacklist_from *@musikaexpo.it
@@ -1762,6 +1766,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from alankennthboswell@outlook.com
 blacklist_from gfhshj7@gmail.com
 blacklist_from ufficio.carabinieri1@gmail.com
 blacklist_from wiliyanusu3@gmail.com
