@@ -1,3 +1,5 @@
+blacklist_from *@informaaziende.it
+blacklist_from *.informaaziende.it
 blacklist_from *@faturazionselitroniicass.com
 blacklist_from *.faturazionselitroniicass.com
 blacklist_from *@enligneio.monster
