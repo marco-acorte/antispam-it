@@ -1,3 +1,7 @@
+blacklist_from *@b2bstrategicwave.co
+blacklist_from *.b2bstrategicwave.co
+blacklist_from *@b2bcentral.co
+blacklist_from *.b2bcentral.co
 blacklist_from *@informaaziende.it
 blacklist_from *.informaaziende.it
 blacklist_from *@faturazionselitroniicass.com
