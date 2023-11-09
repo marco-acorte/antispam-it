@@ -1,3 +1,5 @@
+blacklist_from *@profitabletradepro.co
+blacklist_from *.profitabletradepro.co
 blacklist_from *@magnatecentralconnect.top
 blacklist_from *.magnatecentralconnect.top
 blacklist_from *@medin.mom
