@@ -1,3 +1,11 @@
+blacklist_from *@magnatecentralconnect.top
+blacklist_from *.magnatecentralconnect.top
+blacklist_from *@medin.mom
+blacklist_from *.medin.mom
+blacklist_from *@messan.mom
+blacklist_from *.messan.mom
+blacklist_from *@privilegeio.monster
+blacklist_from *.privilegeio.monster
 blacklist_from *@b2bstrategicwave.co
 blacklist_from *.b2bstrategicwave.co
 blacklist_from *@b2bcentral.co
