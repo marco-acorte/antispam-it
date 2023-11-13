@@ -1,3 +1,5 @@
+blacklist_from *@mesedelrisparmio.it
+blacklist_from *.mesedelrisparmio.it
 blacklist_from *@profitabletradepro.co
 blacklist_from *.profitabletradepro.co
 blacklist_from *@magnatecentralconnect.top
