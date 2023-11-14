@@ -1,3 +1,11 @@
+blacklist_from *@connectsource.co
+blacklist_from *.connectsource.co
+blacklist_from *@bizprofithub.co
+blacklist_from *.bizprofithub.co
+blacklist_from *@commercepulse.co
+blacklist_from *.commercepulse.co
+blacklist_from *@innovatetrade.co
+blacklist_from *.innovatetrade.co
 blacklist_from *@mesedelrisparmio.it
 blacklist_from *.mesedelrisparmio.it
 blacklist_from *@profitabletradepro.co
