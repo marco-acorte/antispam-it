@@ -1,3 +1,5 @@
+blacklist_from *@unionla.pics
+blacklist_from *.unionla.pics
 blacklist_from *@connectsource.co
 blacklist_from *.connectsource.co
 blacklist_from *@bizprofithub.co
