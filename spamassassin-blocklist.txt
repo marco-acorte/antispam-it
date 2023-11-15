@@ -1,3 +1,5 @@
+blacklist_from *@localnetld.com
+blacklist_from *.localnetld.com
 blacklist_from *@unionla.pics
 blacklist_from *.unionla.pics
 blacklist_from *@connectsource.co
