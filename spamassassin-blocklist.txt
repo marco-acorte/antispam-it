@@ -1,3 +1,7 @@
+blacklist_from *@b2bexchange.co
+blacklist_from *.b2bexchange.co
+blacklist_from *@innovasys.it
+blacklist_from *.innovasys.it
 blacklist_from *@suitela.pics
 blacklist_from *.suitela.pics
 blacklist_from *@tradesuccesspath.co
