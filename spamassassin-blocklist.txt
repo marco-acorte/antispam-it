@@ -1,3 +1,5 @@
+blacklist_from *@somolla.pics
+blacklist_from *.somolla.pics
 blacklist_from *@markopn.mom
 blacklist_from *.markopn.mom
 blacklist_from *@infodata-diff.eu
