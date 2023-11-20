@@ -1,3 +1,9 @@
+blacklist_from *@markopn.mom
+blacklist_from *.markopn.mom
+blacklist_from *@infodata-diff.eu
+blacklist_from *.infodata-diff.eu
+blacklist_from *@growthtradewave.co
+blacklist_from *.growthtradewave.co
 blacklist_from *@b2bexchange.co
 blacklist_from *.b2bexchange.co
 blacklist_from *@innovasys.it
