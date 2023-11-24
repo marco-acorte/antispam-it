@@ -1,3 +1,5 @@
+blacklist_from *@my-apo-business-news.it
+blacklist_from *.my-apo-business-news.it
 blacklist_from *@busto.pics
 blacklist_from *.busto.pics
 blacklist_from *@commercetrade.co
