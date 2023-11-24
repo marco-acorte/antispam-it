@@ -1,3 +1,5 @@
+blacklist_from *@isaemailmarketing.com
+blacklist_from *.isaemailmarketing.com
 blacklist_from *@superemails.info
 blacklist_from *.superemails.info
 blacklist_from *@emaillegitimo.com
