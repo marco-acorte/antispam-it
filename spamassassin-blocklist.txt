@@ -1,3 +1,5 @@
+blacklist_from *@busto.pics
+blacklist_from *.busto.pics
 blacklist_from *@commercetrade.co
 blacklist_from *.commercetrade.co
 blacklist_from *@infodata-path.eu
