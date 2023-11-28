@@ -1,3 +1,9 @@
+blacklist_from *@cesma.pics
+blacklist_from *.cesma.pics
+blacklist_from *@b2binnovator.co
+blacklist_from *.b2binnovator.co
+blacklist_from *@tradegrowthfusion.co
+blacklist_from *.tradegrowthfusion.co
 blacklist_from *@isaemailmarketing.com
 blacklist_from *.isaemailmarketing.com
 blacklist_from *@superemails.info
