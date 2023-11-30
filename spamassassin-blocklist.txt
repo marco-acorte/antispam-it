@@ -1,3 +1,7 @@
+blacklist_from *@tradetechsolutions.co
+blacklist_from *.tradetechsolutions.co
+blacklist_from *@rescos.it
+blacklist_from *.rescos.it
 blacklist_from *@cesma.pics
 blacklist_from *.cesma.pics
 blacklist_from *@b2binnovator.co
