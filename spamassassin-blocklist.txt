@@ -1,3 +1,7 @@
+blacklist_from *@bizprolink.co
+blacklist_from *.bizprolink.co
+blacklist_from *@asesoramientob2bempresarial.co
+blacklist_from *.asesoramientob2bempresarial.co
 blacklist_from *@tradetechsolutions.co
 blacklist_from *.tradetechsolutions.co
 blacklist_from *@rescos.it
