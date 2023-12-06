@@ -1,3 +1,7 @@
+blacklist_from *@b2bboostmastery.co
+blacklist_from *.b2bboostmastery.co
+blacklist_from *@proveedorescalificadosb2b.co
+blacklist_from *.proveedorescalificadosb2b.co
 blacklist_from *@sushi-express24.de
 blacklist_from *.sushi-express24.de
 blacklist_from *@manuwaremoulds.com
