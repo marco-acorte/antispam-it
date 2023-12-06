@@ -1876,6 +1876,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from techg00147@gmail.com
+blacklist_from mj3778682@outlook.com
 blacklist_from alankennthboswell@outlook.com
 blacklist_from gfhshj7@gmail.com
 blacklist_from ufficio.carabinieri1@gmail.com
