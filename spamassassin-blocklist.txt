@@ -1,3 +1,9 @@
+blacklist_from *@pronoteom.lol
+blacklist_from *.pronoteom.lol
+blacklist_from *@gmxro.click
+blacklist_from *.gmxro.click
+blacklist_from *@emailbroad-experience.top
+blacklist_from *.emailbroad-experience.top
 blacklist_from *@procommercenet.co
 blacklist_from *.procommercenet.co
 blacklist_from *@b2bdataadvantage.co
