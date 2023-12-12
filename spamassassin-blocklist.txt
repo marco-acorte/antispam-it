@@ -1,3 +1,7 @@
+blacklist_from *@procommercenet.co
+blacklist_from *.procommercenet.co
+blacklist_from *@b2bdataadvantage.co
+blacklist_from *.b2bdataadvantage.co
 blacklist_from *@innovacionb2bempresarial.co
 blacklist_from *.innovacionb2bempresarial.co
 blacklist_from *@profitmaximizerconnect.top
