@@ -1,3 +1,5 @@
+blacklist_from *@b2bconnectivity.co
+blacklist_from *.b2bconnectivity.co
 blacklist_from *@connectsupply.co
 blacklist_from *.connectsupply.co
 blacklist_from *@pronoteom.lol
