@@ -1,3 +1,7 @@
+blacklist_from *@id20069824.com
+blacklist_from *.id20069824.com
+blacklist_from *@endofinternet.net
+blacklist_from *.endofinternet.net
 blacklist_from *@b2bconnectivity.co
 blacklist_from *.b2bconnectivity.co
 blacklist_from *@connectsupply.co
