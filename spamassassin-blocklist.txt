@@ -1,3 +1,7 @@
+blacklist_from *@inversionesinnovadoras.co
+blacklist_from *.inversionesinnovadoras.co
+blacklist_from *@autosuggest-marketing.eu
+blacklist_from *.autosuggest-marketing.eu
 blacklist_from *@b2bprogetti.co
 blacklist_from *.b2bprogetti.co
 blacklist_from *@b2bcommerciale.co
