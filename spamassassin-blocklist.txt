@@ -1,3 +1,13 @@
+blacklist_from *@b2bprogetti.co
+blacklist_from *.b2bprogetti.co
+blacklist_from *@b2bcommerciale.co
+blacklist_from *.b2bcommerciale.co
+blacklist_from *@pofamno.lol
+blacklist_from *.pofamno.lol
+blacklist_from *@my-apo-b2b-alerts.it
+blacklist_from *.my-apo-b2b-alerts.it
+blacklist_from *@grandro.click
+blacklist_from *.grandro.click
 blacklist_from *@id20069824.com
 blacklist_from *.id20069824.com
 blacklist_from *@endofinternet.net
