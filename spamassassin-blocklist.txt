@@ -1,3 +1,5 @@
+blacklist_from *@hinnovo.com
+blacklist_from *.hinnovo.com
 blacklist_from *@bizprosnetwork.co
 blacklist_from *.bizprosnetwork.co
 blacklist_from *@inversionesinnovadoras.co
