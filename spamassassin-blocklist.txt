@@ -1,3 +1,7 @@
+blacklist_from *@galerini.pics
+blacklist_from *.galerini.pics
+blacklist_from *@coppa.lat
+blacklist_from *.coppa.lat
 blacklist_from *@b2bflow.co
 blacklist_from *.b2bflow.co
 blacklist_from *@prob2b.co
