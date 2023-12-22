@@ -1,3 +1,7 @@
+blacklist_from *@b2bflow.co
+blacklist_from *.b2bflow.co
+blacklist_from *@prob2b.co
+blacklist_from *.prob2b.co
 blacklist_from *@offertechatgpt.it
 blacklist_from *.offertechatgpt.it
 blacklist_from *@hinnovo.com
