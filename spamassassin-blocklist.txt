@@ -1,3 +1,5 @@
+blacklist_from *@offertechatgpt.it
+blacklist_from *.offertechatgpt.it
 blacklist_from *@hinnovo.com
 blacklist_from *.hinnovo.com
 blacklist_from *@bizprosnetwork.co
