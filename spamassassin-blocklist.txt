@@ -1,3 +1,5 @@
+blacklist_from *@wpatcore.com
+blacklist_from *.wpatcore.com
 blacklist_from *@fornitorib2b.co
 blacklist_from *.fornitorib2b.co
 blacklist_from *@commercewave.co
