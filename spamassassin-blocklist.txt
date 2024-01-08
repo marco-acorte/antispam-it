@@ -1,3 +1,5 @@
+blacklist_from *@megafordem.net
+blacklist_from *.megafordem.net
 blacklist_from *@galerini.pics
 blacklist_from *.galerini.pics
 blacklist_from *@coppa.lat
