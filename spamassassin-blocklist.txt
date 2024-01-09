@@ -1,3 +1,5 @@
+blacklist_from *@tradementorship.co
+blacklist_from *.tradementorship.co
 blacklist_from *@b2bboost.co
 blacklist_from *.b2bboost.co
 blacklist_from *@wpatcore.com
