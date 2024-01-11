@@ -1,3 +1,5 @@
+blacklist_from *@optimab2b.top
+blacklist_from *.optimab2b.top
 blacklist_from *@tradementorship.co
 blacklist_from *.tradementorship.co
 blacklist_from *@b2bboost.co
