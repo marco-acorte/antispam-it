@@ -1,3 +1,5 @@
+blacklist_from *@filpoo.click
+blacklist_from *.filpoo.click
 blacklist_from *@optimab2b.top
 blacklist_from *.optimab2b.top
 blacklist_from *@tradementorship.co
