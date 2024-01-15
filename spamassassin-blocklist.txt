@@ -1,3 +1,5 @@
+blacklist_from *@digitalstrategyb2bdigitale.co
+blacklist_from *.digitalstrategyb2bdigitale.co
 blacklist_from *@agencymarketingonline.it
 blacklist_from *.agencymarketingonline.it
 blacklist_from *@sacoaperdere.com
