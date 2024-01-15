@@ -1,3 +1,5 @@
+blacklist_from *@agencymarketingonline.it
+blacklist_from *.agencymarketingonline.it
 blacklist_from *@sacoaperdere.com
 blacklist_from *.sacoaperdere.com
 blacklist_from *@campagnedemuno.it
