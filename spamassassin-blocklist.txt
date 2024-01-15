@@ -1,3 +1,9 @@
+blacklist_from *@sacoaperdere.com
+blacklist_from *.sacoaperdere.com
+blacklist_from *@campagnedemuno.it
+blacklist_from *.campagnedemuno.it
+blacklist_from *@campagnedemuno.info
+blacklist_from *.campagnedemuno.info
 blacklist_from *@filpoo.click
 blacklist_from *.filpoo.click
 blacklist_from *@optimab2b.top
