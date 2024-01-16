@@ -1,3 +1,5 @@
+blacklist_from *@ional.co.uk
+blacklist_from *.ional.co.uk
 blacklist_from *@followerinstant.it
 blacklist_from *.followerinstant.it
 blacklist_from *@sendyto.ink
