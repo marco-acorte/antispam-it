@@ -11,4 +11,5 @@ liberapay: acor3 # Replace with a single Liberapay username
 # issuehunt: # Replace with a single IssueHunt username
 # otechie: # Replace with a single Otechie username
 # custom: [Paypal](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
-custom: ["https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR"]
+# custom: ["https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR"]
+custom: ["https://paypal.me/macorte?country.x=IT&locale.x=it_IT", marcoacorte]
