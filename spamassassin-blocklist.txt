@@ -1,3 +1,9 @@
+blacklist_from *@commercioelettronicob2bdigitale.co
+blacklist_from *.commercioelettronicob2bdigitale.co
+blacklist_from *@bizglobalimpact.co
+blacklist_from *.bizglobalimpact.co
+blacklist_from *@comssa.ink
+blacklist_from *.comssa.ink
 blacklist_from *@ional.co.uk
 blacklist_from *.ional.co.uk
 blacklist_from *@followerinstant.it
