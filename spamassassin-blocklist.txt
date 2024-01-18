@@ -1,3 +1,9 @@
+blacklist_from *@restaurantcastello.ru
+blacklist_from *.restaurantcastello.ru
+blacklist_from *@info-path.eu
+blacklist_from *.info-path.eu
+blacklist_from *@letter-connection.run
+blacklist_from *.letter-connection.run
 blacklist_from *@commercioelettronicob2bdigitale.co
 blacklist_from *.commercioelettronicob2bdigitale.co
 blacklist_from *@bizglobalimpact.co
