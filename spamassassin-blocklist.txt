@@ -1,3 +1,5 @@
+blacklist_from *@networkb2b.co
+blacklist_from *.networkb2b.co
 blacklist_from *@promingle.co
 blacklist_from *.promingle.co
 blacklist_from *@restaurantcastello.ru
