@@ -1,3 +1,5 @@
+blacklist_from *@connectburst.co
+blacklist_from *.connectburst.co
 blacklist_from *@networkb2b.co
 blacklist_from *.networkb2b.co
 blacklist_from *@promingle.co
