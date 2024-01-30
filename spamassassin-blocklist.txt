@@ -1,3 +1,5 @@
+blacklist_from *@ligneto.click
+blacklist_from *.ligneto.click
 blacklist_from *@connectburst.co
 blacklist_from *.connectburst.co
 blacklist_from *@networkb2b.co
