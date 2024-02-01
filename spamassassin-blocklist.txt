@@ -1,3 +1,7 @@
+blacklist_from *@company-connection.lat
+blacklist_from *.company-connection.lat
+blacklist_from *@b2bcrescita.co
+blacklist_from *.b2bcrescita.co
 blacklist_from *@livreod.sbs
 blacklist_from *.livreod.sbs
 blacklist_from *@ligneto.click
