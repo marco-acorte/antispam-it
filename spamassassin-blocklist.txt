@@ -1,3 +1,5 @@
+blacklist_from *@livreod.sbs
+blacklist_from *.livreod.sbs
 blacklist_from *@ligneto.click
 blacklist_from *.ligneto.click
 blacklist_from *@connectburst.co
