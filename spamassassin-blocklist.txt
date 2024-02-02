@@ -1,3 +1,9 @@
+blacklist_from *@labelsod.monster
+blacklist_from *.labelsod.monster
+blacklist_from *@soluzionieconomicheb2b.co
+blacklist_from *.soluzionieconomicheb2b.co
+blacklist_from *@letters-connection.lat
+blacklist_from *.letters-connection.lat
 blacklist_from *@company-connection.lat
 blacklist_from *.company-connection.lat
 blacklist_from *@b2bcrescita.co
