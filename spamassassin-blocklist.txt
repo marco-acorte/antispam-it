@@ -1,3 +1,5 @@
+blacklist_from *@bizb2blink.co
+blacklist_from *.bizb2blink.co
 blacklist_from *@labelsod.monster
 blacklist_from *.labelsod.monster
 blacklist_from *@soluzionieconomicheb2b.co
