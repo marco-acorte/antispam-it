@@ -1,3 +1,7 @@
+blacklist_from *@lioto.click
+blacklist_from *.lioto.click
+blacklist_from *@undustrieto.click
+blacklist_from *.undustrieto.click
 blacklist_from *@bizb2blink.co
 blacklist_from *.bizb2blink.co
 blacklist_from *@labelsod.monster
