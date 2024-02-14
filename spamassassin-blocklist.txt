@@ -1,3 +1,5 @@
+blacklist_from *@servizio-nexi-pay.info
+blacklist_from *.servizio-nexi-pay.info
 blacklist_from *@tradespark.co
 blacklist_from *.tradespark.co
 blacklist_from *@b2bexpertisehub.co
