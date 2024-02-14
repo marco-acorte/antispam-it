@@ -1,3 +1,7 @@
+blacklist_from *@tradespark.co
+blacklist_from *.tradespark.co
+blacklist_from *@b2bexpertisehub.co
+blacklist_from *.b2bexpertisehub.co
 blacklist_from *@risoluzione-integrativa.net
 blacklist_from *.risoluzione-integrativa.net
 blacklist_from *@b2bvaluedigitale.co
