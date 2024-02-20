@@ -27,28 +27,27 @@ mail: <abuse@brevo.com>
 
 form: <https://www.brevo.com/contact/#abuse>
 
-### Google Cloud Platform
+### Google
 
-- <https://cloud.google.com/terms/abuse>
-- <https://support.google.com/code/contact/cloud_platform_report_abuse>
+- <https://support.google.com/mail/contact/abuse>
 
-### Microsoft Azure
+### Microsoft
 
-- <https://portal.msrc.microsoft.com/en-us/engage/casereporting>
-- <https://www.microsoft.com/en-us/trust-center/report-abuse>
+- <https://msrc.microsoft.com/report/>
 
 ### DigitalOcean
 
-- <https://www.digitalocean.com/company/contact/#abuse>
+- <https://www.digitalocean.com/company/contact/abuse>
 
 ### Vultr
 
 - <https://www.vultr.com/legal/antispam-policy/>
+- <https://phish.report/contacts/Vultr>
 - email: <abuse@vultr.com>
 
 ### Linode
 
-- <https://www.linode.com/docs/guides/abuse/>
+- <https://www.linode.com/legal-abuse/>
 
 ### OVH
 
