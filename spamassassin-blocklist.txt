@@ -1,3 +1,5 @@
+blacklist_from *@partageap.click
+blacklist_from *.partageap.click
 blacklist_from *@c24web.com
 blacklist_from *.c24web.com
 blacklist_from *@servizio-nexi-pay.info
