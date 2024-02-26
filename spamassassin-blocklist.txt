@@ -1,5 +1,7 @@
 blacklist_from *@pailledo.click
 blacklist_from *.pailledo.click
+blacklist_from *@pailleap.click
+blacklist_from *.pailleap.click
 blacklist_from *@pstsrl.it
 blacklist_from *.pstsrl.it
 blacklist_from *@minutro.it
