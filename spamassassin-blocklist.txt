@@ -1,3 +1,9 @@
+blacklist_from *@pstsrl.it
+blacklist_from *.pstsrl.it
+blacklist_from *@minutro.it
+blacklist_from *.minutro.it
+blacklist_from *@verrengia.it
+blacklist_from *.verrengia.it
 blacklist_from *@partageap.click
 blacklist_from *.partageap.click
 blacklist_from *@c24web.com
