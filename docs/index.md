@@ -27,6 +27,11 @@ mail: <abuse@brevo.com>
 
 form: <https://www.brevo.com/contact/#abuse>
 
+### Mailup
+
+- form: <https://mailup.com/contacts/form-spam/>
+- email: <abuse@musvc.com>
+
 ### Google
 
 - <https://support.google.com/mail/contact/abuse>
