@@ -1,3 +1,5 @@
+blacklist_from *@sapphiretech.it
+blacklist_from *.sapphiretech.it
 blacklist_from *@livreto.click
 blacklist_from *.livreto.click
 blacklist_from *@pailledo.click
