@@ -13,8 +13,8 @@ Use the Report Amazon AWS abuse form to report suspected abuse of AWS resources.
 
 ### Mailchimp
 
-- <https://mailchimp.com/it/contact/abuse/>
-- email <abuse@mailchimp.com>
+- form: <https://mailchimp.com/it/contact/abuse/>
+- email: <abuse@mailchimp.com>
 
 ### Brevo.com (Sendinblue)
 
