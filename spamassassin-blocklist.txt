@@ -1,3 +1,5 @@
+blacklist_from *@sdx-auto.com
+blacklist_from *.sdx-auto.com
 blacklist_from *@sapphiretech.it
 blacklist_from *.sapphiretech.it
 blacklist_from *@livreto.click
@@ -2072,6 +2074,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from carrdleigh@gmail.com
 blacklist_from isabellseoconsultant@gmail.com
 blacklist_from techg00147@gmail.com
 blacklist_from mj3778682@outlook.com
