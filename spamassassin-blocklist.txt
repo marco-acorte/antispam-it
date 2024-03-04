@@ -1,3 +1,5 @@
+blacklist_from *@bilansa.click
+blacklist_from *.bilansa.click
 blacklist_from *@sdx-auto.com
 blacklist_from *.sdx-auto.com
 blacklist_from *@sapphiretech.it
