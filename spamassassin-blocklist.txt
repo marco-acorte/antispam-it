@@ -1,3 +1,5 @@
+blacklist_from *@lj168.net
+blacklist_from *.lj168.net
 blacklist_from *@xft77.com
 blacklist_from *.xft77.com
 blacklist_from *@bilansa.click
