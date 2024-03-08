@@ -1,3 +1,5 @@
+blacklist_from *@liodo.pics
+blacklist_from *.liodo.pics
 blacklist_from *@syt610.com
 blacklist_from *.syt610.com
 blacklist_from *@livredo.pics
