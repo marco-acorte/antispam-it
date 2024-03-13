@@ -52,7 +52,7 @@ form: <https://www.brevo.com/contact/#abuse>
 
 ### Linode
 
-- <https://www.linode.com/legal-abuse/>
+- form: <https://www.linode.com/legal-abuse/>
 
 ### OVH
 
