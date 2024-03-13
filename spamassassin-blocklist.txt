@@ -1,3 +1,5 @@
+blacklist_from *@lignedo.pics
+blacklist_from *.lignedo.pics
 blacklist_from *@hqb007.com
 blacklist_from *.hqb007.com
 blacklist_from *@opelo.pics
