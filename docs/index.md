@@ -42,12 +42,12 @@ form: <https://www.brevo.com/contact/#abuse>
 
 ### DigitalOcean
 
-- <https://www.digitalocean.com/company/contact/abuse>
+- form: <https://www.digitalocean.com/company/contact/abuse>
 
 ### Vultr
 
-- <https://www.vultr.com/legal/antispam-policy/>
-- <https://phish.report/contacts/Vultr>
+- info: <https://www.vultr.com/legal/antispam-policy/>
+- info: <https://phish.report/contacts/Vultr>
 - email: <abuse@vultr.com>
 
 ### Linode
@@ -56,5 +56,10 @@ form: <https://www.brevo.com/contact/#abuse>
 
 ### OVH
 
-- <https://www.ovh.com/world/abuse/>
-- email <abuse@ovh.net>
+- form: <https://www.ovh.com/world/abuse/>
+- email: <abuse@ovh.net>
+
+### Dynadot
+
+- form: <https://www.dynadot.com/report-abuse>
+- emaiil: <abuse@dynadot.com>
