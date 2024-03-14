@@ -1,3 +1,5 @@
+blacklist_from *@epicwaterfilters.com
+blacklist_from *.epicwaterfilters.com
 blacklist_from *@lignedo.pics
 blacklist_from *.lignedo.pics
 blacklist_from *@hqb007.com
