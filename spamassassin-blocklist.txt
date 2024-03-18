@@ -1,3 +1,5 @@
+blacklist_from *@societe-routing.top
+blacklist_from *.societe-routing.top
 blacklist_from *@biz-funnel.top
 blacklist_from *.biz-funnel.top
 blacklist_from *@epicwaterfilters.com
