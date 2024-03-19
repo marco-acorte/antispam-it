@@ -2102,6 +2102,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from david06.seo@gmail.com
+blacklist_from charles03.seo@gmail.com
 blacklist_from sellarslouis8470@gmail.com
 blacklist_from carrdleigh@gmail.com
 blacklist_from isabellseoconsultant@gmail.com
