@@ -1,3 +1,9 @@
+blacklist_from *@windtre.in-voice.it
+blacklist_from *.windtre.in-voice.it
+blacklist_from *@avissam.click
+blacklist_from *.avissam.click
+blacklist_from *@offreslo.pics
+blacklist_from *.offreslo.pics
 blacklist_from *@societe-routing.top
 blacklist_from *.societe-routing.top
 blacklist_from *@biz-funnel.top
