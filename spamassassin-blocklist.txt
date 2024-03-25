@@ -1,3 +1,5 @@
+blacklist_from *@wt29.com
+blacklist_from *.wt29.com
 blacklist_from *@onlinetuitionsaudiarabia.com
 blacklist_from *.onlinetuitionsaudiarabia.com
 blacklist_from *@corporatelivery.com
