@@ -2,7 +2,7 @@
 
 while read p; do
   echo "$p"
-done <antispam-it.txt
+done <antispam-domains.txt
 
 while read p; do
   echo "$p"

@@ -1,16 +1,3 @@
-# 
-# Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
-# Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
-# campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
-# 
-# Last Update: lun 25 mar 2024, 08:37:58, UTC
-# 
-# Project website: https://github.com/marco-acorte/antispam-it/ 
-# 
-# Support the project with a donation: https://www.buymeacoffee.com/marcoacorte
-# 
-# This work is licensed under a GNU General Public License v3.0.
-# ======================================================================================================
 windtre.in-voice.it
 avissam.click
 offreslo.pics
