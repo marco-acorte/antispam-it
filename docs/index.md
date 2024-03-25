@@ -63,3 +63,8 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form: <https://www.dynadot.com/report-abuse>
 - emaiil: <abuse@dynadot.com>
+
+### Cloudflare
+
+- form: <https://www.cloudflare.com/abuse/>
+- email: <abuse@cloudflare.com>
