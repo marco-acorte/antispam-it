@@ -1,3 +1,7 @@
+blacklist_from *@onlinetuitionsaudiarabia.com
+blacklist_from *.onlinetuitionsaudiarabia.com
+blacklist_from *@corporatelivery.com
+blacklist_from *.corporatelivery.com
 blacklist_from *@windtre.in-voice.it
 blacklist_from *.windtre.in-voice.it
 blacklist_from *@avissam.click
