@@ -1,3 +1,7 @@
+blacklist_from *@okcolo.pics
+blacklist_from *.okcolo.pics
+blacklist_from *@milesa.click
+blacklist_from *.milesa.click
 blacklist_from *@wt29.com
 blacklist_from *.wt29.com
 blacklist_from *@onlinetuitionsaudiarabia.com
