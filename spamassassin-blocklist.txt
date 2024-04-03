@@ -1,3 +1,13 @@
+blacklist_from *@demguru.com
+blacklist_from *.demguru.com
+blacklist_from *@offerteai.it
+blacklist_from *.offerteai.it
+blacklist_from *@brazorfajeje.it
+blacklist_from *.brazorfajeje.it
+blacklist_from *@dogo168.com
+blacklist_from *.dogo168.com
+blacklist_from *@fang111.com
+blacklist_from *.fang111.com
 blacklist_from *@okcolo.pics
 blacklist_from *.okcolo.pics
 blacklist_from *@milesa.click
