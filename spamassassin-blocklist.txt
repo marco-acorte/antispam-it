@@ -1,3 +1,9 @@
+blacklist_from *@airwheel.net
+blacklist_from *.airwheel.net
+blacklist_from *@airwheel.com
+blacklist_from *.airwheel.com
+blacklist_from *@huang04262114.com
+blacklist_from *.huang04262114.com
 blacklist_from *@notepad.plus
 blacklist_from *.notepad.plus
 blacklist_from *@demguru.com
