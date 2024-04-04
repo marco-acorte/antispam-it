@@ -1,3 +1,5 @@
+blacklist_from *@notepad.plus
+blacklist_from *.notepad.plus
 blacklist_from *@demguru.com
 blacklist_from *.demguru.com
 blacklist_from *@offerteai.it
