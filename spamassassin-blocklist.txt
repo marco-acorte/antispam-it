@@ -1,3 +1,5 @@
+blacklist_from *@informaimpresa.cloud
+blacklist_from *.informaimpresa.cloud
 blacklist_from *@ljy1500.com
 blacklist_from *.ljy1500.com
 blacklist_from *@airwheel.net
