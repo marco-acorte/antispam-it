@@ -1,3 +1,9 @@
+blacklist_from *@staipbiddy.fr
+blacklist_from *.staipbiddy.fr
+blacklist_from *@adlifters.com
+blacklist_from *.adlifters.com
+blacklist_from *@gadgetufficio.info
+blacklist_from *.gadgetufficio.info
 blacklist_from *@mails-bridging.top
 blacklist_from *.mails-bridging.top
 blacklist_from *@next-routing.top
@@ -2144,6 +2150,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from andreadalena.copy@gmail.com
+blacklist_from stampanticartucce@gmail.com
 blacklist_from david06.seo@gmail.com
 blacklist_from charles03.seo@gmail.com
 blacklist_from sellarslouis8470@gmail.com
