@@ -1,3 +1,5 @@
+blacklist_from *@alcosdigital.com
+blacklist_from *.alcosdigital.com
 blacklist_from *@staipbiddy.fr
 blacklist_from *.staipbiddy.fr
 blacklist_from *@adlifters.com
