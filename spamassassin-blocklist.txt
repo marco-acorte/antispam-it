@@ -1,3 +1,7 @@
+blacklist_from *@adgsales.eu
+blacklist_from *.adgsales.eu
+blacklist_from *@club-3d.com
+blacklist_from *.club-3d.com
 blacklist_from *@alcosdigital.com
 blacklist_from *.alcosdigital.com
 blacklist_from *@staipbiddy.fr
