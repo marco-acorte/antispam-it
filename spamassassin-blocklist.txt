@@ -1,3 +1,5 @@
+blacklist_from *@uwidesign.website
+blacklist_from *.uwidesign.website
 blacklist_from *@furtherinfo.org
 blacklist_from *.furtherinfo.org
 blacklist_from *@accstores.com
