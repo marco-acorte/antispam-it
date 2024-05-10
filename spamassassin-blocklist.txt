@@ -1,3 +1,7 @@
+blacklist_from *@furtherinfo.org
+blacklist_from *.furtherinfo.org
+blacklist_from *@accstores.com
+blacklist_from *.accstores.com
 blacklist_from *@adgsales.eu
 blacklist_from *.adgsales.eu
 blacklist_from *@club-3d.com
