@@ -79,5 +79,5 @@ form: <https://www.brevo.com/contact/#abuse>
     Your abuse report has NOT been processed and has NOT been transmitted to our abuse team.
     This automatic answer does NOT constitute an acknowledgement of your abuse report.
     All abuse reports for Online.net / Scaleway.com MUST be reported on <https://abuse.scaleway.com> to be processed by our abuse team and our customers with proper issue tracking.
-Thank you,
-The Scaleway Abuse Team
+    Thank you,
+    The Scaleway Abuse Team
