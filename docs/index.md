@@ -68,3 +68,8 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form: <https://www.cloudflare.com/abuse/>
 - email: <abuse@cloudflare.com>
+
+### Scaleway
+
+- form: <https://console.scaleway.com/support/abuses/create/>
+- email: <abuse@online.net>
