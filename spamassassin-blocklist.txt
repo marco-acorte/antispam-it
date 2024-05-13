@@ -1,3 +1,7 @@
+blacklist_from *@atyrau-refinery.com
+blacklist_from *.atyrau-refinery.com
+blacklist_from *@termoplusimpianti.it
+blacklist_from *.termoplusimpianti.it
 blacklist_from *@uwidesign.website
 blacklist_from *.uwidesign.website
 blacklist_from *@furtherinfo.org
