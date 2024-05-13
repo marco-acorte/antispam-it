@@ -73,3 +73,11 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form: <https://console.scaleway.com/support/abuses/create/>
 - email: <abuse@online.net>
+
+    THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL
+    You have sent an email to <abuse@online.net> or <abuse@scaleway.com>.
+    Your abuse report has NOT been processed and has NOT been transmitted to our abuse team.
+    This automatic answer does NOT constitute an acknowledgement of your abuse report.
+    All abuse reports for Online.net / Scaleway.com MUST be reported on <https://abuse.scaleway.com> to be processed by our abuse team and our customers with proper issue tracking.
+Thank you,
+The Scaleway Abuse Team
