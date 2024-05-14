@@ -1,3 +1,11 @@
+blacklist_from *@eubusinessregister.net
+blacklist_from *.eubusinessregister.net
+blacklist_from *@eubusinessregister.org
+blacklist_from *.eubusinessregister.org
+blacklist_from *@nrcir.org
+blacklist_from *.nrcir.org
+blacklist_from *@hebrgers.fr
+blacklist_from *.hebrgers.fr
 blacklist_from *@atyrau-refinery.com
 blacklist_from *.atyrau-refinery.com
 blacklist_from *@termoplusimpianti.it
