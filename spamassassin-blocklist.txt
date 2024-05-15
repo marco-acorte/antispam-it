@@ -1,3 +1,11 @@
+blacklist_from *@hehobergers.fr
+blacklist_from *.hehobergers.fr
+blacklist_from *@technofoam.ir
+blacklist_from *.technofoam.ir
+blacklist_from *@biz-linking.top
+blacklist_from *.biz-linking.top
+blacklist_from *@experts-bridging.top
+blacklist_from *.experts-bridging.top
 blacklist_from *@barbieriapp.it
 blacklist_from *.barbieriapp.it
 blacklist_from *@eubusinessregister.net
