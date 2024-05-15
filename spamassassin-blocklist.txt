@@ -1,3 +1,5 @@
+blacklist_from *@barbieriapp.it
+blacklist_from *.barbieriapp.it
 blacklist_from *@eubusinessregister.net
 blacklist_from *.eubusinessregister.net
 blacklist_from *@eubusinessregister.org
