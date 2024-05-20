@@ -1,3 +1,7 @@
+blacklist_from *@hotelrivierableu.it
+blacklist_from *.hotelrivierableu.it
+blacklist_from *@ngm-soluzioniufficio.com
+blacklist_from *.ngm-soluzioniufficio.com
 blacklist_from *@hehobergers.fr
 blacklist_from *.hehobergers.fr
 blacklist_from *@technofoam.ir
