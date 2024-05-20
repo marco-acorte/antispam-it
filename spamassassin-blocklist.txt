@@ -1,3 +1,9 @@
+blacklist_from *@bargainsagency.com
+blacklist_from *.bargainsagency.com
+blacklist_from *@offerteboomer.it
+blacklist_from *.offerteboomer.it
+blacklist_from *@marketstorexperts.pro
+blacklist_from *.marketstorexperts.pro
 blacklist_from *@hotelrivierableu.it
 blacklist_from *.hotelrivierableu.it
 blacklist_from *@ngm-soluzioniufficio.com
