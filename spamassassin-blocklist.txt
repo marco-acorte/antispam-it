@@ -1,3 +1,11 @@
+blacklist_from *@professional-range.top
+blacklist_from *.professional-range.top
+blacklist_from *@mail-funnel.top
+blacklist_from *.mail-funnel.top
+blacklist_from *@prodottiufficio.info
+blacklist_from *.prodottiufficio.info
+blacklist_from *@buysocials.it
+blacklist_from *.buysocials.it
 blacklist_from *@bargainsagency.com
 blacklist_from *.bargainsagency.com
 blacklist_from *@offerteboomer.it
@@ -2194,6 +2202,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from accessoriufficio@gmail.com
 blacklist_from andreadalena.copy@gmail.com
 blacklist_from stampanticartucce@gmail.com
 blacklist_from david06.seo@gmail.com
