@@ -1,3 +1,5 @@
+blacklist_from *@mlcbbs.com
+blacklist_from *.mlcbbs.com
 blacklist_from *@julape.fr
 blacklist_from *.julape.fr
 blacklist_from *@professional-range.top
