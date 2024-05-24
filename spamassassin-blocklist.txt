@@ -1,3 +1,7 @@
+blacklist_from *@enlignebe.shop
+blacklist_from *.enlignebe.shop
+blacklist_from *@productofchoice.com
+blacklist_from *.productofchoice.com
 blacklist_from *@mlcbbs.com
 blacklist_from *.mlcbbs.com
 blacklist_from *@julape.fr
