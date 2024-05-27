@@ -1,3 +1,5 @@
+blacklist_from *@apizzi.com
+blacklist_from *.apizzi.com
 blacklist_from *@enlignebe.shop
 blacklist_from *.enlignebe.shop
 blacklist_from *@productofchoice.com
