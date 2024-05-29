@@ -1,3 +1,5 @@
+blacklist_from *@filbe.wiki
+blacklist_from *.filbe.wiki
 blacklist_from *@lacommarket.fr
 blacklist_from *.lacommarket.fr
 blacklist_from *@trovaclientidigitali.it
