@@ -81,3 +81,8 @@ form: <https://www.brevo.com/contact/#abuse>
     All abuse reports for Online.net / Scaleway.com MUST be reported on <https://abuse.scaleway.com> to be processed by our abuse team and our customers with proper issue tracking.
     Thank you,
     The Scaleway Abuse Team
+
+### Netsons
+
+- form: <https://www.netsons.com/contatti/abuse/>
+- email: <abuse@netsons.com>
