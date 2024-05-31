@@ -1,3 +1,5 @@
+blacklist_from *@aprireingermania.it
+blacklist_from *.aprireingermania.it
 blacklist_from *@filbe.wiki
 blacklist_from *.filbe.wiki
 blacklist_from *@lacommarket.fr
