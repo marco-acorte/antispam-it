@@ -1,3 +1,5 @@
+blacklist_from *@besocta.com
+blacklist_from *.besocta.com
 blacklist_from *@3scoin.com
 blacklist_from *.3scoin.com
 blacklist_from *@apcis.org
