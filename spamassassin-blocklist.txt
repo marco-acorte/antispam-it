@@ -1,3 +1,5 @@
+blacklist_from *@areaclientiwebb.com
+blacklist_from *.areaclientiwebb.com
 blacklist_from *@web4you.in
 blacklist_from *.web4you.in
 blacklist_from *@besocta.com
