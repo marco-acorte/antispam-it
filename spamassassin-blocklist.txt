@@ -1,3 +1,5 @@
+blacklist_from *@web4you.in
+blacklist_from *.web4you.in
 blacklist_from *@besocta.com
 blacklist_from *.besocta.com
 blacklist_from *@3scoin.com
@@ -2240,6 +2242,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from noorshahzadi.seo@gmail.com
 blacklist_from accessoriufficio@gmail.com
 blacklist_from andreadalena.copy@gmail.com
 blacklist_from stampanticartucce@gmail.com
