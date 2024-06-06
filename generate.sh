@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# calculate version based on current datetime .example: 2021.01.01.01.01
+version=$(date +"%Y.%m.%d.%H.%M")
+
+echo "Version: $version"
+
 # generate header.txt
 ./generate-header.sh > header.txt
 
