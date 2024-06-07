@@ -1,3 +1,7 @@
+blacklist_from *@consulting-routing.top
+blacklist_from *.consulting-routing.top
+blacklist_from *@diffusion-bridging.top
+blacklist_from *.diffusion-bridging.top
 blacklist_from *@areaclientiwebb.com
 blacklist_from *.areaclientiwebb.com
 blacklist_from *@web4you.in
