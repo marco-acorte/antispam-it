@@ -1,3 +1,5 @@
+blacklist_from *@archadu.fr
+blacklist_from *.archadu.fr
 blacklist_from *@consulting-routing.top
 blacklist_from *.consulting-routing.top
 blacklist_from *@diffusion-bridging.top
