@@ -1,3 +1,5 @@
+blacklist_from *@bargainsoffice.com
+blacklist_from *.bargainsoffice.com
 blacklist_from *@archadu.fr
 blacklist_from *.archadu.fr
 blacklist_from *@consulting-routing.top
@@ -2250,6 +2252,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekelliott.com
 blacklist_from *.zekelliott.com
+blacklist_from nataliasignora@emailstudio.live
 blacklist_from noorshahzadi.seo@gmail.com
 blacklist_from accessoriufficio@gmail.com
 blacklist_from andreadalena.copy@gmail.com
