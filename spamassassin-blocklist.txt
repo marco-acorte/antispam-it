@@ -1,3 +1,5 @@
+blacklist_from *@meetteck.com
+blacklist_from *.meetteck.com
 blacklist_from *@bargainsoffice.com
 blacklist_from *.bargainsoffice.com
 blacklist_from *@archadu.fr
