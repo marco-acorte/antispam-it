@@ -1,3 +1,5 @@
+blacklist_from *@codemywordpress.com
+blacklist_from *.codemywordpress.com
 blacklist_from *@mailtargetservizi.it
 blacklist_from *.mailtargetservizi.it
 blacklist_from *@meetteck.com
