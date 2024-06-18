@@ -1,3 +1,7 @@
+blacklist_from *@wimtran.org
+blacklist_from *.wimtran.org
+blacklist_from *@sebrinawillett.net
+blacklist_from *.sebrinawillett.net
 blacklist_from *@codemywordpress.com
 blacklist_from *.codemywordpress.com
 blacklist_from *@mailtargetservizi.it
