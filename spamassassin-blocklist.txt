@@ -1,3 +1,7 @@
+blacklist_from *@new-linking.top
+blacklist_from *.new-linking.top
+blacklist_from *@catenaliggette.net
+blacklist_from *.catenaliggette.net
 blacklist_from *@wimtran.org
 blacklist_from *.wimtran.org
 blacklist_from *@sebrinawillett.net
