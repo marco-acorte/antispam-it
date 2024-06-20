@@ -1,3 +1,7 @@
+blacklist_from *@velocilikes.it
+blacklist_from *.velocilikes.it
+blacklist_from *@seguiplus.it
+blacklist_from *.seguiplus.it
 blacklist_from *@emails-funnel.top
 blacklist_from *.emails-funnel.top
 blacklist_from *@email-range.top
@@ -2268,8 +2272,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
-blacklist_from *@zekelliott.co
-blacklist_from *.zekelliott.co
+blacklist_from *@zekelliott.c
+blacklist_from *.zekelliott.c
 blacklist_from pennapaphotiseema@gmail.com
 blacklist_from ajvdjvdrobdjv@gmail.com
 blacklist_from jayla.snyder@msn.com
