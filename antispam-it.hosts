@@ -1,16 +1,17 @@
 # Hosts file for blocking spam domains
-#
-# This hosts file is a combination of antispam-it.txt and the original hosts file from StevenBlack/hosts.
-#
-# Last Update: gio 20 giu 2024, 09:26:13, UTC
-#
+# 
+# Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
+# Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
+# campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
+# 
+# Last Update: gio 20 giu 2024, 09:29:01, UTC
+# 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
-#
+# 
 # Support the project with a donation: https://www.buymeacoffee.com/marcoacorte
-#
+# 
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
-#
 0.0.0.0    emails-funnel.top
 0.0.0.0    email-range.top
 0.0.0.0    new-linking.top
@@ -1146,5 +1147,5 @@
 0.0.0.0    wmtech360.com
 0.0.0.0    wowmobileapp.tech
 0.0.0.0    xu.com
-0.0.0.0    zekelliott.com
+0.0.0.0    zekelliott.co
 # ======================================================================================================

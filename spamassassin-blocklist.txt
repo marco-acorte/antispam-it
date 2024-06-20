@@ -2268,8 +2268,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
-blacklist_from *@zekelliott.com
-blacklist_from *.zekelliott.com
+blacklist_from *@zekelliott.co
+blacklist_from *.zekelliott.co
 blacklist_from pennapaphotiseema@gmail.com
 blacklist_from ajvdjvdrobdjv@gmail.com
 blacklist_from jayla.snyder@msn.com
