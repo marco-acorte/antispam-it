@@ -8,14 +8,14 @@ Strictly blocks advertisements networks, malwares, spams, statistics & trackers 
 
 the lists are:
 
-- antispam-it.txt (DNSBL to be used as mail client filters or server filters)
-- antispam-it.hosts (hosts file to be used as DNS resolver)
-- antispam-it.json (json file to be used in your applications)
-- antispam-it.csv (csv file to be used in your applications)
-- ip-to-ban.txt (ip list for firewall blocklist)
-- antispam-emails.txt (full emails addresses to block, also added to the spamassassin-blocklist.txt)
-- spamassassin-blocklist.txt (rules already prepared to be added to /etc/mail/spamassassin/local.cf)
-- outlook-blocklist.txt (rules already prepared to be added to MS Outlook)
+- [antispam-it.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt) (DNSBL to be used as mail client filters or server filters)
+- [antispam-it.hosts](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.hosts) (hosts file to be used as DNS resolver)
+- [antispam-it.json](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.json) (json file to be used in your applications)
+- [antispam-it.csv](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.csv) (csv file to be used in your applications)
+- [ip-to-ban.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/ip-to-ban.txt) (ip list for firewall blocklist)
+- [antispam-emails.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-emails.txt) (full emails addresses to block, also added to the spamassassin-blocklist.txt)
+- [spamassassin-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/spamassassin-blocklist.txt) (rules already prepared to be added to /etc/mail/spamassassin/local.cf)
+- [outlook-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/outlook-blocklist.txt) (rules already prepared to be added to MS Outlook)
 
 ## 💖 Support development
 

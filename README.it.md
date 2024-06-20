@@ -10,14 +10,14 @@ Verificato manualmente e aggiornato regolarmente.
 
 le liste sono:
 
-- antispam-it.txt (DNSBL da usare come filtri per client di posta o per filtri server)
-- antispam-it.hosts (file hosts da usare come risolutore DNS)
-- antispam-it.json (file json da usare nelle tue applicazioni)
-- antispam-it.csv (file csv da usare nelle tue applicazioni)
-- ip-to-ban.txt (lista ip per firewall blocklist)
-- antispam-emails.txt (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
-- spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
-- outlook-blocklist.txt (regole già pronte per essere aggiunte a MS Outlook)
+- [antispam-it.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt) (DNSBL da usare come filtri per client di posta o per filtri server)
+- [antispam-it.hosts](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.hosts) (file hosts da usare come risolutore DNS)
+- [antispam-it.json](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.json) (file json da usare nelle tue applicazioni)
+- [antispam-it.csv](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.csv) (file csv da usare nelle tue applicazioni)
+- [ip-to-ban.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/ip-to-ban.txt) (lista ip per firewall blocklist)
+- [antispam-emails.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-emails.txt) (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
+- [spamassassin-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/spamassassin-blocklist.txt) (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
+- [outlook-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/outlook-blocklist.txt) (regole già pronte per essere aggiunte a MS Outlook)
 
 ## 💖 Sostieni lo sviluppo
 
