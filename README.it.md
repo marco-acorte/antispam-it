@@ -11,6 +11,9 @@ Verificato manualmente e aggiornato regolarmente.
 le liste sono:
 
 - antispam-it.txt (DNSBL da usare come filtri per client di posta o per filtri server)
+- antispam-it.hosts (file hosts da usare come risolutore DNS)
+- antispam-it.json (file json da usare nelle tue applicazioni)
+- antispam-it.csv (file csv da usare nelle tue applicazioni)
 - ip-to-ban.txt (lista ip per firewall blocklist)
 - antispam-emails.txt (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
 - spamassassin-blocklist.txt (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
