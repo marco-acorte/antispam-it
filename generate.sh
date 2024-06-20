@@ -13,6 +13,15 @@ cat header.txt antispam-domains.txt > antispam-it.txt
 ./generate-spamassasin-blocklist.sh > spamassassin-blocklist.txt
 ./generate-outlook-blocklist.sh > outlook-blocklist.txt
 
+#generate antispam-it.hosts as elaborated version of antispam-it.txt
+./generate-hosts.sh > antispam-it.hosts
+
+#generate antispam-it.csv as elaborated version of antispam-it.txt
+./generate-csv.sh > antispam-it.csv
+
+#generate antispam-it.json as elaborated version of antispam-it.txt
+./generate-json.sh > antispam-it.json
+
 # commit and push to github all the changes
 git add .
 git commit -m "Update blocklists ver. $version"
