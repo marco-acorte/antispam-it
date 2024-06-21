@@ -2278,8 +2278,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
-blacklist_from *@zekelliott.
-blacklist_from *.zekelliott.
+blacklist_from *@zekelliott
+blacklist_from *.zekelliott
 blacklist_from melaniekreiss@hotmail.com
 blacklist_from jidefalade12@gmail.com
 blacklist_from pennapaphotiseema@gmail.com
