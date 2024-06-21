@@ -13,7 +13,6 @@
   - [x] `json` format
   - [x] `csv` format
   - [x] `txt` format
-  
 - [ ] parse list with <https://github.com/funilrys/PyFunceble>
 
 ## 2.0.0
