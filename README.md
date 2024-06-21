@@ -21,7 +21,8 @@ the lists are:
 
 ### Do you like this project? Support it by donating
 
-- PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 - Liberapay: [Donation](https://liberapay.com/acor3/donate)
+- Buy me a coffee: [Donation](https://buymeacoffee.com/marcoacorte)
+- PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
 Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE) license.
