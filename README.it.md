@@ -23,7 +23,8 @@ le liste sono:
 
 ### Ti piace questo progetto? Sostienilo donando
 
-- PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 - Liberapay: [Donazione](https://liberapay.com/acor3/donate)
+- Buy me a coffee: [Donazione](https://buymeacoffee.com/marcoacorte)
+- PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
 Antispam-it è un software open source concesso in licenza con licenza  [GNU GENERAL PUBLIC LICENSE](LICENSE).
