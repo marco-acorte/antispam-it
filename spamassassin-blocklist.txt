@@ -1,3 +1,9 @@
+blacklist_from *@csemsi.org
+blacklist_from *.csemsi.org
+blacklist_from *@flexy-bridging.top
+blacklist_from *.flexy-bridging.top
+blacklist_from *@news-range.top
+blacklist_from *.news-range.top
 blacklist_from *@velocilikes.it
 blacklist_from *.velocilikes.it
 blacklist_from *@seguiplus.it
@@ -2272,8 +2278,10 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
-blacklist_from *@zekelliott.c
-blacklist_from *.zekelliott.c
+blacklist_from *@zekelliott.
+blacklist_from *.zekelliott.
+blacklist_from melaniekreiss@hotmail.com
+blacklist_from jidefalade12@gmail.com
 blacklist_from pennapaphotiseema@gmail.com
 blacklist_from ajvdjvdrobdjv@gmail.com
 blacklist_from jayla.snyder@msn.com
