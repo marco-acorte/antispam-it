@@ -1,3 +1,5 @@
+blacklist_from *@relibilatonian.com
+blacklist_from *.relibilatonian.com
 blacklist_from *@csemsi.org
 blacklist_from *.csemsi.org
 blacklist_from *@flexy-bridging.top
