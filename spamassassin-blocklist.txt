@@ -1,3 +1,5 @@
+blacklist_from *@professionals-funnel.top
+blacklist_from *.professionals-funnel.top
 blacklist_from *@directdiffusion.uk
 blacklist_from *.directdiffusion.uk
 blacklist_from *@relibilatonian.com
