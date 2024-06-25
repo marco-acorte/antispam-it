@@ -86,3 +86,8 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form: <https://www.netsons.com/contatti/abuse/>
 - email: <abuse@netsons.com>
+
+## TinyURL
+
+- form:
+- email: <abuse@tinyurl.com>
