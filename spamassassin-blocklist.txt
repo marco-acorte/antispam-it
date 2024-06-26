@@ -1,3 +1,7 @@
+blacklist_from *@labeloa.ink
+blacklist_from *.labeloa.ink
+blacklist_from *@soft2share.com
+blacklist_from *.soft2share.com
 blacklist_from *@wise-access.com
 blacklist_from *.wise-access.com
 blacklist_from *@professionals-funnel.top
@@ -2286,6 +2290,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from soft2share.com@gmail.com
 blacklist_from melaniekreiss@hotmail.com
 blacklist_from jidefalade12@gmail.com
 blacklist_from pennapaphotiseema@gmail.com
