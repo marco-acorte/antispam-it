@@ -1,3 +1,5 @@
+blacklist_from *@codedrix.com
+blacklist_from *.codedrix.com
 blacklist_from *@company-funnel.top
 blacklist_from *.company-funnel.top
 blacklist_from *@linkbuildersteam.com
