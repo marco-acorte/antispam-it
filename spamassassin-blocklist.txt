@@ -1,3 +1,5 @@
+blacklist_from *@linkbuildersteam.com
+blacklist_from *.linkbuildersteam.com
 blacklist_from *@labeloa.ink
 blacklist_from *.labeloa.ink
 blacklist_from *@soft2share.com
@@ -2290,6 +2292,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from sonali.linkedbuilderteam@gmail.com
 blacklist_from soft2share.com@gmail.com
 blacklist_from melaniekreiss@hotmail.com
 blacklist_from jidefalade12@gmail.com
