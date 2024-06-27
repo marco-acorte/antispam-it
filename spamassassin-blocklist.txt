@@ -1,3 +1,5 @@
+blacklist_from *@company-funnel.top
+blacklist_from *.company-funnel.top
 blacklist_from *@linkbuildersteam.com
 blacklist_from *.linkbuildersteam.com
 blacklist_from *@labeloa.ink
