@@ -1,3 +1,7 @@
+blacklist_from *@proof-range.top
+blacklist_from *.proof-range.top
+blacklist_from *@teamisd.com
+blacklist_from *.teamisd.com
 blacklist_from *@toolmoldmoulds.com
 blacklist_from *.toolmoldmoulds.com
 blacklist_from *@codedrix.com
