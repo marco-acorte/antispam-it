@@ -1,3 +1,5 @@
+blacklist_from *@toolmoldmoulds.com
+blacklist_from *.toolmoldmoulds.com
 blacklist_from *@codedrix.com
 blacklist_from *.codedrix.com
 blacklist_from *@company-funnel.top
