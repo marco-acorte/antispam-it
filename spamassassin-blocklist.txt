@@ -1,3 +1,9 @@
+blacklist_from *@mail-yahoo.dev
+blacklist_from *.mail-yahoo.dev
+blacklist_from *@ffb-bk.com
+blacklist_from *.ffb-bk.com
+blacklist_from *@europsys.it
+blacklist_from *.europsys.it
 blacklist_from *@proof-range.top
 blacklist_from *.proof-range.top
 blacklist_from *@teamisd.com
