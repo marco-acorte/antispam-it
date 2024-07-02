@@ -1,3 +1,7 @@
+blacklist_from *@comunicazionistaff.info
+blacklist_from *.comunicazionistaff.info
+blacklist_from *@quecesoitlu.fr
+blacklist_from *.quecesoitlu.fr
 blacklist_from *@risparmiazienda.it
 blacklist_from *.risparmiazienda.it
 blacklist_from *@ascpm.info
