@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "risparmiazienda.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "ascpm.info",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "quoiquepourtant.fr",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "mail-yahoo.dev",
     "description": "",
     "source": "",
