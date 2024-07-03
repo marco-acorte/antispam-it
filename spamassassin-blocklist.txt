@@ -1,3 +1,5 @@
+blacklist_from *@letter-funnel.top
+blacklist_from *.letter-funnel.top
 blacklist_from *@catenaliggette.net
 blacklist_from *.catenaliggette.net
 blacklist_from *@oplimisme.com
