@@ -1,3 +1,7 @@
+blacklist_from *@catenaliggette.net
+blacklist_from *.catenaliggette.net
+blacklist_from *@oplimisme.com
+blacklist_from *.oplimisme.com
 blacklist_from *@amazewor.shop
 blacklist_from *.amazewor.shop
 blacklist_from *@comunicazionistaff.info
