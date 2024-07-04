@@ -1,3 +1,7 @@
+blacklist_from *@jsscomp.com
+blacklist_from *.jsscomp.com
+blacklist_from *@infoimpresa.cloud
+blacklist_from *.infoimpresa.cloud
 blacklist_from *@letter-funnel.top
 blacklist_from *.letter-funnel.top
 blacklist_from *@catenaliggette.net
