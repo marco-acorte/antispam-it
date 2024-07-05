@@ -1,3 +1,7 @@
+blacklist_from *@szsbb.eu
+blacklist_from *.szsbb.eu
+blacklist_from *@peggychan.pro
+blacklist_from *.peggychan.pro
 blacklist_from *@jsscomp.com
 blacklist_from *.jsscomp.com
 blacklist_from *@infoimpresa.cloud
