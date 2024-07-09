@@ -1,3 +1,5 @@
+blacklist_from *@expert-range.top
+blacklist_from *.expert-range.top
 blacklist_from *@szsbb.eu
 blacklist_from *.szsbb.eu
 blacklist_from *@peggychan.pro
