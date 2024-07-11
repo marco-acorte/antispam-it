@@ -1,3 +1,5 @@
+blacklist_from *@smartluggage.net
+blacklist_from *.smartluggage.net
 blacklist_from *@impresapastore.it
 blacklist_from *.impresapastore.it
 blacklist_from *@expert-range.top
