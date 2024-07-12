@@ -1,3 +1,7 @@
+blacklist_from *@i-bit.pt
+blacklist_from *.i-bit.pt
+blacklist_from *@augeology.net
+blacklist_from *.augeology.net
 blacklist_from *@smartluggage.net
 blacklist_from *.smartluggage.net
 blacklist_from *@impresapastore.it
