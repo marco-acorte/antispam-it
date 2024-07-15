@@ -1,3 +1,5 @@
+blacklist_from *@gaillac-distribution.fr
+blacklist_from *.gaillac-distribution.fr
 blacklist_from *@lorrinelindsay.com
 blacklist_from *.lorrinelindsay.com
 blacklist_from *@talamhas.com
@@ -2348,6 +2350,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from brgdistribution@gmail.com
 blacklist_from victoria1998@personal-email.me
 blacklist_from sonali.linkedbuilderteam@gmail.com
 blacklist_from soft2share.com@gmail.com
