@@ -1,3 +1,9 @@
+blacklist_from *@a-corps-retrouve.com
+blacklist_from *.a-corps-retrouve.com
+blacklist_from *@morgenrothdevelopment.com
+blacklist_from *.morgenrothdevelopment.com
+blacklist_from *@connectasrl.it
+blacklist_from *.connectasrl.it
 blacklist_from *@gaillac-distribution.fr
 blacklist_from *.gaillac-distribution.fr
 blacklist_from *@lorrinelindsay.com
