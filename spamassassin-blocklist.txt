@@ -1,3 +1,7 @@
+blacklist_from *@augeology.net
+blacklist_from *.augeology.net
+blacklist_from *@mowervi.net
+blacklist_from *.mowervi.net
 blacklist_from *@a-corps-retrouve.com
 blacklist_from *.a-corps-retrouve.com
 blacklist_from *@morgenrothdevelopment.com
