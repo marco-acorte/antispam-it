@@ -1,3 +1,5 @@
+blacklist_from *@wbfactor.com
+blacklist_from *.wbfactor.com
 blacklist_from *@pagamentodellefatture.com.pl
 blacklist_from *.pagamentodellefatture.com.pl
 blacklist_from *@thedesignsaward.com
