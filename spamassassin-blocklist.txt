@@ -1,3 +1,5 @@
+blacklist_from *@mails-routing.top
+blacklist_from *.mails-routing.top
 blacklist_from *@turisteandoporhuelva.es
 blacklist_from *.turisteandoporhuelva.es
 blacklist_from *@ocplanetinformatica.it
