@@ -1,3 +1,9 @@
+blacklist_from *@turisteandoporhuelva.es
+blacklist_from *.turisteandoporhuelva.es
+blacklist_from *@ocplanetinformatica.it
+blacklist_from *.ocplanetinformatica.it
+blacklist_from *@societe-range.top
+blacklist_from *.societe-range.top
 blacklist_from *@kzesportazioni.cloud
 blacklist_from *.kzesportazioni.cloud
 blacklist_from *@aziendeexport.cloud
