@@ -1,3 +1,7 @@
+blacklist_from *@kzesportazioni.cloud
+blacklist_from *.kzesportazioni.cloud
+blacklist_from *@aziendeexport.cloud
+blacklist_from *.aziendeexport.cloud
 blacklist_from *@diffusion-range.top
 blacklist_from *.diffusion-range.top
 blacklist_from *@diffusion-funnel.top
