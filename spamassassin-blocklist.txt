@@ -1,3 +1,5 @@
+blacklist_from *@clipea.eu
+blacklist_from *.clipea.eu
 blacklist_from *@computers1000.com
 blacklist_from *.computers1000.com
 blacklist_from *@mails-routing.top
