@@ -1,3 +1,9 @@
+blacklist_from *@cialis.lat
+blacklist_from *.cialis.lat
+blacklist_from *@italyoffice.info
+blacklist_from *.italyoffice.info
+blacklist_from *@julupe.fr
+blacklist_from *.julupe.fr
 blacklist_from *@clipea.eu
 blacklist_from *.clipea.eu
 blacklist_from *@computers1000.com
@@ -2388,6 +2394,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from rfpbrianmiller624@gmail.com
+blacklist_from tonergarantiti@gmail.com
 blacklist_from brgdistribution@gmail.com
 blacklist_from victoria1998@personal-email.me
 blacklist_from sonali.linkedbuilderteam@gmail.com
