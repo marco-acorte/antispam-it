@@ -1,3 +1,9 @@
+blacklist_from *@bancomail.org
+blacklist_from *.bancomail.org
+blacklist_from *@bancomail.it
+blacklist_from *.bancomail.it
+blacklist_from *@unilever-belgium.com
+blacklist_from *.unilever-belgium.com
 blacklist_from *@compralike.it
 blacklist_from *.compralike.it
 blacklist_from *@thecodepals.com
