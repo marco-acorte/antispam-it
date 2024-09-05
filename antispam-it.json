@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "compara.info",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "unilever-tenders.com",
     "description": "",
     "source": "",
