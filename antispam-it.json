@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "phpminds.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "uninform.com",
     "description": "",
     "source": "",

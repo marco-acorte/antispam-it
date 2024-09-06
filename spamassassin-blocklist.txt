@@ -1,3 +1,5 @@
+blacklist_from *@phpminds.com
+blacklist_from *.phpminds.com
 blacklist_from *@uninform.com
 blacklist_from *.uninform.com
 blacklist_from *@companyloans.us
