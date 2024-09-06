@@ -1,3 +1,5 @@
+blacklist_from *@uninform.com
+blacklist_from *.uninform.com
 blacklist_from *@companyloans.us
 blacklist_from *.companyloans.us
 blacklist_from *@pcxleads.com

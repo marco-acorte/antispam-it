@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "uninform.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "companyloans.us",
     "description": "",
     "source": "",
