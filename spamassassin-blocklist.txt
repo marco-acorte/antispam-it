@@ -1,3 +1,5 @@
+blacklist_from *@companyloans.us
+blacklist_from *.companyloans.us
 blacklist_from *@pcxleads.com
 blacklist_from *.pcxleads.com
 blacklist_from *@compara.info
