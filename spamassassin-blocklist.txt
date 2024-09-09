@@ -1,3 +1,5 @@
+blacklist_from *@lavoro24.it
+blacklist_from *.lavoro24.it
 blacklist_from *@phpminds.com
 blacklist_from *.phpminds.com
 blacklist_from *@uninform.com

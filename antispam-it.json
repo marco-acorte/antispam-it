@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "lavoro24.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "phpminds.com",
     "description": "",
     "source": "",
