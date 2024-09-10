@@ -1,3 +1,9 @@
+blacklist_from *@tubakon.com
+blacklist_from *.tubakon.com
+blacklist_from *@shcmfg.cn
+blacklist_from *.shcmfg.cn
+blacklist_from *@shcmfg.com
+blacklist_from *.shcmfg.com
 blacklist_from *@lavoro24.it
 blacklist_from *.lavoro24.it
 blacklist_from *@phpminds.com
