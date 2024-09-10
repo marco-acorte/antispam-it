@@ -1,3 +1,5 @@
+blacklist_from *@digital-x-press.co
+blacklist_from *.digital-x-press.co
 blacklist_from *@tubakon.com
 blacklist_from *.tubakon.com
 blacklist_from *@shcmfg.cn
