@@ -1,3 +1,5 @@
+blacklist_from *@alimenta.biz
+blacklist_from *.alimenta.biz
 blacklist_from *@ebtrk6.com
 blacklist_from *.ebtrk6.com
 blacklist_from *@ebtrk5.com
