@@ -1,3 +1,9 @@
+blacklist_from *@sichq.com
+blacklist_from *.sichq.com
+blacklist_from *@italiane-cliente.com
+blacklist_from *.italiane-cliente.com
+blacklist_from *@piano-industriale.it
+blacklist_from *.piano-industriale.it
 blacklist_from *@alimenta.biz
 blacklist_from *.alimenta.biz
 blacklist_from *@ebtrk6.com
