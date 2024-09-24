@@ -1,3 +1,5 @@
+blacklist_from *@italiane-cliente.net
+blacklist_from *.italiane-cliente.net
 blacklist_from *@sichq.com
 blacklist_from *.sichq.com
 blacklist_from *@italiane-cliente.com
