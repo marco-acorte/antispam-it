@@ -1,3 +1,11 @@
+blacklist_from *@designyourwebs.com
+blacklist_from *.designyourwebs.com
+blacklist_from *@minin-sz.com
+blacklist_from *.minin-sz.com
+blacklist_from *@monkey-digital.com
+blacklist_from *.monkey-digital.com
+blacklist_from *@creative-digital.net
+blacklist_from *.creative-digital.net
 blacklist_from *@italiane-cliente.net
 blacklist_from *.italiane-cliente.net
 blacklist_from *@sichq.com
