@@ -1,3 +1,7 @@
+blacklist_from *@commerceshq.com
+blacklist_from *.commerceshq.com
+blacklist_from *@gemte.click
+blacklist_from *.gemte.click
 blacklist_from *@designyourwebs.com
 blacklist_from *.designyourwebs.com
 blacklist_from *@minin-sz.com
