@@ -2492,6 +2492,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from gabriela.dancy@gmail.com>
 blacklist_from demtredue@gmail.com
 blacklist_from zufrichardjackson005@gmail.com
 blacklist_from rfpbrianmiller624@gmail.com
