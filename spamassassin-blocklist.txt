@@ -1,3 +1,7 @@
+blacklist_from *@corporate-range.top
+blacklist_from *.corporate-range.top
+blacklist_from *@next-road.top
+blacklist_from *.next-road.top
 blacklist_from *@commerceshq.com
 blacklist_from *.commerceshq.com
 blacklist_from *@gemte.click
