@@ -4,7 +4,7 @@
 
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
-Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it). 
+Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it).
 
 Verificato manualmente e aggiornato regolarmente.
 
