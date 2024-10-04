@@ -1,3 +1,5 @@
+blacklist_from *@digitcomc.shop
+blacklist_from *.digitcomc.shop
 blacklist_from *@grandte.click
 blacklist_from *.grandte.click
 blacklist_from *@corporate-range.top
