@@ -2653,6 +2653,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from eurofintechprestiti2023@arubapec.it
 blacklist_from fintecheurofinanziamento2023@pec.it
 blacklist_from prestitoeurofintech@arubapec.it
 blacklist_from eurofinanziamentostartup2023@pec.it
