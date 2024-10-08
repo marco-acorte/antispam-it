@@ -3,7 +3,7 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Last Update: ven 4 ott 2024, 16:07:40, UTC
+# Last Update: mar 8 ott 2024, 16:01:12, UTC
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
