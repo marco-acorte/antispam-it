@@ -2508,6 +2508,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from lottiethompson497@gmail.com
 blacklist_from codyorick@homesc.com
 blacklist_from ibucezevuda439@gmail.com
 blacklist_from agavapicod390@gmail.com
