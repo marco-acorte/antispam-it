@@ -1,3 +1,9 @@
+blacklist_from *@next-range.top
+blacklist_from *.next-range.top
+blacklist_from *@airwheelstore.com
+blacklist_from *.airwheelstore.com
+blacklist_from *@0daymusic.org
+blacklist_from *.0daymusic.org
 blacklist_from *@buybrand.net
 blacklist_from *.buybrand.net
 blacklist_from *@digitcomc.shop
@@ -2502,6 +2508,8 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from codyorick@homesc.com
+blacklist_from ibucezevuda439@gmail.com
 blacklist_from agavapicod390@gmail.com
 blacklist_from idipufazawum98@gmail.com
 blacklist_from joannariggs278@gmail.com
