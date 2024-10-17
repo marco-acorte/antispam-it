@@ -1,3 +1,5 @@
+blacklist_from *@nexttdev.com
+blacklist_from *.nexttdev.com
 blacklist_from *@next-range.top
 blacklist_from *.next-range.top
 blacklist_from *@airwheelstore.com
