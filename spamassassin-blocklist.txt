@@ -1,3 +1,7 @@
+blacklist_from *@accstores.com
+blacklist_from *.accstores.com
+blacklist_from *@ranksrecovery.com
+blacklist_from *.ranksrecovery.com
 blacklist_from *@nexttdev.com
 blacklist_from *.nexttdev.com
 blacklist_from *@next-range.top
@@ -2510,6 +2514,7 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from accstores.com@gmail.com
 blacklist_from ameliabrown12784@gmail.com
 blacklist_from megaboommegaboom@yandex.com
 blacklist_from axobajigufo34@gmail.com
