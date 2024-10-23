@@ -1,3 +1,5 @@
+blacklist_from *@csqs.it
+blacklist_from *.csqs.it
 blacklist_from *@emailcertificatapec.it
 blacklist_from *.emailcertificatapec.it
 blacklist_from *@contactorai.it

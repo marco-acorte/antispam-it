@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "csqs.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "emailcertificatapec.it",
     "description": "",
     "source": "",
