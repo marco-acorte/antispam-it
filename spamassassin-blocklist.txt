@@ -1,3 +1,9 @@
+blacklist_from *@bonolaoffice.cloud
+blacklist_from *.bonolaoffice.cloud
+blacklist_from *@onlinelocalmarketing.org
+blacklist_from *.onlinelocalmarketing.org
+blacklist_from *@onlinelocalmarketing.net
+blacklist_from *.onlinelocalmarketing.net
 blacklist_from *@csqs.it
 blacklist_from *.csqs.it
 blacklist_from *@emailcertificatapec.it
