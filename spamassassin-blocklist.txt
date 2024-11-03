@@ -1,3 +1,7 @@
+blacklist_from *@nivolab.com
+blacklist_from *.nivolab.com
+blacklist_from *@livejob.biz
+blacklist_from *.livejob.biz
 blacklist_from *@bonolaoffice.cloud
 blacklist_from *.bonolaoffice.cloud
 blacklist_from *@onlinelocalmarketing.org
