@@ -3,7 +3,7 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Last Update: dom 3 nov 2024, 09:34:07, UTC
+# Last Update: lun  4 nov 2024 16:47:29
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -11,6 +11,8 @@
 # 
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
+tomyaccount.com
+strictlyseonet.com
 nivolab.com
 livejob.biz
 bonolaoffice.cloud
@@ -131,7 +133,7 @@ teamisd.com
 toolmoldmoulds.com
 codedrix.com
 company-funnel.top
-linkbuildersteam.com 
+linkbuildersteam.com
 labeloa.ink
 soft2share.com
 wise-access.com
@@ -371,7 +373,7 @@ bizsynergy.co
 tradepartnerpro.co
 ceama.pics
 b2btradeexpert.co
-somolla.pics 
+somolla.pics
 markopn.mom
 infodata-diff.eu
 growthtradewave.co

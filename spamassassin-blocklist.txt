@@ -1,3 +1,7 @@
+blacklist_from *@tomyaccount.com
+blacklist_from *.tomyaccount.com
+blacklist_from *@strictlyseonet.com
+blacklist_from *.strictlyseonet.com
 blacklist_from *@nivolab.com
 blacklist_from *.nivolab.com
 blacklist_from *@livejob.biz
@@ -2532,6 +2536,10 @@ blacklist_from *@wowmobileapp.tech
 blacklist_from *.wowmobileapp.tech
 blacklist_from *@xu.com
 blacklist_from *.xu.com
+blacklist_from *@zekellio
+blacklist_from *.zekellio
+blacklist_from felicitysauncho@gmail.com
+blacklist_from rigoberto.trevino@gmail.com
 blacklist_from accstores.com@gmail.com
 blacklist_from ameliabrown12784@gmail.com
 blacklist_from megaboommegaboom@yandex.com

@@ -1,6 +1,22 @@
 {
 "domains": [
   {
+    "domain": "tomyaccount.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "strictlyseonet.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "nivolab.com",
     "description": "",
     "source": "",
@@ -961,7 +977,7 @@
     "note": ""
   }
   ,{
-    "domain": "linkbuildersteam.com ",
+    "domain": "linkbuildersteam.com",
     "description": "",
     "source": "",
     "category": "",
@@ -2881,7 +2897,7 @@
     "note": ""
   }
   ,{
-    "domain": "somolla.pics ",
+    "domain": "somolla.pics",
     "description": "",
     "source": "",
     "category": "",
@@ -10130,6 +10146,14 @@
   }
   ,{
     "domain": "xu.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "zekellio",
     "description": "",
     "source": "",
     "category": "",
