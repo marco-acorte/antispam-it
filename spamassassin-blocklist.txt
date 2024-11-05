@@ -1,3 +1,5 @@
+blacklist_from *@livejob.app
+blacklist_from *.livejob.app
 blacklist_from *@tomyaccount.com
 blacklist_from *.tomyaccount.com
 blacklist_from *@strictlyseonet.com

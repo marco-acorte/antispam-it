@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "livejob.app",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "tomyaccount.com",
     "description": "",
     "source": "",
