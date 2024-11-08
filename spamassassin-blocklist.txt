@@ -1,3 +1,7 @@
+blacklist_from *@aipromo.it
+blacklist_from *.aipromo.it
+blacklist_from *@azlavoro.it
+blacklist_from *.azlavoro.it
 blacklist_from *@next-funnel.co
 blacklist_from *.next-funnel.co
 blacklist_from *@professionals-range.co
@@ -2548,6 +2552,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from storiaalina@postagroup.store
 blacklist_from felicitysauncho@gmail.com
 blacklist_from rigoberto.trevino@gmail.com
 blacklist_from accstores.com@gmail.com
