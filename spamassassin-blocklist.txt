@@ -1,3 +1,9 @@
+blacklist_from *@next-funnel.co
+blacklist_from *.next-funnel.co
+blacklist_from *@professionals-range.co
+blacklist_from *.professionals-range.co
+blacklist_from *@playtaac.com
+blacklist_from *.playtaac.com
 blacklist_from *@reactteam.digital
 blacklist_from *.reactteam.digital
 blacklist_from *@livejob.app
