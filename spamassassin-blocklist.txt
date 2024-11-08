@@ -1,3 +1,5 @@
+blacklist_from *@reputando.com
+blacklist_from *.reputando.com
 blacklist_from *@aipromo.it
 blacklist_from *.aipromo.it
 blacklist_from *@azlavoro.it
