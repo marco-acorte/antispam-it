@@ -1,3 +1,11 @@
+blacklist_from *@letter-funnel.co
+blacklist_from *.letter-funnel.co
+blacklist_from *@professional-datalift.co
+blacklist_from *.professional-datalift.co
+blacklist_from *@large-range.co
+blacklist_from *.large-range.co
+blacklist_from *@proof-range.co
+blacklist_from *.proof-range.co
 blacklist_from *@rotevcolab.com
 blacklist_from *.rotevcolab.com
 blacklist_from *@reputando.com
