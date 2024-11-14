@@ -1,5 +1,9 @@
 blacklist_from *@colisefro.fanlink.tv
 blacklist_from *.colisefro.fanlink.tv
+blacklist_from *@esselunga.fanlink.tv
+blacklist_from *.esselunga.fanlink.tv
+blacklist_from *@storediscountshopperz.club
+blacklist_from *.storediscountshopperz.club
 blacklist_from *@entalhygieneproducts.icu
 blacklist_from *.entalhygieneproducts.icu
 blacklist_from *@letter-funnel.co
