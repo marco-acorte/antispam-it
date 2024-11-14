@@ -1,3 +1,7 @@
+blacklist_from *@letters-range.co
+blacklist_from *.letters-range.co
+blacklist_from *@professional-range.co
+blacklist_from *.professional-range.co
 blacklist_from *@colisefro.fanlink.tv
 blacklist_from *.colisefro.fanlink.tv
 blacklist_from *@esselunga.fanlink.tv
