@@ -1,3 +1,17 @@
+blacklist_from *@tlby021.com
+blacklist_from *.tlby021.com
+blacklist_from *@modulstudio.it
+blacklist_from *.modulstudio.it
+blacklist_from *@newsmodulstudio.it
+blacklist_from *.newsmodulstudio.it
+blacklist_from *@nexi-soluzioni.org
+blacklist_from *.nexi-soluzioni.org
+blacklist_from *@digitalinnovatica.com
+blacklist_from *.digitalinnovatica.com
+blacklist_from *@medialab-eu.it
+blacklist_from *.medialab-eu.it
+blacklist_from *@ufficiogadget.info
+blacklist_from *.ufficiogadget.info
 blacklist_from *@letters-range.co
 blacklist_from *.letters-range.co
 blacklist_from *@professional-range.co
@@ -2576,6 +2590,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from oks.popova197@gmail.com
+blacklist_from russelllucasseo@gmail.com
 blacklist_from storiaalina@postagroup.store
 blacklist_from felicitysauncho@gmail.com
 blacklist_from rigoberto.trevino@gmail.com
