@@ -1,3 +1,5 @@
+blacklist_from *@mwspace.com
+blacklist_from *.mwspace.com
 blacklist_from *@tlby021.com
 blacklist_from *.tlby021.com
 blacklist_from *@modulstudio.it
