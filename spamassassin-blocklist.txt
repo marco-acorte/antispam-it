@@ -1,3 +1,9 @@
+blacklist_from *@connecta-agency.it
+blacklist_from *.connecta-agency.it
+blacklist_from *@connectasrl.it
+blacklist_from *.connectasrl.it
+blacklist_from *@serpbooster.top
+blacklist_from *.serpbooster.top
 blacklist_from *@mwspace.com
 blacklist_from *.mwspace.com
 blacklist_from *@tlby021.com
@@ -2592,6 +2598,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from emelialeanon@gmail.com
 blacklist_from oks.popova197@gmail.com
 blacklist_from russelllucasseo@gmail.com
 blacklist_from storiaalina@postagroup.store
