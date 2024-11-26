@@ -1,3 +1,5 @@
+blacklist_from *@jiuzuzong.com
+blacklist_from *.jiuzuzong.com
 blacklist_from *@connecta-agency.it
 blacklist_from *.connecta-agency.it
 blacklist_from *@connectasrl.it
