@@ -2600,6 +2600,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from hryakhruk@gmail.com
 blacklist_from jamesgeorgesco@gmail.com
 blacklist_from emelialeanon@gmail.com
 blacklist_from oks.popova197@gmail.com
