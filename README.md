@@ -4,7 +4,7 @@
 
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
-Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
+Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam/scam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 
 the lists are:
 
@@ -26,3 +26,9 @@ the lists are:
 - PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
 Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE) license.
+
+The project is developed by [Marco Acorte](https://marcoacorte.com) and is available on [GitHub](https://github.com/marco-acorte/antispam-it).
+
+The project and its contents are included also in these awesome projects:
+- [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean! ](https://github.com/hagezi/dns-blocklists/)
+- 

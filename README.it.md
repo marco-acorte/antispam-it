@@ -4,7 +4,7 @@
 
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
-Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it).
+Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, gli scam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it).
 
 Verificato manualmente e aggiornato regolarmente.
 
@@ -28,3 +28,8 @@ le liste sono:
 - PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
 Antispam-it è un software open source concesso in licenza con licenza  [GNU GENERAL PUBLIC LICENSE](LICENSE).
+
+Il progetto è sviluppato da [Marco Acorte](https://marcoacorte.com) ed è disponibile su [GitHub](https://github.com/marco-acorte/antispam-it).
+
+Il progetto e i suoi contenuti sono inclusi anche in questi fantastici progetti:
+- [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean! ](https://github.com/hagezi/dns-blocklists/)
