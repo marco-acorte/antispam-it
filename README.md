@@ -30,5 +30,6 @@ Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICEN
 The project is developed by [Marco Acorte](https://marcoacorte.com) and is available on [GitHub](https://github.com/marco-acorte/antispam-it).
 
 The project and its contents are included also in these awesome projects:
-- [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean! ](https://github.com/hagezi/dns-blocklists/)
-- 
+
+- [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists/)
+- [NoTracking, Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage](https://github.com/notracking/hosts-blocklists)
