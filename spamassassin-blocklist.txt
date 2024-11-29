@@ -1,3 +1,7 @@
+blacklist_from *@marika.com
+blacklist_from *.marika.com
+blacklist_from *@klclick1.com
+blacklist_from *.klclick1.com
 blacklist_from *@mvstselect.com
 blacklist_from *.mvstselect.com
 blacklist_from *@klclick.com
