@@ -1,3 +1,7 @@
+blacklist_from *@mvstselect.com
+blacklist_from *.mvstselect.com
+blacklist_from *@klclick.com
+blacklist_from *.klclick.com
 blacklist_from *@cnkia.net
 blacklist_from *.cnkia.net
 blacklist_from *@ilcascinale.com
