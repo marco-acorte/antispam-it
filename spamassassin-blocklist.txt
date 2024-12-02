@@ -1,3 +1,9 @@
+blacklist_from *@digitalxflow.com
+blacklist_from *.digitalxflow.com
+blacklist_from *@monkeydigital.co
+blacklist_from *.monkeydigital.co
+blacklist_from *@wolf.agency
+blacklist_from *.wolf.agency
 blacklist_from *@marika.com
 blacklist_from *.marika.com
 blacklist_from *@klclick1.com
@@ -2612,6 +2618,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from shimla.hazara@gmail.com
 blacklist_from hryakhruk@gmail.com
 blacklist_from jamesgeorgesco@gmail.com
 blacklist_from emelialeanon@gmail.com
