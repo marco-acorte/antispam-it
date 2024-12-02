@@ -1,3 +1,5 @@
+blacklist_from *@finanza-nex.net
+blacklist_from *.finanza-nex.net
 blacklist_from *@digitalxflow.com
 blacklist_from *.digitalxflow.com
 blacklist_from *@monkeydigital.co
