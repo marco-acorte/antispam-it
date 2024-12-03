@@ -1,3 +1,7 @@
+blacklist_from *@callnme.fit
+blacklist_from *.callnme.fit
+blacklist_from *@get-free-seo.com
+blacklist_from *.get-free-seo.com
 blacklist_from *@finanza-nex.net
 blacklist_from *.finanza-nex.net
 blacklist_from *@digitalxflow.com
@@ -2620,6 +2624,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from rosiewillon@gmail.com
+blacklist_from cloudtrademinning@gmail.com
 blacklist_from shimla.hazara@gmail.com
 blacklist_from hryakhruk@gmail.com
 blacklist_from jamesgeorgesco@gmail.com
