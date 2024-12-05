@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "salescontents.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "getmeyellow.com",
     "description": "",
     "source": "",
