@@ -1,3 +1,5 @@
+blacklist_from *@clwzxl.com
+blacklist_from *.clwzxl.com
 blacklist_from *@salescontents.com
 blacklist_from *.salescontents.com
 blacklist_from *@getmeyellow.com
