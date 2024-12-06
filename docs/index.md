@@ -96,4 +96,4 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - info: <https://sendgrid.com/en-us/report-spam>
 - form:
-- email: <aabuse@sendgrid.com>
+- email: <abuse@sendgrid.com>
