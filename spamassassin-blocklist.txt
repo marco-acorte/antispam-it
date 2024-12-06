@@ -1,3 +1,7 @@
+blacklist_from *@thescullery.ie
+blacklist_from *.thescullery.ie
+blacklist_from *@keq7.com
+blacklist_from *.keq7.com
 blacklist_from *@bro-app.it
 blacklist_from *.bro-app.it
 blacklist_from *@clwzxl.com
