@@ -1,3 +1,5 @@
+blacklist_from *@makesy.com
+blacklist_from *.makesy.com
 blacklist_from *@thescullery.ie
 blacklist_from *.thescullery.ie
 blacklist_from *@keq7.com
