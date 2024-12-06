@@ -87,7 +87,13 @@ form: <https://www.brevo.com/contact/#abuse>
 - form: <https://www.netsons.com/contatti/abuse/>
 - email: <abuse@netsons.com>
 
-## TinyURL
+### TinyURL
 
 - form:
 - email: <abuse@tinyurl.com>
+
+### SendGrid
+
+- info: <https://sendgrid.com/en-us/report-spam>
+- form: 
+- email: <aabuse@sendgrid.com>
