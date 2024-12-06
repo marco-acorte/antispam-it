@@ -1,3 +1,5 @@
+blacklist_from *@proof-bridging.top
+blacklist_from *.proof-bridging.top
 blacklist_from *@makesy.com
 blacklist_from *.makesy.com
 blacklist_from *@thescullery.ie
