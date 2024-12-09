@@ -1,3 +1,5 @@
+blacklist_from *@across.it
+blacklist_from *.across.it
 blacklist_from *@creditostudio.com
 blacklist_from *.creditostudio.com
 blacklist_from *@playtaac.it
