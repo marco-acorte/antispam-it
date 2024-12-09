@@ -1,3 +1,5 @@
+blacklist_from *@playtaac.it
+blacklist_from *.playtaac.it
 blacklist_from *@proof-bridging.top
 blacklist_from *.proof-bridging.top
 blacklist_from *@makesy.com
