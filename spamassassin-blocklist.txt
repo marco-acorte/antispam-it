@@ -1,3 +1,9 @@
+blacklist_from *@mediacodeapp.com
+blacklist_from *.mediacodeapp.com
+blacklist_from *@stqmzn.com
+blacklist_from *.stqmzn.com
+blacklist_from *@psgg123.com
+blacklist_from *.psgg123.com
 blacklist_from *@across.it
 blacklist_from *.across.it
 blacklist_from *@creditostudio.com
@@ -2646,6 +2652,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from euronics.premi@email.com
+blacklist_from ameliabrown5822@gmail.com
 blacklist_from mikexxxx@gmail.com
 blacklist_from rosiewillon@gmail.com
 blacklist_from cloudtrademinning@gmail.com
