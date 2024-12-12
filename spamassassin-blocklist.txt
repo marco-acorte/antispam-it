@@ -1,3 +1,7 @@
+blacklist_from *@fev-votrelogo.fr
+blacklist_from *.fev-votrelogo.fr
+blacklist_from *@warriorplus.com
+blacklist_from *.warriorplus.com
 blacklist_from *@mediacodeapp.com
 blacklist_from *.mediacodeapp.com
 blacklist_from *@stqmzn.com
