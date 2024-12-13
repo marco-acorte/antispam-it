@@ -1,3 +1,7 @@
+blacklist_from *@iqiwang.com
+blacklist_from *.iqiwang.com
+blacklist_from *@super87.com
+blacklist_from *.super87.com
 blacklist_from *@fev-votrelogo.fr
 blacklist_from *.fev-votrelogo.fr
 blacklist_from *@warriorplus.com
