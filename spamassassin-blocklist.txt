@@ -1,3 +1,7 @@
+blacklist_from *@businesstechgenius.com
+blacklist_from *.businesstechgenius.com
+blacklist_from *@convieneora.it
+blacklist_from *.convieneora.it
 blacklist_from *@iqiwang.com
 blacklist_from *.iqiwang.com
 blacklist_from *@super87.com
@@ -2839,6 +2843,8 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from eurofinprestiti24@arubapec.it
+blacklist_from eurofinprestiti25@arubapec.it
 blacklist_from finanziamentofintecheurofin@emailcertificatapec.it
 blacklist_from eurofintechprestiti2023@arubapec.it
 blacklist_from fintecheurofinanziamento2023@pec.it
