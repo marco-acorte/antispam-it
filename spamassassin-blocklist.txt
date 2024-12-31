@@ -1,3 +1,13 @@
+blacklist_from *@20storieshigh.org.uk
+blacklist_from *.20storieshigh.org.uk
+blacklist_from *@junfeng99.com
+blacklist_from *.junfeng99.com
+blacklist_from *@c3-corp.com
+blacklist_from *.c3-corp.com
+blacklist_from *@sitespark.tech
+blacklist_from *.sitespark.tech
+blacklist_from *@mapsboost.top
+blacklist_from *.mapsboost.top
 blacklist_from *@businesstechgenius.com
 blacklist_from *.businesstechgenius.com
 blacklist_from *@convieneora.it
