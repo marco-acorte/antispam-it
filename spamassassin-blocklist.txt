@@ -1,3 +1,7 @@
+blacklist_from *@inboxarrow.website
+blacklist_from *.inboxarrow.website
+blacklist_from *@inboxarrow.xyz
+blacklist_from *.inboxarrow.xyz
 blacklist_from *@20storieshigh.org.uk
 blacklist_from *.20storieshigh.org.uk
 blacklist_from *@junfeng99.com
