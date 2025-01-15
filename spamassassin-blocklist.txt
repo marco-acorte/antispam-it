@@ -1,3 +1,13 @@
+blacklist_from *@diffusion-access.co
+blacklist_from *.diffusion-access.co
+blacklist_from *@email-road.co
+blacklist_from *.email-road.co
+blacklist_from *@cnhdw.com
+blacklist_from *.cnhdw.com
+blacklist_from *@wm-kc.com
+blacklist_from *.wm-kc.com
+blacklist_from *@whoglocal.com
+blacklist_from *.whoglocal.com
 blacklist_from *@inboxarrow.website
 blacklist_from *.inboxarrow.website
 blacklist_from *@inboxarrow.xyz
