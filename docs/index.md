@@ -97,3 +97,8 @@ form: <https://www.brevo.com/contact/#abuse>
 - info: <https://sendgrid.com/en-us/report-spam>
 - form:
 - email: <abuse@sendgrid.com>
+
+### Aruba.it
+
+- form:
+- email: <abuse@staff.aruba.it>
