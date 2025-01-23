@@ -35,3 +35,7 @@ Il progetto e i suoi contenuti sono inclusi anche in questi fantastici progetti:
 
 - [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists/)
 - [NoTracking, Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage](https://github.com/notracking/hosts-blocklists)
+
+## Roadmap
+
+Puoi leggere una roadmap dettagliata [qui](docs/roadmap.md)

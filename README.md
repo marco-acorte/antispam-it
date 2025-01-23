@@ -33,3 +33,7 @@ The project and its contents are included also in these awesome projects:
 
 - [Hagezi, DNS-Blocklists: For a better internet - keep the internet clean!](https://github.com/hagezi/dns-blocklists/)
 - [NoTracking, Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage](https://github.com/notracking/hosts-blocklists)
+
+## Roadmap
+
+You cand read a detailed roadmap [here](docs/roadmap.md)
