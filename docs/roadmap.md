@@ -14,6 +14,8 @@
   - [x] `csv` format
   - [x] `txt` format
 - [ ] parse list with <https://github.com/funilrys/PyFunceble>
+- [x] Create a script to update the list and push it to the repository
+- [ ] create a website using github pages
 
 ## 2.0.0
 
