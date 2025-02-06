@@ -2867,6 +2867,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from eurofinprestiti24@gigapec.it
 blacklist_from fintechfinanziamentoeurofin@pec.it
 blacklist_from aggiornamento.annuale@arubapec.it
 blacklist_from eurofintech2022prestitogarantito@pec.it
