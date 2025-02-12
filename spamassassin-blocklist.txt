@@ -1,3 +1,7 @@
+blacklist_from *@programs-projects.biz
+blacklist_from *.programs-projects.biz
+blacklist_from *@aicontactor.it
+blacklist_from *.aicontactor.it
 blacklist_from *@diffusion-access.co
 blacklist_from *.diffusion-access.co
 blacklist_from *@email-road.co
