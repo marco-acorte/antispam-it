@@ -102,3 +102,8 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form:
 - email: <abuse@staff.aruba.it>
+
+### Mail.com (MX email.com)
+
+- form:
+- email: <abuse@mail.com>
