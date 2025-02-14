@@ -107,3 +107,13 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form:
 - email: <abuse@mail.com>
+
+### google.com
+
+- form: <https://support.google.com/mail/contact/abuse>
+- email: <abuse@google.com>
+
+### gappssmtp.com
+
+- form:
+- email: <abuse@gappssmtp.com>
