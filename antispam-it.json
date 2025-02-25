@@ -1,6 +1,22 @@
 {
 "domains": [
   {
+    "domain": "hdsbase.shop",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "pawtrim.shop",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "bargainsly.com",
     "description": "",
     "source": "",

@@ -1,3 +1,7 @@
+blacklist_from *@hdsbase.shop
+blacklist_from *.hdsbase.shop
+blacklist_from *@pawtrim.shop
+blacklist_from *.pawtrim.shop
 blacklist_from *@bargainsly.com
 blacklist_from *.bargainsly.com
 blacklist_from *@promozioniimperdibili.it
