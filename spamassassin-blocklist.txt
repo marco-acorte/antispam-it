@@ -1,3 +1,11 @@
+blacklist_from *@cuevana-2.info
+blacklist_from *.cuevana-2.info
+blacklist_from *@cuevana3me.info
+blacklist_from *.cuevana3me.info
+blacklist_from *@clubofgenius.com
+blacklist_from *.clubofgenius.com
+blacklist_from *@renliangliang.com
+blacklist_from *.renliangliang.com
 blacklist_from *@hdsbase.shop
 blacklist_from *.hdsbase.shop
 blacklist_from *@pawtrim.shop
@@ -2736,6 +2744,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from paulsayani304@gmail.com
 blacklist_from hownedward@gmail.com
 blacklist_from joannariggs94@gmail.com
 blacklist_from greville.imogene@outlook.com
