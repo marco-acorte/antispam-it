@@ -1,3 +1,5 @@
+blacklist_from *@techbuzztools.shop
+blacklist_from *.techbuzztools.shop
 blacklist_from *@ipercloud.it
 blacklist_from *.ipercloud.it
 blacklist_from *@mdrctr.com
