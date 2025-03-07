@@ -1,3 +1,15 @@
+blacklist_from *@890g.com
+blacklist_from *.890g.com
+blacklist_from *@345jc.com
+blacklist_from *.345jc.com
+blacklist_from *@cura-connettersi.net
+blacklist_from *.cura-connettersi.net
+blacklist_from *@corporate-connection.co
+blacklist_from *.corporate-connection.co
+blacklist_from *@email-connection.co
+blacklist_from *.email-connection.co
+blacklist_from *@eqikj.com
+blacklist_from *.eqikj.com
 blacklist_from *@techbuzztools.shop
 blacklist_from *.techbuzztools.shop
 blacklist_from *@ipercloud.it
