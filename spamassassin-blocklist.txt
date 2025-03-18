@@ -1,3 +1,5 @@
+blacklist_from *@lecostedelloionio.it
+blacklist_from *.lecostedelloionio.it
 blacklist_from *@iluoghidellafede.it
 blacklist_from *.iluoghidellafede.it
 blacklist_from *@greciadasogno.com
