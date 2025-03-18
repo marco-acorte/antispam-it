@@ -1,3 +1,9 @@
+blacklist_from *@iluoghidellafede.it
+blacklist_from *.iluoghidellafede.it
+blacklist_from *@greciadasogno.com
+blacklist_from *.greciadasogno.com
+blacklist_from *@adgoon.it
+blacklist_from *.adgoon.it
 blacklist_from *@890g.com
 blacklist_from *.890g.com
 blacklist_from *@345jc.com
