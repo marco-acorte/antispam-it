@@ -1,3 +1,5 @@
+blacklist_from *@tsmtpgalaxy.com
+blacklist_from *.tsmtpgalaxy.com
 blacklist_from *@letter-access.co
 blacklist_from *.letter-access.co
 blacklist_from *@flexi-access.co
