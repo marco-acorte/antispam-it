@@ -1,3 +1,7 @@
+blacklist_from *@letter-access.co
+blacklist_from *.letter-access.co
+blacklist_from *@flexi-access.co
+blacklist_from *.flexi-access.co
 blacklist_from *@lecostedelloionio.it
 blacklist_from *.lecostedelloionio.it
 blacklist_from *@iluoghidellafede.it
