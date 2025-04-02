@@ -1,3 +1,5 @@
+blacklist_from *@spedizionediretta.it
+blacklist_from *.spedizionediretta.it
 blacklist_from *@hrgo.it
 blacklist_from *.hrgo.it
 blacklist_from *@tsmtpgalaxy.com
