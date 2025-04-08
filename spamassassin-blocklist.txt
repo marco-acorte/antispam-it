@@ -1,5 +1,13 @@
 blacklist_from *@larioreti.it
 blacklist_from *.larioreti.it
+blacklist_from *@6ck.it
+blacklist_from *.6ck.it
+blacklist_from *@i-24.it
+blacklist_from *.i-24.it
+blacklist_from *@campagnesms.it
+blacklist_from *.campagnesms.it
+blacklist_from *@buonicoupon.it
+blacklist_from *.buonicoupon.it
 blacklist_from *@spedizionediretta.it
 blacklist_from *.spedizionediretta.it
 blacklist_from *@hrgo.it
