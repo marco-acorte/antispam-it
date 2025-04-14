@@ -1,3 +1,5 @@
+blacklist_from *@infoazienda.cloud
+blacklist_from *.infoazienda.cloud
 blacklist_from *@larioreti.it
 blacklist_from *.larioreti.it
 blacklist_from *@6ck.it

@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "infoazienda.cloud",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "larioreti.it",
     "description": "",
     "source": "",
