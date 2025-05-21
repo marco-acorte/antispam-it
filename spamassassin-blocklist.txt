@@ -1,3 +1,5 @@
+blacklist_from *@ipromonews.com
+blacklist_from *.ipromonews.com
 blacklist_from *@infoazienda.cloud
 blacklist_from *.infoazienda.cloud
 blacklist_from *@larioreti.it

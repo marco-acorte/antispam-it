@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "ipromonews.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "infoazienda.cloud",
     "description": "",
     "source": "",
