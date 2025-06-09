@@ -1,3 +1,4 @@
+blacklist_from *.ovh
 blacklist_from *@ipromonews.com
 blacklist_from *.ipromonews.com
 blacklist_from *@infoazienda.cloud
