@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# importing domains and emails from antispam-tlds.txt
+while read p; do
+  echo "blacklist_from *.$p"
+done <antispam-tlds.txt
+
 # importing domains and emails from antispam-domains.txt
 while read p; do
   echo "blacklist_from *@$p"
