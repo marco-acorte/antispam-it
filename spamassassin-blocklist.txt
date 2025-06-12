@@ -1,4 +1,10 @@
 blacklist_from *.ovh
+blacklist_from *@businesses10.com
+blacklist_from *.businesses10.com
+blacklist_from *@ipervisione.com
+blacklist_from *.ipervisione.com
+blacklist_from *@pemmi.org
+blacklist_from *.pemmi.org
 blacklist_from *@ipromonews.com
 blacklist_from *.ipromonews.com
 blacklist_from *@infoazienda.cloud
