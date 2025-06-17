@@ -1,4 +1,6 @@
 blacklist_from *.ovh
+blacklist_from *@graflantz.com
+blacklist_from *.graflantz.com
 blacklist_from *@businesses10.com
 blacklist_from *.businesses10.com
 blacklist_from *@ipervisione.com
