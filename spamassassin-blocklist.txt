@@ -1,4 +1,10 @@
 blacklist_from *.ovh
+blacklist_from *@frangolo.shop
+blacklist_from *.frangolo.shop
+blacklist_from *@alfabradini.uk
+blacklist_from *.alfabradini.uk
+blacklist_from *@campagnaemail.info
+blacklist_from *.campagnaemail.info
 blacklist_from *@graflantz.com
 blacklist_from *.graflantz.com
 blacklist_from *@businesses10.com
