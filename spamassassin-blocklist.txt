@@ -1,4 +1,6 @@
 blacklist_from *.ovh
+blacklist_from *@onlynaturalpet.com
+blacklist_from *.onlynaturalpet.com
 blacklist_from *@frangolo.shop
 blacklist_from *.frangolo.shop
 blacklist_from *@alfabradini.uk
