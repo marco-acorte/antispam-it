@@ -1,4 +1,7 @@
+blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@dorsnextleveladventurezone.cyou
+blacklist_from *.dorsnextleveladventurezone.cyou
 blacklist_from *@onlynaturalpet.com
 blacklist_from *.onlynaturalpet.com
 blacklist_from *@frangolo.shop
