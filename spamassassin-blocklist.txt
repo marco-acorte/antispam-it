@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@dreamseekerhighflyer.site
+blacklist_from *.dreamseekerhighflyer.site
 blacklist_from *@dorsnextleveladventurezone.cyou
 blacklist_from *.dorsnextleveladventurezone.cyou
 blacklist_from *@onlynaturalpet.com
