@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "magnews-email.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "concordia-events.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "globalsummit.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "dreamseekerhighflyer.site",
     "description": "",
     "source": "",

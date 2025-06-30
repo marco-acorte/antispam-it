@@ -1,5 +1,11 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@magnews-email.com
+blacklist_from *.magnews-email.com
+blacklist_from *@concordia-events.it
+blacklist_from *.concordia-events.it
+blacklist_from *@globalsummit.it
+blacklist_from *.globalsummit.it
 blacklist_from *@dreamseekerhighflyer.site
 blacklist_from *.dreamseekerhighflyer.site
 blacklist_from *@dorsnextleveladventurezone.cyou
