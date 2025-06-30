@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@businesstics.com
+blacklist_from *.businesstics.com
 blacklist_from *@magnews-email.com
 blacklist_from *.magnews-email.com
 blacklist_from *@concordia-events.it

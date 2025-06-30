@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "businesstics.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "magnews-email.com",
     "description": "",
     "source": "",
