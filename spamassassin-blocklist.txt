@@ -1,5 +1,9 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@2p-realestate.com
+blacklist_from *.2p-realestate.com
+blacklist_from *@tsmtpdiamond.com
+blacklist_from *.tsmtpdiamond.com
 blacklist_from *@businesstics.com
 blacklist_from *.businesstics.com
 blacklist_from *@magnews-email.com
