@@ -1,5 +1,13 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@smtpemerald.com
+blacklist_from *.smtpemerald.com
+blacklist_from *@madeinitaly.kz
+blacklist_from *.madeinitaly.kz
+blacklist_from *@madeinitaly002.cloud
+blacklist_from *.madeinitaly002.cloud
+blacklist_from *@levooil.com
+blacklist_from *.levooil.com
 blacklist_from *@2p-realestate.com
 blacklist_from *.2p-realestate.com
 blacklist_from *@tsmtpdiamond.com
