@@ -17,6 +17,8 @@
 
 # count domains in antispam-domains.txt
 domain_count=$(wc -l < antispam-domains.txt | tr -d ' ')
+# generate header.txt with the total domains and last update date in "YYMMDDThhmmss+hhmm"" format
+last_update_date=$(date +"%y%m%dT%H%M%S%z")
 echo "# ======================================================================================================" > header.txt
 echo "# Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge" >> header.txt
 echo "# Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam " >> header.txt
@@ -24,7 +26,7 @@ echo "# campaign harassing poor italian (domain.it) mailboxes. Manually verified
 echo "# " >> header.txt
 echo "# Total Domains: $domain_count" >> header.txt
 echo "# " >> header.txt
-echo "# Last Update: $(date -u)" >> header.txt
+echo "# Last Update: $last_update_date" >> header.txt
 echo "# " >> header.txt
 echo "# Project website: https://github.com/marco-acorte/antispam-it/ " >> header.txt
 echo "# " >> header.txt
