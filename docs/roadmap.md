@@ -15,7 +15,7 @@
   - [x] `txt` format
 - [ ] parse list with <https://github.com/funilrys/PyFunceble>
 - [x] Create a script to update the list and push it to the repository
-- [ ] create a website using github pages
+- [x] create a website using github pages (https://marco-acorte.github.io/antispam-it/)
 
 ## 2.0.0
 
