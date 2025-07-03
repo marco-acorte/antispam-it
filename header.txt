@@ -1,9 +1,11 @@
-# 
+# ======================================================================================================
 # Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Last Update: mer 2 lug 2025, 15:54:33, UTC
+# Total Domains: 1419
+# 
+# Last Update: gio 3 lug 2025, 10:01:37, UTC
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -11,3 +13,4 @@
 # 
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
+

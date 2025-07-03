@@ -15,10 +15,14 @@
 # This work is licensed under a GNU General Public License v3.0. 
 # ======================================================================================================
 
-echo "# " > header.txt
+# count domains in antispam-domains.txt
+domain_count=$(wc -l < antispam-domains.txt | tr -d ' ')
+echo "# ======================================================================================================" > header.txt
 echo "# Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge" >> header.txt
 echo "# Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam " >> header.txt
 echo "# campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly." >> header.txt
+echo "# " >> header.txt
+echo "# Total Domains: $domain_count" >> header.txt
 echo "# " >> header.txt
 echo "# Last Update: $(date -u)" >> header.txt
 echo "# " >> header.txt
@@ -28,5 +32,4 @@ echo "# Support the project with a donation: https://www.buymeacoffee.com/marcoa
 echo "# " >> header.txt
 echo "# This work is licensed under a GNU General Public License v3.0." >> header.txt
 echo "# ======================================================================================================" >> header.txt
-
-
+echo "" >> header.txt
