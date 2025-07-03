@@ -35,3 +35,7 @@ echo "# " >> header.txt
 echo "# This work is licensed under a GNU General Public License v3.0." >> header.txt
 echo "# ======================================================================================================" >> header.txt
 echo "" >> header.txt
+
+# updates the domain count in README.md and README.it.md
+sed -i "s/Attualmente blocca [0-9]\+ domini./Attualmente blocca $domain_count domini./" README.it.md
+sed -i "s/Currently blocking [0-9]\+ domains./Currently blocking $domain_count domains./" README.md
