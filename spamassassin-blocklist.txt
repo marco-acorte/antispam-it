@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@email-signature-image.com
+blacklist_from *.email-signature-image.com
 blacklist_from *@luxurylifestyle.com
 blacklist_from *.luxurylifestyle.com
 blacklist_from *@smtpemerald.com
