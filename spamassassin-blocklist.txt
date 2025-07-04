@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@eurofintechsrl.it
+blacklist_from *.eurofintechsrl.it
 blacklist_from *@email-signature-image.com
 blacklist_from *.email-signature-image.com
 blacklist_from *@luxurylifestyle.com
@@ -3028,6 +3030,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from finanziamentoeurofintech@pecaruba.it
 blacklist_from fintechfinanziamentoeurofin@casellapec.com
 blacklist_from consulenzafintecheurofin2024@arubapec.it
 blacklist_from consulenzaeurofintech@arubapec.it

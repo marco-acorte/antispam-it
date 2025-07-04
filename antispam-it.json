@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "eurofintechsrl.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "email-signature-image.com",
     "description": "",
     "source": "",
