@@ -40,4 +40,4 @@ Il progetto e i suoi contenuti sono inclusi anche in questi fantastici progetti:
 
 ## Roadmap
 
-Puoi leggere una roadmap dettagliata [qui](docs/roadmap.md)
+Puoi leggere la roadmap dettagliata nel [documento roadmap](docs/roadmap.md)

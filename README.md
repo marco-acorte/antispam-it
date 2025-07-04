@@ -38,4 +38,4 @@ The project and its contents are included also in these awesome projects:
 
 ## Roadmap
 
-You cand read a detailed roadmap [here](docs/roadmap.md)
+You can read the detailed roadmap in [the roadmap document](docs/roadmap.md)
