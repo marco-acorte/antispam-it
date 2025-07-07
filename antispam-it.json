@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "dtihost.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "eurofintechsrl.it",
     "description": "",
     "source": "",
