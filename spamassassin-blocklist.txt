@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@incrediblehikerwildforce.site
+blacklist_from *.incrediblehikerwildforce.site
 blacklist_from *@dtihost.com
 blacklist_from *.dtihost.com
 blacklist_from *@eurofintechsrl.it
