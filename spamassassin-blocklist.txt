@@ -1,5 +1,9 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@interiakastlivuresbrokeers.com
+blacklist_from *.interiakastlivuresbrokeers.com
+blacklist_from *@xgdhsp.com
+blacklist_from *.xgdhsp.com
 blacklist_from *@incrediblehikerwildforce.site
 blacklist_from *.incrediblehikerwildforce.site
 blacklist_from *@dtihost.com
