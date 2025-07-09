@@ -1,5 +1,7 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *@erergame.net
+blacklist_from *.erergame.net
 blacklist_from *@interiakastlivuresbrokeers.com
 blacklist_from *.interiakastlivuresbrokeers.com
 blacklist_from *@xgdhsp.com
