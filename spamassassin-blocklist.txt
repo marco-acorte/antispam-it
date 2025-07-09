@@ -1,5 +1,6 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
+blacklist_from *.firebaseapp.com
 blacklist_from *@erergame.net
 blacklist_from *.erergame.net
 blacklist_from *@interiakastlivuresbrokeers.com
