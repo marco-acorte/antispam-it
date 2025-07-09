@@ -19,6 +19,12 @@ the lists are:
 - [spamassassin-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/spamassassin-blocklist.txt) (rules already prepared to be added to /etc/mail/spamassassin/local.cf)
 - [outlook-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/outlook-blocklist.txt) (rules already prepared to be added to MS Outlook)
 
+## How to use
+
+You can use the antispam-it project to block spam emails by adding bad domains to your email client or server.
+more details in the [how to use](docs/how-to-use.md) document.
+
+
 ## 💖 Support development
 
 ### Do you like this project? Support it by donating
