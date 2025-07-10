@@ -2,15 +2,23 @@
 
 ## Introduzione
 
-Antispam IT è un progetto open source che mira a fornire un sistema di filtraggio delle email per ridurre lo spam e le email indesiderate. Questo documento fornisce una guida su come utilizzare Antispam IT.
+Antispam IT è un progetto open source che mira a fornire un sistema di filtraggio delle email per:
+
+- ridurre lo spam e le email indesiderate
+- migliorare la sicurezza della posta elettronica
+- proteggere la privacy degli utenti
+- fornire un modo semplice per bloccare i domini di spam nei browser web e nei client di posta elettronica
+
+Questo documento fornisce una guida su come utilizzare Antispam IT.
 
 ## Come utilizzare Antispam IT
 
 Antispam IT può essere utilizzato sia a livello client che server per bloccare le email di spam aggiungendo domini indesiderati al tuo client o server di posta elettronica.
+Puoi usare Antispam IT in diversi modi, a seconda delle tue esigenze e del tuo ambiente di lavoro.
 
 ### Utilizzo lato client
 
-#### Come utilizzare in uBlock Origin
+#### Come utilizzare in uBlock Origin per il browser web
 
 Puoi utilizzare Antispam IT con uBlock Origin per bloccare i domini di spam nel tuo browser web. Segui questi passaggi:
 

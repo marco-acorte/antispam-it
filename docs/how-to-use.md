@@ -1,10 +1,24 @@
 # How to use antispam-it
 
-Use the antispam-it project to block spam emails by adding bad domains to your email client or server.
+## introduction
 
-## client-side usage
+Antispam-it is an open-source project that aims to provide an email filtering system to:
 
-### How to use in uBlock Origin
+- reduce spam and unwanted emails
+- improve email security
+- protect user privacy
+- provide a simple way to block spam domains in web browsers and email clients
+
+This document provides a guide on how to use antispam-it.
+
+## How to use antispam-it
+
+antispam-it can be used both client-side and server-side to block spam emails by adding unwanted domains to your email client or server.
+You can use antispam-it in various ways, depending on your needs and work environment.
+
+## Client-side usage
+
+### How to use in uBlock Origin for web browsers
 
 You can use the antispam-it project with uBlock Origin to block spam domains your web browser. Follow these steps:
 
