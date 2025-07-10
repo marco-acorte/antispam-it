@@ -11,7 +11,7 @@ Antispam-it is an open-source project that aims to provide an email filtering sy
 
 This document provides a guide on how to use antispam-it.
 
-## How to use antispam-it
+## Usage overview
 
 antispam-it can be used both client-side and server-side to block spam emails by adding unwanted domains to your email client or server.
 You can use antispam-it in various ways, depending on your needs and work environment.
