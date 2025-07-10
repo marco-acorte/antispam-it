@@ -21,7 +21,7 @@ Puoi utilizzare Antispam IT con uBlock Origin per bloccare i domini di spam nel 
 5. Fai clic su "Importa" e incolla l'URL della lista Antispam IT (ad esempio, `https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt`).
 6. Fai clic su "Salva i cambiamenti" per salvare la lista dei filtri.
 
-Se hai gia installato una estenzione browser che supporta il protocollo "abp:" (ad esempio, uBlock Origin, Adblock Plus), puoi aggiungere la lista Antispam IT direttamente come filtro personalizzato cliccando su [Subscribe](abp:subscribe?location=https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt&title=antispam-it)
+Se hai gia installato una estenzione browser che supporta il protocollo "abp:" (ad esempio, uBlock Origin, Adblock Plus), puoi aggiungere la lista Antispam IT direttamente come filtro personalizzato cliccando su [Subscribe](abp:subscribe?location=https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.hosts&title=antispam-it)
 
 #### Come utilizzare in Thunderbird
 
