@@ -24,7 +24,6 @@ the lists are:
 You can use the antispam-it project to block spam emails by adding bad domains to your email client or server.
 more details in the [how to use](docs/how-to-use.md) document.
 
-
 ## 💖 Support development
 
 ### Do you like this project? Support it by donating
