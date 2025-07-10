@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@lightningfastriderzone.cfd
+blacklist_from *.lightningfastriderzone.cfd
 blacklist_from *@lytdng.com
 blacklist_from *.lytdng.com
 blacklist_from *@interactivebrokers.com
