@@ -20,7 +20,9 @@ You can use antispam-it in various ways, depending on your needs and work enviro
 
 ### How to use in uBlock Origin for web browsers
 
-You can use the antispam-it project with uBlock Origin to block spam domains your web browser. Follow these steps:
+You can use the antispam-it project with uBlock Origin to block spam domains your web browser.
+
+If you already have installed a browser extension supporting the "abp:" protocol (e.g. uBlock Origin, Adblock Plus), you can add the antispam-it list directly as a custom filter by clicking on [Subscribe](abp:subscribe?location=https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.hosts&title=antispam-it) otherwise, you can manually add the list by following these steps:
 
 1. Install uBlock Origin from the browser's extension store.
 2. Open uBlock Origin's dashboard by clicking on the extension icon and selecting "Dashboard".
@@ -28,8 +30,6 @@ You can use the antispam-it project with uBlock Origin to block spam domains you
 4. Scroll down to the "Custom" section.
 5. Click on "Import" and paste the URL of the antispam-it list (e.g., `https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt`).
 6. Click "Apply changes" to save the filter list.
-
-If you already have installed a browser extension supporting the "abp:" protocol (e.g. uBlock Origin, Adblock Plus), you can add the antispam-it list directly as a custom filter by clicking on [Subscribe](abp:subscribe?location=https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.hosts&title=antispam-it).
 
 ### How to use in Thunderbird
 
