@@ -4,7 +4,7 @@
 
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
-Attualmente blocca 1432 domini. Ultimo aggiornamento: gio, 10 lug 2025 20:32:37 UTC
+Attualmente blocca 1433 domini. Ultimo aggiornamento: ven, 11 lug 2025 14:38:13 UTC
 
 Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, gli scam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it).
 
