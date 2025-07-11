@@ -37,9 +37,9 @@ echo "# ========================================================================
 echo "" >> header.txt
 
 # updates the domain count in README.md and README.it.md
-sed -i "s/Attualmente blocca [0-9]\+ domini./Attualmente blocca $domain_count domini./" README.it.md
-sed -i "s/Currently blocking [0-9]\+ domains./Currently blocking $domain_count domains./" README.md
+sed -i "s/Attualmente blocca \*\*[0-9]\+\*\* domini./Attualmente blocca **$domain_count** domini./" README.it.md
+sed -i "s/Currently blocking \*\*[0-9]\+\*\* domains./Currently blocking **$domain_count** domains./" README.md
 
 # updates the last update date in README.md and README.it.md
-sed -i "s/Ultimo aggiornamento: [A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC/Ultimo aggiornamento: $(date +"%a, %d %b %Y %H:%M:%S UTC")/" README.it.md
-sed -i "s/Last Update: [A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC/Last Update: $(date +"%a, %d %b %Y %H:%M:%S UTC")/" README.md
+sed -i "s/Ultimo aggiornamento: \*\*[A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC\*\*/Ultimo aggiornamento: \*\*$(date +"%a, %d %b %Y %H:%M:%S UTC")\*\*/" README.it.md
+sed -i "s/Last Update: \*\*[A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC\*\*/Last Update: \*\*$(date +"%a, %d %b %Y %H:%M:%S UTC")\*\*/" README.md
