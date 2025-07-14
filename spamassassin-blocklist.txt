@@ -2867,6 +2867,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from ronaldinvt.ivlts@gmail.com
 blacklist_from mironovozerovsco@gmail.com
 blacklist_from amyforsterseo@gmail.com
 blacklist_from pimenzakharov.seo@gmail.com
