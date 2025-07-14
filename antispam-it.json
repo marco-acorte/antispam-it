@@ -1,6 +1,22 @@
 {
 "domains": [
   {
+    "domain": "bussolocean.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "traduccionesrenace.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "nceoip.com",
     "description": "",
     "source": "",
