@@ -1,6 +1,10 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@masterpiecethemonth.com
+blacklist_from *.masterpiecethemonth.com
+blacklist_from *@beep.pl
+blacklist_from *.beep.pl
 blacklist_from *@perfectstormguitarrocker.site
 blacklist_from *.perfectstormguitarrocker.site
 blacklist_from *@greatmarketing.shop
@@ -2877,6 +2881,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from drr.bpm10@gmail.com
 blacklist_from ajmalarab115@gmail.com
 blacklist_from ronaldinvt.ivlts@gmail.com
 blacklist_from mironovozerovsco@gmail.com
