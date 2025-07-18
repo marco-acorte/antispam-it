@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@perfectstormguitarrocker.site
+blacklist_from *.perfectstormguitarrocker.site
 blacklist_from *@greatmarketing.shop
 blacklist_from *.greatmarketing.shop
 blacklist_from *@newestdeals.shop
