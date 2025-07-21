@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@bnl-supporto.com
+blacklist_from *.bnl-supporto.com
 blacklist_from *@masterpiecethemonth.com
 blacklist_from *.masterpiecethemonth.com
 blacklist_from *@beep.pl
