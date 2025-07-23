@@ -1,6 +1,10 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@mtfinfodept.com
+blacklist_from *.mtfinfodept.com
+blacklist_from *@melissawashburn.info
+blacklist_from *.melissawashburn.info
 blacklist_from *@chic.ae
 blacklist_from *.chic.ae
 blacklist_from *@bnl-supporto.com
@@ -2885,6 +2889,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from mm2993388@gmail.com
 blacklist_from drr.bpm10@gmail.com
 blacklist_from ajmalarab115@gmail.com
 blacklist_from ronaldinvt.ivlts@gmail.com
@@ -3077,6 +3082,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from prestitifondoperduto@pec.it
 blacklist_from fintechprestiti@pec.it
 blacklist_from finanziamentoeurofintech@pecaruba.it
 blacklist_from fintechfinanziamentoeurofin@casellapec.com
