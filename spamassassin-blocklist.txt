@@ -2889,6 +2889,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from adnanhafiz4u@gmail.com
 blacklist_from mm2993388@gmail.com
 blacklist_from drr.bpm10@gmail.com
 blacklist_from ajmalarab115@gmail.com
