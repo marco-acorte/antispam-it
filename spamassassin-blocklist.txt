@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@erhuanlu.net
+blacklist_from *.erhuanlu.net
 blacklist_from *@mtfinfodept.com
 blacklist_from *.mtfinfodept.com
 blacklist_from *@melissawashburn.info
@@ -3083,6 +3085,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from eurofintechfinanziamenti2022@pec.it
 blacklist_from prestitifondoperduto@pec.it
 blacklist_from fintechprestiti@pec.it
 blacklist_from finanziamentoeurofintech@pecaruba.it
