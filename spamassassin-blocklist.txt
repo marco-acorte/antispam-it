@@ -1,6 +1,12 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@professionalseocleanup.com
+blacklist_from *.professionalseocleanup.com
+blacklist_from *@parikart.com
+blacklist_from *.parikart.com
+blacklist_from *@novritsch.com
+blacklist_from *.novritsch.com
 blacklist_from *@sisitariffe.it
 blacklist_from *.sisitariffe.it
 blacklist_from *@sbaggie.com
