@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@d-daybeaches.com
+blacklist_from *.d-daybeaches.com
 blacklist_from *@madeinitaly004.cloud
 blacklist_from *.madeinitaly004.cloud
 blacklist_from *@professionalseocleanup.com
