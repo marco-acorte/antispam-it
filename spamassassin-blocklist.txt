@@ -1,6 +1,8 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *@bjhxxyzulin.com
+blacklist_from *.bjhxxyzulin.com
 blacklist_from *@d-daybeaches.com
 blacklist_from *.d-daybeaches.com
 blacklist_from *@madeinitaly004.cloud
@@ -2913,6 +2915,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from contactarinteresse@gmail.com
 blacklist_from adnanhafiz4u@gmail.com
 blacklist_from mm2993388@gmail.com
 blacklist_from drr.bpm10@gmail.com
