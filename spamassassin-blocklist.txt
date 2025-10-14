@@ -1,6 +1,17 @@
 blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
+blacklist_from *.cfd
+blacklist_from *@owninnervoice.com
+blacklist_from *.owninnervoice.com
+blacklist_from *@heidiklein.com
+blacklist_from *.heidiklein.com
+blacklist_from *@gruopmxa.com.mx
+blacklist_from *.gruopmxa.com.mx
+blacklist_from *@xelaroflux.cfd
+blacklist_from *.xelaroflux.cfd
+blacklist_from *@zexomandral.cfd
+blacklist_from *.zexomandral.cfd
 blacklist_from *@bjhxxyzulin.com
 blacklist_from *.bjhxxyzulin.com
 blacklist_from *@d-daybeaches.com
@@ -2915,6 +2926,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from ronald.sinvest@gmail.com
 blacklist_from contactarinteresse@gmail.com
 blacklist_from adnanhafiz4u@gmail.com
 blacklist_from mm2993388@gmail.com
@@ -3110,6 +3122,8 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from consulenzeeurofintech2025@pec.it
+blacklist_from eurofintechfinanziamenti2025@pec.it
 blacklist_from eurofintechfinanziamenti2022@pec.it
 blacklist_from prestitifondoperduto@pec.it
 blacklist_from fintechprestiti@pec.it
