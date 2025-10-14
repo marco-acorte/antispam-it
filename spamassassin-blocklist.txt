@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@cyberreliablesafedefense.autos
+blacklist_from *.cyberreliablesafedefense.autos
+blacklist_from *@binuhase.de
+blacklist_from *.binuhase.de
 blacklist_from *@owninnervoice.com
 blacklist_from *.owninnervoice.com
 blacklist_from *@heidiklein.com
