@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@campagne2026.cloud
+blacklist_from *.campagne2026.cloud
+blacklist_from *@zhongtingjia.com
+blacklist_from *.zhongtingjia.com
 blacklist_from *@snny.net
 blacklist_from *.snny.net
 blacklist_from *@cyberreliablesafedefense.autos
@@ -2932,6 +2936,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from robinsingh.websolution2@outlook.com
+blacklist_from marymannino822@hotmail.com
 blacklist_from ronald.sinvest@gmail.com
 blacklist_from contactarinteresse@gmail.com
 blacklist_from adnanhafiz4u@gmail.com
@@ -3128,6 +3134,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from newseurofintech@pecaruba.it
 blacklist_from consulenzeeurofintech2025@pec.it
 blacklist_from eurofintechfinanziamenti2025@pec.it
 blacklist_from eurofintechfinanziamenti2022@pec.it
