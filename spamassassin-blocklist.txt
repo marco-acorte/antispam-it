@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@bonolacenter.eu
+blacklist_from *.bonolacenter.eu
 blacklist_from *@111309.com
 blacklist_from *.111309.com
 blacklist_from *@campagne2026.cloud
