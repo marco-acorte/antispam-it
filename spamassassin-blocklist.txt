@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@lunasandals.com
+blacklist_from *.lunasandals.com
 blacklist_from *@fratellirose.shop
 blacklist_from *.fratellirose.shop
 blacklist_from *@expo-etf.com
