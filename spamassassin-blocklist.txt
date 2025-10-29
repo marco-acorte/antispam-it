@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@adobeevents.com
+blacklist_from *.adobeevents.com
 blacklist_from *@lunasandals.com
 blacklist_from *.lunasandals.com
 blacklist_from *@fratellirose.shop
@@ -2946,6 +2948,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from cruzleach.seo@gmail.com
 blacklist_from robinsingh.websolution2@outlook.com
 blacklist_from marymannino822@hotmail.com
 blacklist_from ronald.sinvest@gmail.com
