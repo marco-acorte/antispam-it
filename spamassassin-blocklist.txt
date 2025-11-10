@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@home-solar-systems-info.online
+blacklist_from *.home-solar-systems-info.online
+blacklist_from *@online777.top
+blacklist_from *.online777.top
 blacklist_from *@gz-qkmxjt.com
 blacklist_from *.gz-qkmxjt.com
 blacklist_from *@lunasandals.com
