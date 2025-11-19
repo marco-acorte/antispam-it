@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@artereligiosapuglia.it
+blacklist_from *.artereligiosapuglia.it
+blacklist_from *@bombolead.it
+blacklist_from *.bombolead.it
 blacklist_from *@dealconto.it
 blacklist_from *.dealconto.it
 blacklist_from *@poker-tracker.top
