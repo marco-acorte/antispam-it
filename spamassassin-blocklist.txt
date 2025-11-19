@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@dealconto.it
+blacklist_from *.dealconto.it
 blacklist_from *@poker-tracker.top
 blacklist_from *.poker-tracker.top
 blacklist_from *@trash-removal-5112.shop
