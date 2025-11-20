@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@mailtrack.es
+blacklist_from *.mailtrack.es
+blacklist_from *@rocketcomunicazione.com
+blacklist_from *.rocketcomunicazione.com
 blacklist_from *@artereligiosapuglia.it
 blacklist_from *.artereligiosapuglia.it
 blacklist_from *@bombolead.it
