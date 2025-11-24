@@ -2,6 +2,14 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@themid-field.top
+blacklist_from *.themid-field.top
+blacklist_from *@riverspirittusa.top
+blacklist_from *.riverspirittusa.top
+blacklist_from *@registratura.net
+blacklist_from *.registratura.net
+blacklist_from *@acstudiolab.it
+blacklist_from *.acstudiolab.it
 blacklist_from *@mailtrack.es
 blacklist_from *.mailtrack.es
 blacklist_from *@rocketcomunicazione.com
