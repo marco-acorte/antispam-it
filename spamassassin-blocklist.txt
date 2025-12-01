@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@rinkit.com
+blacklist_from *.rinkit.com
+blacklist_from *@pusheenbox.com
+blacklist_from *.pusheenbox.com
+blacklist_from *@currentbody.com
+blacklist_from *.currentbody.com
 blacklist_from *@themid-field.top
 blacklist_from *.themid-field.top
 blacklist_from *@riverspirittusa.top
