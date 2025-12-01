@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@metalskateboards.com
+blacklist_from *.metalskateboards.com
+blacklist_from *@hockeymonkey.com
+blacklist_from *.hockeymonkey.com
 blacklist_from *@rinkit.com
 blacklist_from *.rinkit.com
 blacklist_from *@pusheenbox.com
