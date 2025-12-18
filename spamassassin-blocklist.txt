@@ -2,6 +2,16 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@gmsummit.it
+blacklist_from *.gmsummit.it
+blacklist_from *@glsummit.it
+blacklist_from *.glsummit.it
+blacklist_from *@ghrsummit.it
+blacklist_from *.ghrsummit.it
+blacklist_from *@gedsummit.it
+blacklist_from *.gedsummit.it
+blacklist_from *@glmsummit.it
+blacklist_from *.glmsummit.it
 blacklist_from *@metalskateboards.com
 blacklist_from *.metalskateboards.com
 blacklist_from *@hockeymonkey.com
