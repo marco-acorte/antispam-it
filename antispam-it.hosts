@@ -4,9 +4,9 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1433
+# Total Domains: 1504
 # 
-# Last Update: 250711T171807+0200
+# Last Update: 251218T120718+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -15,6 +15,77 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    gmsummit.it
+0.0.0.0    glsummit.it
+0.0.0.0    ghrsummit.it
+0.0.0.0    gedsummit.it
+0.0.0.0    glmsummit.it
+0.0.0.0    metalskateboards.com
+0.0.0.0    hockeymonkey.com
+0.0.0.0    rinkit.com
+0.0.0.0    pusheenbox.com
+0.0.0.0    currentbody.com
+0.0.0.0    themid-field.top
+0.0.0.0    riverspirittusa.top
+0.0.0.0    registratura.net
+0.0.0.0    acstudiolab.it
+0.0.0.0    mailtrack.es
+0.0.0.0    rocketcomunicazione.com
+0.0.0.0    artereligiosapuglia.it
+0.0.0.0    bombolead.it
+0.0.0.0    dealconto.it
+0.0.0.0    poker-tracker.top
+0.0.0.0    trash-removal-5112.shop
+0.0.0.0    rumpl.com
+0.0.0.0    qqbetwin.top
+0.0.0.0    frescadepuratori.it
+0.0.0.0    home-solar-systems-info.online
+0.0.0.0    online777.top
+0.0.0.0    gz-qkmxjt.com
+0.0.0.0    lunasandals.com
+0.0.0.0    2p-realestate.it
+0.0.0.0    2p-realestate.net
+0.0.0.0    cronos.house
+0.0.0.0    adobeevents.com
+0.0.0.0    lunasandals.com
+0.0.0.0    fratellirose.shop
+0.0.0.0    expo-etf.com
+0.0.0.0    bonolacenter.eu
+0.0.0.0    111309.com
+0.0.0.0    campagne2026.cloud
+0.0.0.0    zhongtingjia.com
+0.0.0.0    snny.net
+0.0.0.0    cyberreliablesafedefense.autos
+0.0.0.0    binuhase.de
+0.0.0.0    owninnervoice.com
+0.0.0.0    heidiklein.com
+0.0.0.0    gruopmxa.com.mx
+0.0.0.0    xelaroflux.cfd
+0.0.0.0    zexomandral.cfd
+0.0.0.0    bjhxxyzulin.com
+0.0.0.0    d-daybeaches.com
+0.0.0.0    madeinitaly004.cloud
+0.0.0.0    professionalseocleanup.com
+0.0.0.0    parikart.com
+0.0.0.0    novritsch.com
+0.0.0.0    sisitariffe.it
+0.0.0.0    sbaggie.com
+0.0.0.0    sbaggie.it
+0.0.0.0    fangdajing.net
+0.0.0.0    chezlaurettedole.fr
+0.0.0.0    chez-laurette-dole.com
+0.0.0.0    erhuanlu.net
+0.0.0.0    mtfinfodept.com
+0.0.0.0    melissawashburn.info
+0.0.0.0    chic.ae
+0.0.0.0    bnl-supporto.com
+0.0.0.0    masterpiecethemonth.com
+0.0.0.0    beep.pl
+0.0.0.0    perfectstormguitarrocker.site
+0.0.0.0    greatmarketing.shop
+0.0.0.0    newestdeals.shop
+0.0.0.0    bussolocean.com
+0.0.0.0    traduccionesrenace.com
 0.0.0.0    nceoip.com
 0.0.0.0    ts-clicks.com
 0.0.0.0    theappsdeveloper.com
