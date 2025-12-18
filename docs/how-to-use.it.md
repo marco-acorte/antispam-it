@@ -76,3 +76,6 @@ Se desideri contribuire al progetto Antispam IT, puoi:
 
 - Segnalare nuovi domini di spam aprendo un issue nel repository GitHub.
 - Creare pull request per aggiungere nuovi domini o migliorare la documentazione.
+- Condividere il progetto con altri utenti per aumentare la consapevolezza e l'adozione.
+- Fornire feedback e suggerimenti per migliorare il progetto.
+- Sostenere lo sviluppo del progetto attraverso donazioni. Vedi la [sezione donazioni nel README](../README.it.md#-sostieni-lo-sviluppo).

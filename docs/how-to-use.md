@@ -78,3 +78,6 @@ If you want to contribute to the antispam-it project, you can:
 1. Report new spam domains by creating an issue on the project's GitHub repository.
 2. Submit a pull request with your changes to the list.
 3. Share your experience or improvements in the project's documentation.
+4. Share the project with other users to increase awareness and adoption.
+5. Provide feedback and suggestions to improve the project.
+6. Support the development of the project through donations. See the [donations section in the README](../README.md#-support-development).
