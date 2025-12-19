@@ -117,3 +117,8 @@ form: <https://www.brevo.com/contact/#abuse>
 
 - form:
 - email: <abuse@gappssmtp.com>
+
+### Mailgun
+
+- form:
+- email: <abuse@mailgun.com>
