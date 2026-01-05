@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "get-programmers.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "net.gabunsre.de",
     "description": "",
     "source": "",
