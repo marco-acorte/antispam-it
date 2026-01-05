@@ -2,8 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
-blacklist_from *@gabunsre.de
-blacklist_from *.gabunsre.de
+blacklist_from *@net.gabunsre.de
+blacklist_from *.net.gabunsre.de
 blacklist_from *@lusha-notice.com
 blacklist_from *.lusha-notice.com
 blacklist_from *@gmsummit.it

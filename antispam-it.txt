@@ -5,7 +5,7 @@
 # 
 # Total Domains: 1506
 # 
-# Last Update: 260105T114002+0100
+# Last Update: 260105T114030+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -14,7 +14,7 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
-gabunsre.de
+net.gabunsre.de
 lusha-notice.com
 gmsummit.it 
 glsummit.it

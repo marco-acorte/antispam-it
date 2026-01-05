@@ -5,7 +5,7 @@
 # 
 # Total Domains: 1506
 # 
-# Last Update: 260105T114002+0100
+# Last Update: 260105T114030+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
