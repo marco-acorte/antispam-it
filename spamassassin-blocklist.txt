@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@023keji.com
+blacklist_from *.023keji.com
 blacklist_from *@get-programmers.com
 blacklist_from *.get-programmers.com
 blacklist_from *@net.gabunsre.de
