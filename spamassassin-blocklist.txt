@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@pagopaservi.net
+blacklist_from *.pagopaservi.net
 blacklist_from *@acquain-bocca.it
 blacklist_from *.acquain-bocca.it
 blacklist_from *@viaggiditurismo.com
