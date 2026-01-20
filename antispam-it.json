@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "authenticious.co.uk",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "pagopaservi.net",
     "description": "",
     "source": "",
