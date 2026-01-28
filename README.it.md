@@ -20,6 +20,8 @@ le liste sono:
 - [antispam-emails.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-emails.txt) (indirizzi emails completi da bloccare, vengono aggiunti anche in spamassassin-blocklist.txt)
 - [spamassassin-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/spamassassin-blocklist.txt) (regole già preparate per essere aggiunte a /etc/mail/spamassassin/local.cf)
 - [outlook-blocklist.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/outlook-blocklist.txt) (regole già pronte per essere aggiunte a MS Outlook)
+- [antispam-pec-it.txt](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-pec-it.txt) (indirizzi email PEC completi da bloccare)
+- [antispam-it.sieve](https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.sieve) (script sieve da usare nel tuo server di posta)
 
 ## Come usarlo
 
