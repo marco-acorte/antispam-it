@@ -5,7 +5,7 @@
 # 
 # Total Domains: 1515
 # 
-# Last Update: 260126T145724+0100
+# Last Update: 260128T101137+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -15,7 +15,7 @@
 # ======================================================================================================
 
 # Antispam IT - Sieve Filter
-# https://github.com/marco-acorte/antispam-it
+# 
 # Automatically blocks emails from Italian spam domains
 # 
 # To use this filter, upload it to your mail server that supports Sieve
