@@ -1,5 +1,21 @@
+# ======================================================================================================
+# Antispam-it | The Blocklist to trap a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
+# Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
+# campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
+# 
+# Total Domains: 1515
+# 
+# Last Update: 260126T145724+0100
+# 
+# Project website: https://github.com/marco-acorte/antispam-it/ 
+# 
+# Support the project with a donation: https://www.buymeacoffee.com/marcoacorte
+# 
+# This work is licensed under a GNU General Public License v3.0.
+# ======================================================================================================
+
 # Antispam IT - Sieve Filter
-# https://github.com/ac3/antispam-it
+# https://github.com/marco-acorte/antispam-it
 # Automatically blocks emails from Italian spam domains
 # 
 # To use this filter, upload it to your mail server that supports Sieve
