@@ -22,6 +22,9 @@ cat header.txt antispam-domains.txt > antispam-it.txt
 #generate antispam-it.json as elaborated version of antispam-it.txt
 ./generate-json.sh > antispam-it.json
 
+#generate antispam-it.sieve as elaborated version of antispam-domains.txt
+./generate-sieve.sh
+
 # commit and push to github all the changes
 git add .
 git commit -m "Update blocklists ver. $version"
