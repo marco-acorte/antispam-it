@@ -63,13 +63,59 @@ You can find the script in the `import-rules.sh` file of the repository.
 
 The script will download the latest antispam-it list and update your Spamassassin configuration automatically.
 
-### How to use in email servers
+## How to use in email servers
 
 If you manage an email server, you can integrate the antispam-it list into your server's spam filtering system. This typically involves:
 
 1. Downloading the latest antispam-it list in a format compatible with your email server (e.g., `hosts`, `json`, `csv`, or `txt`).
 2. Configuring your email server's spam filtering settings to use the antispam-it list.
 3. Setting the server to block or mark emails that match any of the bad domains in the list.
+
+### Example for Postfix with Spamassassin
+
+1. Download the antispam-it list:
+
+   ```bash
+   wget -O /etc/spamassassin/antispam-it.txt https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
+   ```
+
+2. Configure Spamassassin to use the list by adding the following line to your `local.cf` file:
+
+   ```bash
+   header ANTISPAM_IT eval:check_rbl('antispam-it', 'file:///etc/spamassassin/antispam-it.txt')
+   score ANTISPAM_IT 5.0
+   ```
+
+3. Restart Spamassassin to apply the changes:
+
+   ```bash
+   systemctl restart spamassassin
+   ```
+
+### Dovecot with Sieve
+
+1. Download the antispam-it list in Sieve format:
+
+   ```bash
+   wget -O /var/lib/dovecot/sieve/antispam-it.sieve https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.sieve
+   ```
+
+2. Compile the Sieve script:
+
+   ```bash
+   sievec /var/lib/dovecot/sieve/antispam-it.sieve
+   ```
+
+3. Ensure Dovecot is configured to use the Sieve script for filtering incoming emails.
+4. Restart Dovecot to apply the changes:
+
+   ```bash
+   systemctl restart dovecot
+   ```
+
+### Automating updates
+
+To keep your spam filtering system up to date with the latest antispam-it list, you can set up a scheduled task (e.g., a cron job) to periodically download and update the list.
 
 ## How to contribute
 

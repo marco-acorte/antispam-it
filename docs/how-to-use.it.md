@@ -70,6 +70,53 @@ Se gestisci un server di posta elettronica, puoi integrare la lista Antispam IT 
 2. Configurare le impostazioni di filtraggio dello spam del tuo server di posta elettronica per utilizzare la lista Antispam IT.
 3. Impostare il server per bloccare o contrassegnare le email che corrispondono a uno dei domini indesiderati nella lista.
 
+##### Esempio per Postfix con Spamassassin
+
+1. Scarica la lista Antispam IT:
+
+   ```bash
+   wget -O /etc/spamassassin/antispam-it.txt https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
+   ```
+
+2. Aggiungi la seguente regola al file di configurazione di Spamassassin (ad esempio, `/etc/spamassassin/local.cf`):
+
+   ```bash
+   header ANTISPAM_IT eval:check_rbl('antispam-it', 'file:///etc/spamassassin/antispam-it.txt')
+   score ANTISPAM_IT 5.0
+   ```
+
+3. Riavvia Spamassassin per applicare le modifiche:
+
+   ```bash
+   systemctl restart spamassassin
+   ```
+
+##### Dovecot con Sieve
+
+1. Scarica la lista Antispam IT in formato Sieve:
+
+   ```bash
+   wget -O /var/lib/dovecot/sieve/antispam-it.sieve https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.sieve
+   ```  
+
+2. Compila lo script Sieve:
+
+   ```bash
+   sievec /var/lib/dovecot/sieve/antispam-it.sieve
+   ```
+
+3. Assicurati che Dovecot sia configurato per utilizzare lo script Sieve per filtrare le email in arrivo.
+
+4. Riavvia Dovecot per applicare le modifiche:
+
+    ```bash
+    systemctl restart dovecot
+    ```
+
+### Aggiornamento automatico
+
+Puoi automatizzare l'aggiornamento della lista Antispam IT utilizzando uno script bash o un cron job che esegue periodicamente il download della lista e aggiorna la configurazione del tuo client o server di posta elettronica.
+
 ### Come contribuire
 
 Se desideri contribuire al progetto Antispam IT, puoi:
