@@ -8,10 +8,11 @@ OUTPUT_FILE="antispam-it.sieve"
 
 echo "Generating Sieve filter file from $INPUT_FILE..."
 
-# Creates the Sieve file header
-cat > "$OUTPUT_FILE" << 'EOF'
+# Creates the Sieve file header prependeding before with header.txt file
+cat header.txt > "$OUTPUT_FILE"
+cat >> "$OUTPUT_FILE" << 'EOF'
 # Antispam IT - Sieve Filter
-# https://github.com/ac3/antispam-it
+# 
 # Automatically blocks emails from Italian spam domains
 # 
 # To use this filter, upload it to your mail server that supports Sieve
