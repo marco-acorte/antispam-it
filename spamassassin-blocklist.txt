@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@mistraladv.com
+blacklist_from *.mistraladv.com
 blacklist_from *@camoremounimerom.com
 blacklist_from *.camoremounimerom.com
 blacklist_from *@authenticious.co.uk
