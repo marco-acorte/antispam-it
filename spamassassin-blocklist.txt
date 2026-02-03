@@ -3034,6 +3034,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from james9243@outlook.com
 blacklist_from enigmawebsolution23@outlook.com
 blacklist_from cruzleach.seo@gmail.com
 blacklist_from robinsingh.websolution2@outlook.com
