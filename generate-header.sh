@@ -17,6 +17,9 @@
 
 # count domains in antispam-domains.txt
 domain_count=$(wc -l < antispam-domains.txt | tr -d ' ')
+emails_count=$(wc -l < antispam-emails.txt | tr -d ' ')
+ip_count=$(wc -l < ip-to-ban.txt | tr -d ' ')
+
 # generate header.txt with the total domains and last update date in "YYMMDDThhmmss+hhmm"" format
 last_update_date=$(date +"%y%m%dT%H%M%S%z")
 echo "# ======================================================================================================" > header.txt
@@ -25,7 +28,8 @@ echo "# Strictly blocks advertisements networks, malwares, spams, statistics & t
 echo "# campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly." >> header.txt
 echo "# " >> header.txt
 echo "# Total Domains: $domain_count" >> header.txt
-echo "# " >> header.txt
+echo "# Total Emails: $emails_count" >> header.txt
+echo "# Total IPs: $ip_count" >> header.txt
 echo "# Last Update: $last_update_date" >> header.txt
 echo "# " >> header.txt
 echo "# Project website: https://github.com/marco-acorte/antispam-it/ " >> header.txt
@@ -39,7 +43,10 @@ echo "" >> header.txt
 # updates the domain count in README.md and README.it.md
 sed -i "s/Attualmente blocca \*\*[0-9]\+\*\* domini./Attualmente blocca **$domain_count** domini./" README.it.md
 sed -i "s/Currently blocking \*\*[0-9]\+\*\* domains./Currently blocking **$domain_count** domains./" README.md
-
+sed -i "s/Attualmente blocca \*\*[0-9]\+\*\* email./Attualmente blocca **$emails_count** email./" README.it.md
+sed -i "s/Currently blocking \*\*[0-9]\+\*\* emails./Currently blocking **$emails_count** emails./" README.md
+sed -i "s/Attualmente blocca \*\*[0-9]\+\*\* indirizzi IP./Attualmente blocca **$ip_count** indirizzi IP./" README.it.md
+sed -i "s/Currently blocking \*\*[0-9]\+\*\* IP addresses./Currently blocking **$ip_count** IP addresses./" README.md
 # updates the last update date in README.md and README.it.md
 sed -i "s/Ultimo aggiornamento: \*\*[A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC\*\*/Ultimo aggiornamento: \*\*$(date +"%a, %d %b %Y %H:%M:%S UTC")\*\*/" README.it.md
 sed -i "s/Last Update: \*\*[A-Za-z]\+, [0-9]\+ [A-Za-z]\+ [0-9]\+ [0-9]\+:[0-9]\+:[0-9]\+ UTC\*\*/Last Update: \*\*$(date +"%a, %d %b %Y %H:%M:%S UTC")\*\*/" README.md
