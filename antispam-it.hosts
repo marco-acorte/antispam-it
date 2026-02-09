@@ -4,9 +4,9 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1516
+# Total Domains: 1518
 # 
-# Last Update: 260203T095431+0100
+# Last Update: 260209T092716+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -15,6 +15,8 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    myrholm.dk
+0.0.0.0    intnet.mu
 0.0.0.0    mistraladv.com
 0.0.0.0    camoremounimerom.com
 0.0.0.0    authenticious.co.uk
