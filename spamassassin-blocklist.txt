@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@lemontdore.com
+blacklist_from *.lemontdore.com
+blacklist_from *@ccpc-group.com
+blacklist_from *.ccpc-group.com
 blacklist_from *@lshsgcxs.com
 blacklist_from *.lshsgcxs.com
 blacklist_from *@myrholm.dk
