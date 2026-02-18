@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@sarlmrobert.site
+blacklist_from *.sarlmrobert.site
 blacklist_from *@lemontdore.com
 blacklist_from *.lemontdore.com
 blacklist_from *@ccpc-group.com
