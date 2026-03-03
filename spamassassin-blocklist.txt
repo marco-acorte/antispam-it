@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@lydiamedia.net
+blacklist_from *.lydiamedia.net
+blacklist_from *@startingpromo.com
+blacklist_from *.startingpromo.com
+blacklist_from *@valenciavisit.net
+blacklist_from *.valenciavisit.net
 blacklist_from *@agenticmarket.shop
 blacklist_from *.agenticmarket.shop
 blacklist_from *@agenticauthority.shop

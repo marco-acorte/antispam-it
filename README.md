@@ -4,7 +4,7 @@
 
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
-- Currently blocking **1526** domains. Last Update: **lun, 02 mar 2026 15:04:07 UTC**
+- Currently blocking **1529** domains. Last Update: **mar, 03 mar 2026 12:22:36 UTC**
 - Currently blocking **203** emails.
 - Currently blocking **42** IP addresses.
 
