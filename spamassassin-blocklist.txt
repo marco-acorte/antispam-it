@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@newsfinsubito.it
+blacklist_from *.newsfinsubito.it
+blacklist_from *@soloinfo.cloud
+blacklist_from *.soloinfo.cloud
+blacklist_from *@stopinfo.cloud
+blacklist_from *.stopinfo.cloud
 blacklist_from *@lydiamedia.net
 blacklist_from *.lydiamedia.net
 blacklist_from *@startingpromo.com

@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "newsfinsubito.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "soloinfo.cloud",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "stopinfo.cloud",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "lydiamedia.net",
     "description": "",
     "source": "",
