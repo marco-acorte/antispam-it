@@ -4,7 +4,7 @@
 
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
-- Attualmente blocca **1555** domini. Ultimo aggiornamento: **mar, 24 mar 2026 11:35:53 UTC**
+- Attualmente blocca **1556** domini. Ultimo aggiornamento: **mar, 24 mar 2026 11:49:34 UTC**
 - Attualmente blocca **204** email.
 - Attualmente blocca **42** indirizzi IP.
 
