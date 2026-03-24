@@ -4,10 +4,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1532
+# Total Domains: 1555
 # Total Emails: 204
 # Total IPs: 42
-# Last Update: 260316T105207+0100
+# Last Update: 260324T113552+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -16,6 +16,29 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    finsubito.org
+0.0.0.0    centroitalfin.com
+0.0.0.0    centroitalfin.eu
+0.0.0.0    centroitalfin.it
+0.0.0.0    solofinanziamenti.eu
+0.0.0.0    newsfinsubito.eu
+0.0.0.0    eurofinsubito.cloud
+0.0.0.0    agevolazionifinsubito.com
+0.0.0.0    tuttoeurofinsubito.com
+0.0.0.0    mutuoimmediato.com
+0.0.0.0    mutuoimmediato.eu
+0.0.0.0    finsubitoagevolazioni.org
+0.0.0.0    impresefinsubito.net
+0.0.0.0    finsubitoinfo.net
+0.0.0.0    finsubitofin.cloud
+0.0.0.0    eurofinsubito.com
+0.0.0.0    newsfinsubito.cloud
+0.0.0.0    immediatofin.com
+0.0.0.0    eurofinsubitoweb.com
+0.0.0.0    soluzioniaste.eu
+0.0.0.0    retefin.it
+0.0.0.0    finsubitoimprese.net
+0.0.0.0    eurofinsubito.eu
 0.0.0.0    newsfinsubito.it
 0.0.0.0    soloinfo.cloud
 0.0.0.0    stopinfo.cloud

@@ -3,10 +3,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1532
+# Total Domains: 1555
 # Total Emails: 204
 # Total IPs: 42
-# Last Update: 260316T105207+0100
+# Last Update: 260324T113552+0100
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -26,7 +26,30 @@ require ["envelope", "fileinto", "reject"];
 
 # Blocks emails from spam domains
 if anyof (
-    envelope :domain :is "from" "newsfinsubito.it"
+    envelope :domain :is "from" "finsubito.org"
+    ,envelope :domain :is "from" "centroitalfin.com"
+    ,envelope :domain :is "from" "centroitalfin.eu"
+    ,envelope :domain :is "from" "centroitalfin.it"
+    ,envelope :domain :is "from" "solofinanziamenti.eu"
+    ,envelope :domain :is "from" "newsfinsubito.eu"
+    ,envelope :domain :is "from" "eurofinsubito.cloud"
+    ,envelope :domain :is "from" "agevolazionifinsubito.com"
+    ,envelope :domain :is "from" "tuttoeurofinsubito.com"
+    ,envelope :domain :is "from" "mutuoimmediato.com"
+    ,envelope :domain :is "from" "mutuoimmediato.eu"
+    ,envelope :domain :is "from" "finsubitoagevolazioni.org"
+    ,envelope :domain :is "from" "impresefinsubito.net"
+    ,envelope :domain :is "from" "finsubitoinfo.net"
+    ,envelope :domain :is "from" "finsubitofin.cloud"
+    ,envelope :domain :is "from" "eurofinsubito.com"
+    ,envelope :domain :is "from" "newsfinsubito.cloud"
+    ,envelope :domain :is "from" "immediatofin.com"
+    ,envelope :domain :is "from" "eurofinsubitoweb.com"
+    ,envelope :domain :is "from" "soluzioniaste.eu"
+    ,envelope :domain :is "from" "retefin.it"
+    ,envelope :domain :is "from" "finsubitoimprese.net"
+    ,envelope :domain :is "from" "eurofinsubito.eu"
+    ,envelope :domain :is "from" "newsfinsubito.it"
     ,envelope :domain :is "from" "soloinfo.cloud"
     ,envelope :domain :is "from" "stopinfo.cloud"
     ,envelope :domain :is "from" "lydiamedia.net"
