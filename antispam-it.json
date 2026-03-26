@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "campagne2027.shop",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "campagnedem2026.shop",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "ufficiotoner.info",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "khumsubtradimg.com",
     "description": "",
     "source": "",
@@ -417,7 +441,7 @@
     "note": ""
   }
   ,{
-    "domain": "gmsummit.it ",
+    "domain": "gmsummit.it",
     "description": "",
     "source": "",
     "category": "",

@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@campagne2027.shop
+blacklist_from *.campagne2027.shop
+blacklist_from *@campagnedem2026.shop
+blacklist_from *.campagnedem2026.shop
+blacklist_from *@ufficiotoner.info
+blacklist_from *.ufficiotoner.info
 blacklist_from *@khumsubtradimg.com
 blacklist_from *.khumsubtradimg.com
 blacklist_from *@finsubito.org
