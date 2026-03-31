@@ -3324,6 +3324,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from funding.impresa2025@pec.it
 blacklist_from eurofinprestitistartup@pec.cloud
 blacklist_from finanziamentifintecheurofin2025@gigapec.it
 blacklist_from eurofinprestitofintech2025@arubapec.it
