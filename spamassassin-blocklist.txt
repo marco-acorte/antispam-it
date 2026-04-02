@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@uvoices.com
+blacklist_from *.uvoices.com
 blacklist_from *@campagne2027.shop
 blacklist_from *.campagne2027.shop
 blacklist_from *@campagnedem2026.shop
