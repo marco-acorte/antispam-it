@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@toptalentvas.com
+blacklist_from *.toptalentvas.com
 blacklist_from *@videoesplicativi.it
 blacklist_from *.videoesplicativi.it
 blacklist_from *@uvoices.com
@@ -3124,6 +3126,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from SwiftDeveloper05@hotmail.com
 blacklist_from info.impresa2026@libero.it
 blacklist_from zoefen75@outlook.com
 blacklist_from anitakumari121@outlook.com
