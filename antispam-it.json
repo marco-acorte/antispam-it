@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "ohlytec.de",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "toptalentvas.com",
     "description": "",
     "source": "",
