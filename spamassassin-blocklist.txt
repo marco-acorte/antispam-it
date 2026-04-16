@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@finsubitoagricoltura.net
+blacklist_from *.finsubitoagricoltura.net
+blacklist_from *@richiedoinfo.cloud
+blacklist_from *.richiedoinfo.cloud
 blacklist_from *@ohlytec.de
 blacklist_from *.ohlytec.de
 blacklist_from *@toptalentvas.com
