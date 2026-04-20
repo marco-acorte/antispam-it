@@ -3,10 +3,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1566
+# Total Domains: 1569
 # Total Emails: 205
 # Total IPs: 42
-# Last Update: 260418T204941+0200
+# Last Update: 260420T150321+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -26,7 +26,10 @@ require ["envelope", "fileinto", "reject"];
 
 # Blocks emails from spam domains
 if anyof (
-    envelope :domain :is "from" "affiwebtech.com"
+    envelope :domain :is "from" "geenett.com"
+    ,envelope :domain :is "from" "eoeqkva.cn"
+    ,envelope :domain :is "from" "suzhouzihong.com"
+    ,envelope :domain :is "from" "affiwebtech.com"
     ,envelope :domain :is "from" "finsubitoagricoltura.net"
     ,envelope :domain :is "from" "richiedoinfo.cloud"
     ,envelope :domain :is "from" "ohlytec.de"
