@@ -6,11 +6,9 @@
 INPUT_FILE="antispam-domains.txt"
 OUTPUT_FILE="antispam-it.sieve"
 
-echo "Generating Sieve filter file from $INPUT_FILE..."
-
 # Creates the Sieve file header prependeding before with header.txt file
-cat header.txt > "$OUTPUT_FILE"
-cat >> "$OUTPUT_FILE" << 'EOF'
+cat header.txt
+cat << 'EOF'
 # Antispam IT - Sieve Filter
 # 
 # Automatically blocks emails from Italian spam domains
@@ -26,38 +24,25 @@ EOF
 
 # Reads the antispam-domains.txt file and generates Sieve rules
 first=true
-while IFS= read -r domain || [ -n "$domain" ]; do
+
+cat antispam-domains.txt | while read line
+
+do
     # Skips empty lines and comments
-    [[ -z "$domain" || "$domain" =~ ^[[:space:]]*# ]] && continue
-    
-    # Removes whitespace
-    domain=$(echo "$domain" | xargs)
-    
+    [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]] && continue   
     # Adds a comma after the first entry
     if [ "$first" = true ]; then
-        echo "    envelope :domain :is \"from\" \"$domain\"" >> "$OUTPUT_FILE"
+        echo "    envelope :domain :is \"from\" \"$line\"" 
         first=false
     else
-        echo "    ,envelope :domain :is \"from\" \"$domain\"" >> "$OUTPUT_FILE"
+        echo "    ,envelope :domain :is \"from\" \"$line\""
     fi
-done < "$INPUT_FILE"
+done
 
 # Closes the Sieve file
-cat >> "$OUTPUT_FILE" << 'EOF'
+cat << 'EOF'
 ) {
     discard;
     stop;
 }
 EOF
-
-# Counts the processed domains
-DOMAIN_COUNT=$(grep -c "envelope :domain" "$OUTPUT_FILE")
-
-echo "✓ Sieve file generated: $OUTPUT_FILE"
-echo "✓ Domains processed: $DOMAIN_COUNT"
-echo ""
-echo "To install the filter:"
-echo "1. Copy the file $OUTPUT_FILE to your mail server"
-echo "2. Place it in the appropriate directory (e.g., ~/.dovecot.sieve or /etc/dovecot/sieve/)"
-echo "3. Compile the filter if necessary: sievec $OUTPUT_FILE"
-echo "4. Restart the mail service if required"
