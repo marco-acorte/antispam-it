@@ -74,7 +74,7 @@ When you use --apply, the script:
 2. Flushes the set
 3. Adds all extracted IPs/networks
 4. Checks whether the INPUT iptables rule exists
-5. If missing, adds: match-set <set-name> src -j DROP
+5. If missing, adds: `match-set <set-name> src -j DROP`
 
 ## Quick checks after apply
 

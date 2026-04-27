@@ -64,7 +64,7 @@ Quando usi `--apply`, lo script:
 2. Svuota il set
 3. Inserisce tutte le reti/IP estratte
 4. Verifica se esiste la regola iptables su INPUT
-5. Se manca, aggiunge: match-set <set-name> src -j DROP
+5. Se manca, aggiunge: `match-set <set-name> src -j DROP`
 
 ## Verifica veloce dopo l'applicazione
 

@@ -8,7 +8,6 @@ lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor
 - Currently blocking **205** emails.
 - Currently blocking **105594** IP addresses.
 
-
 Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam/scam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 
 the lists are:
