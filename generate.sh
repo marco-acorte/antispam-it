@@ -25,6 +25,9 @@ cat header.txt antispam-domains.txt > antispam-it.txt
 #generate antispam-it.sieve as elaborated version of antispam-domains.txt
 ./generate-sieve.sh > antispam-it.sieve
 
+# generate ip-to-ban.txt as elaborated version of ip-to-ban-sources.txt
+./import-ip-blocklists.sh --url-file ip-to-ban-sources.txt --output ip-to-ban.txt --merge-existing
+
 # commit and push to github all the changes
 git add .
 git commit -m "Update blocklists ver. $version"
