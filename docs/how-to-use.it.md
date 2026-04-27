@@ -117,6 +117,10 @@ Se gestisci un server di posta elettronica, puoi integrare la lista Antispam IT 
 
 Puoi automatizzare l'aggiornamento della lista Antispam IT utilizzando uno script bash o un cron job che esegue periodicamente il download della lista e aggiorna la configurazione del tuo client o server di posta elettronica.
 
+### Gestione blocklist IP per firewall
+
+Per scaricare, normalizzare e applicare liste IP pubbliche con ipset/iptables, consulta la guida dedicata: [Come usare import-ip-blocklists.sh](how-to-use-ip-blocklists.it.md).
+
 ### Come contribuire
 
 Se desideri contribuire al progetto Antispam IT, puoi:

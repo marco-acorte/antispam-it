@@ -1,0 +1,256 @@
+#!/bin/bash
+
+set -euo pipefail
+
+usage() {
+  cat <<'EOF'
+Usage:
+  import-ip-blocklists.sh [options] <url1> [url2 ...]
+  import-ip-blocklists.sh [options] --url-file urls.txt
+
+Download one or more online IP blocklists, extract valid IPv4/CIDR entries,
+merge + deduplicate them, and generate an output file ready for blocking.
+
+Options:
+  -f, --url-file FILE      File containing list URLs (one per line, # comments allowed)
+  -o, --output FILE        Output file path (default: ip-to-ban.txt)
+  -s, --set-name NAME      ipset name to use for --apply (default: antispam_ext_block)
+  -t, --timeout SECONDS    Connection timeout per download (default: 20)
+      --merge-existing     Merge existing output entries before deduplicate
+      --apply              Apply blocklist to ipset + iptables INPUT DROP rule
+  -h, --help               Show this help
+
+Examples:
+  import-ip-blocklists.sh \
+    https://example.org/list1.txt \
+    https://example.org/list2.txt
+
+  import-ip-blocklists.sh --url-file ./sources.txt --output ./ip-to-ban.txt --apply
+EOF
+}
+
+fail() {
+  echo "[ERROR] $*" >&2
+  exit 1
+}
+
+need_cmd() {
+  command -v "$1" >/dev/null 2>&1 || fail "Missing required command: $1"
+}
+
+extract_ips() {
+  awk '
+  function valid_ipv4(ip, oct, n, i) {
+    n = split(ip, oct, ".")
+    if (n != 4) return 0
+    for (i = 1; i <= 4; i++) {
+      if (oct[i] !~ /^[0-9]+$/) return 0
+      if (oct[i] < 0 || oct[i] > 255) return 0
+    }
+    return 1
+  }
+
+  function valid_prefix(p) {
+    return (p ~ /^[0-9]+$/ && p >= 0 && p <= 32)
+  }
+
+  {
+    line = $0
+    sub(/#.*/, "", line)
+    gsub(/[^0-9.\/]/, " ", line)
+    count = split(line, fields, /[[:space:]]+/)
+
+    for (idx = 1; idx <= count; idx++) {
+      token = fields[idx]
+      if (token == "") {
+        continue
+      }
+
+      parts_count = split(token, parts, "/")
+      if (parts_count > 2) {
+        continue
+      }
+
+      ip = parts[1]
+      if (!valid_ipv4(ip)) {
+        continue
+      }
+
+      if (parts_count == 2 && !valid_prefix(parts[2])) {
+        continue
+      }
+
+      print token
+    }
+  }
+  ' "$@"
+}
+
+download_url() {
+  local url="$1"
+  local destination="$2"
+  local timeout="$3"
+
+  if command -v curl >/dev/null 2>&1; then
+    curl -fsSL --connect-timeout "$timeout" --max-time "$((timeout * 3))" "$url" -o "$destination"
+  elif command -v wget >/dev/null 2>&1; then
+    wget -q --timeout="$timeout" -O "$destination" "$url"
+  else
+    fail "Neither curl nor wget is available"
+  fi
+}
+
+OUTPUT_FILE="ip-to-ban.txt"
+URL_FILE=""
+SET_NAME="antispam_ext_block"
+TIMEOUT="20"
+MERGE_EXISTING=0
+APPLY_RULES=0
+
+URLS=()
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -f|--url-file)
+      [[ $# -ge 2 ]] || fail "Missing value for $1"
+      URL_FILE="$2"
+      shift 2
+      ;;
+    -o|--output)
+      [[ $# -ge 2 ]] || fail "Missing value for $1"
+      OUTPUT_FILE="$2"
+      shift 2
+      ;;
+    -s|--set-name)
+      [[ $# -ge 2 ]] || fail "Missing value for $1"
+      SET_NAME="$2"
+      shift 2
+      ;;
+    -t|--timeout)
+      [[ $# -ge 2 ]] || fail "Missing value for $1"
+      TIMEOUT="$2"
+      shift 2
+      ;;
+    --merge-existing)
+      MERGE_EXISTING=1
+      shift
+      ;;
+    --apply)
+      APPLY_RULES=1
+      shift
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    --)
+      shift
+      while [[ $# -gt 0 ]]; do
+        URLS+=("$1")
+        shift
+      done
+      ;;
+    -* )
+      fail "Unknown option: $1"
+      ;;
+    *)
+      URLS+=("$1")
+      shift
+      ;;
+  esac
+done
+
+if [[ -n "$URL_FILE" ]]; then
+  [[ -f "$URL_FILE" ]] || fail "URL file not found: $URL_FILE"
+  while IFS= read -r line; do
+    line="${line%%#*}"
+    line="$(echo "$line" | xargs)"
+    [[ -z "$line" ]] && continue
+    URLS+=("$line")
+  done < "$URL_FILE"
+fi
+
+[[ "${#URLS[@]}" -gt 0 ]] || fail "No URLs provided. Use positional URLs or --url-file"
+[[ "$TIMEOUT" =~ ^[0-9]+$ ]] || fail "Timeout must be an integer"
+
+TMP_DIR="$(mktemp -d)"
+trap 'rm -rf "$TMP_DIR"' EXIT
+
+RAW_IPS_FILE="$TMP_DIR/raw_ips.txt"
+UNIQUE_IPS_FILE="$TMP_DIR/unique_ips.txt"
+RESTORE_FILE="$TMP_DIR/ipset.restore"
+
+: > "$RAW_IPS_FILE"
+
+if [[ "$MERGE_EXISTING" -eq 1 && -f "$OUTPUT_FILE" ]]; then
+  echo "[INFO] Merging existing entries from $OUTPUT_FILE" >&2
+  extract_ips "$OUTPUT_FILE" >> "$RAW_IPS_FILE"
+fi
+
+echo "[INFO] Downloading ${#URLS[@]} list(s)..." >&2
+index=0
+for url in "${URLS[@]}"; do
+  index=$((index + 1))
+  target_file="$TMP_DIR/source_${index}.txt"
+
+  echo "[INFO] [$index/${#URLS[@]}] $url" >&2
+  if download_url "$url" "$target_file" "$TIMEOUT"; then
+    extract_ips "$target_file" >> "$RAW_IPS_FILE"
+  else
+    echo "[WARN] Failed to download: $url" >&2
+  fi
+done
+
+if [[ ! -s "$RAW_IPS_FILE" ]]; then
+  fail "No valid IPv4/CIDR entries extracted from the provided sources"
+fi
+
+sort -u "$RAW_IPS_FILE" > "$UNIQUE_IPS_FILE"
+IP_COUNT="$(wc -l < "$UNIQUE_IPS_FILE" | tr -d ' ')"
+
+{
+  echo "# Auto-generated by import-ip-blocklists.sh"
+  echo "# Generated at: $(date -u +"%a, %d %b %Y %H:%M:%S UTC")"
+  echo "# Total IP/CIDR entries: $IP_COUNT"
+  echo "# Sources:"
+  for url in "${URLS[@]}"; do
+    echo "# - $url"
+  done
+  echo
+  cat "$UNIQUE_IPS_FILE"
+} > "$OUTPUT_FILE"
+
+echo "[INFO] Wrote $IP_COUNT unique entries to $OUTPUT_FILE" >&2
+
+{
+  echo "create $SET_NAME hash:net family inet -exist"
+  echo "flush $SET_NAME"
+  while IFS= read -r ip; do
+    [[ -z "$ip" ]] && continue
+    echo "add $SET_NAME $ip"
+  done < "$UNIQUE_IPS_FILE"
+} > "$RESTORE_FILE"
+
+if [[ "$APPLY_RULES" -eq 1 ]]; then
+  need_cmd ipset
+  need_cmd iptables
+
+  if [[ "$EUID" -ne 0 ]]; then
+    fail "--apply requires root privileges"
+  fi
+
+  ipset restore < "$RESTORE_FILE"
+
+  if ! iptables -C INPUT -m set --match-set "$SET_NAME" src -j DROP >/dev/null 2>&1; then
+    iptables -I INPUT -m set --match-set "$SET_NAME" src -j DROP
+    echo "[INFO] Added iptables INPUT rule for ipset '$SET_NAME'" >&2
+  else
+    echo "[INFO] iptables INPUT rule already present for ipset '$SET_NAME'" >&2
+  fi
+
+  echo "[INFO] Applied blocklist to ipset '$SET_NAME'" >&2
+else
+  echo "[INFO] Dry mode completed (no firewall changes)." >&2
+  echo "[INFO] To apply now: sudo ipset restore < <(awk 'NR==1{print "create $SET_NAME hash:net family inet -exist"; print "flush $SET_NAME"} {if ($1 !~ /^#|^$/) print "add $SET_NAME "$1}' "$OUTPUT_FILE")" >&2
+  echo "[INFO] Then ensure iptables rule exists: sudo iptables -I INPUT -m set --match-set $SET_NAME src -j DROP" >&2
+fi

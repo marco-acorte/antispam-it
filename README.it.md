@@ -29,6 +29,7 @@ le liste sono:
 
 Puoi usare il progetto antispam-it per bloccare le email di spam aggiungendo i domini indesiderati al tuo client o server di posta elettronica.
 maggiori dettagli nel documento [come usarlo](docs/how-to-use.it.md).
+Per la gestione delle blocklist IP con iptables/ipset, vedi [guida blocklist IP](docs/how-to-use-ip-blocklists.it.md).
 
 ## 💖 Sostieni lo sviluppo
 
