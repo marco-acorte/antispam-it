@@ -28,6 +28,7 @@ the lists are:
 
 You can use the antispam-it project to block spam emails by adding bad domains to your email client or server.
 more details in the [how to use](docs/how-to-use.md) document.
+For IP blocklist management with iptables/ipset, see the [IP blocklist guide](docs/how-to-use-ip-blocklists.md).
 
 ## 💖 Support development
 

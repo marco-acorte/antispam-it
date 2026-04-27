@@ -117,6 +117,10 @@ If you manage an email server, you can integrate the antispam-it list into your 
 
 To keep your spam filtering system up to date with the latest antispam-it list, you can set up a scheduled task (e.g., a cron job) to periodically download and update the list.
 
+### Firewall IP blocklist management
+
+To download, normalize, and apply public IP blocklists with ipset/iptables, see the dedicated guide: [How to use import-ip-blocklists.sh](how-to-use-ip-blocklists.md).
+
 ## How to contribute
 
 If you want to contribute to the antispam-it project, you can:
