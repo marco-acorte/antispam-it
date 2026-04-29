@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "prontointerventoidraulico24ore.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "prontointerventofabbro24ore.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "serviziurgenti24ore.it",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "kreacode.it",
     "description": "",
     "source": "",
