@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@kreacode.it
+blacklist_from *.kreacode.it
+blacklist_from *@invionews.net
+blacklist_from *.invionews.net
 blacklist_from *@ohmycream.com
 blacklist_from *.ohmycream.com
 blacklist_from *@anhuigc.com
