@@ -14,6 +14,7 @@ Questa guida spiega come usare lo script [import-ip-blocklists.sh](../import-ip-
 - Script: [import-ip-blocklists.sh](../import-ip-blocklists.sh)
 - Esempio sorgenti: [ip-to-ban-sources.txt](../ip-to-ban-sources.txt)
 - Output predefinito: [ip-to-ban.txt](../ip-to-ban.txt)
+- Whitelist predefinita: [ip-to-ban-whitelist.txt](../ip-to-ban-whitelist.txt)
 
 ## Uso base
 
@@ -37,6 +38,7 @@ In entrambi i casi, lo script:
 - --url-file FILE: legge le URL da file
 - --output FILE: imposta il file di output
 - --timeout SECONDS: timeout download per ogni URL
+- --whitelist FILE: esclude dalla blocklist gli IP/CIDR contenuti nel file (una voce per riga, supporta commenti #)
 - --merge-existing: include anche le voci gia presenti nel file di output
 - --set-name NAME: nome ipset da usare con --apply
 - --apply: applica la blocklist su ipset e collega regola iptables INPUT DROP
@@ -55,6 +57,28 @@ Merge con lista esistente + deduplica:
 Applicazione diretta al firewall (richiede root):
 
 `sudo ./import-ip-blocklists.sh --url-file sources.txt --apply --set-name antispam_ext_block`
+
+Escludere IP affidabili con una whitelist:
+
+`./import-ip-blocklists.sh --url-file ip-to-ban-sources.txt --whitelist ip-to-ban-whitelist.txt`
+
+Uso combinato di whitelist e apply:
+
+`sudo ./import-ip-blocklists.sh --url-file ip-to-ban-sources.txt --whitelist ip-to-ban-whitelist.txt --apply`
+
+## Formato del file whitelist
+
+Il file whitelist usa lo stesso formato dell'output: una voce per riga, IPv4 o CIDR, con supporto ai commenti `#`.
+
+Esempio [ip-to-ban-whitelist.txt](../ip-to-ban-whitelist.txt):
+
+```
+# IP di servizi legittimi da non bloccare
+203.0.113.5
+198.51.100.0/24
+```
+
+Lo script rimuove dalla blocklist tutte le voci presenti nella whitelist prima di scrivere il file di output. A schermo vengono segnalati il numero di entry whitelist caricate e quelle effettivamente rimosse.
 
 ## Cosa fa --apply
 
@@ -105,3 +129,7 @@ Errore download di una sorgente
 Errore: No valid IPv4/CIDR entries extracted
 
 - Le fonti scaricate non contengono IPv4/CIDR in formato valido oppure sono vuote/non raggiungibili.
+
+Whitelist file not found
+
+- Il file indicato con --whitelist non esiste. Verifica il percorso.
