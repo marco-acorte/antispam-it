@@ -34,7 +34,7 @@ echo "[INFO] Generating antispam-it.sieve..." >&2
 ./generate-sieve.sh > antispam-it.sieve
 
 # generate ip-to-ban.txt as elaborated version of ip-to-ban-sources.txt
-./import-ip-blocklists.sh --url-file ip-to-ban-sources.txt --output ip-to-ban.txt --merge-existing
+./import-ip-blocklists.sh --url-file ip-to-ban-sources.txt --whitelist ip-to-ban-whitelist.txt --output ip-to-ban.txt --merge-existing
 
 # commit and push to github all the changes
 git add .
