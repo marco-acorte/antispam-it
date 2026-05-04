@@ -38,6 +38,10 @@
 
 ## 1.2.0
 
+- [x] Create a script to import well known lists of bad IPs from other sources (e.g. AbuseIPDB, Spamhaus, etc.) and merge them with our list
+
+## 1.3.0
+
 - [ ] parse list with <https://github.com/funilrys/PyFunceble>
 - [ ] Automate the update process using GitHub Actions
 - [ ] Add automatic domain checking using PyFunceble to check if the domains in the list are still active and if they are still hosting the bad content that we want to block
