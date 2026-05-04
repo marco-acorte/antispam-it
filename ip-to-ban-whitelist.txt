@@ -1,0 +1,10 @@
+# this file must contain only IP addresses to be whitelisted (one per line)
+# usage:
+#   ./import-ip-blocklists.sh --whitelist-file ip-to-ban-whitelist.txt
+# Note:
+# - Verifica sempre policy/licenza e impatto su falsi positivi prima dell'uso in produzione.
+# - Queste fonti sono pubbliche e comunemente usate in ambito anti-abuse.
+# Esempio di IP da escludere da ban (IP di servizi legittimi, provider, ecc.)
+# Esempio:
+# 192.168.0.1
+# 10.0.0.1

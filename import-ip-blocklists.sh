@@ -16,6 +16,7 @@ Options:
   -o, --output FILE        Output file path (default: ip-to-ban.txt)
   -s, --set-name NAME      ipset name to use for --apply (default: antispam_ext_block)
   -t, --timeout SECONDS    Connection timeout per download (default: 20)
+  -w, --whitelist FILE     File of IPs/CIDRs to exclude from the blocklist (one per line, # comments allowed)
       --merge-existing     Merge existing output entries before deduplicate
       --apply              Apply blocklist to ipset + iptables INPUT DROP rule
   -h, --help               Show this help
@@ -102,6 +103,7 @@ download_url() {
 
 OUTPUT_FILE="ip-to-ban.txt"
 URL_FILE=""
+WHITELIST_FILE=""
 SET_NAME="antispam_ext_block"
 TIMEOUT="20"
 MERGE_EXISTING=0
@@ -129,6 +131,11 @@ while [[ $# -gt 0 ]]; do
     -t|--timeout)
       [[ $# -ge 2 ]] || fail "Missing value for $1"
       TIMEOUT="$2"
+      shift 2
+      ;;
+    -w|--whitelist)
+      [[ $# -ge 2 ]] || fail "Missing value for $1"
+      WHITELIST_FILE="$2"
       shift 2
       ;;
     --merge-existing)
@@ -206,6 +213,23 @@ if [[ ! -s "$RAW_IPS_FILE" ]]; then
 fi
 
 sort -u "$RAW_IPS_FILE" > "$UNIQUE_IPS_FILE"
+
+if [[ -n "$WHITELIST_FILE" ]]; then
+  [[ -f "$WHITELIST_FILE" ]] || fail "Whitelist file not found: $WHITELIST_FILE"
+  WHITELIST_CLEAN="$TMP_DIR/whitelist.txt"
+  extract_ips "$WHITELIST_FILE" | sort -u > "$WHITELIST_CLEAN"
+  WL_COUNT="$(wc -l < "$WHITELIST_CLEAN" | tr -d ' ')"
+  if [[ "$WL_COUNT" -gt 0 ]]; then
+    FILTERED_FILE="$TMP_DIR/filtered_ips.txt"
+    comm -23 "$UNIQUE_IPS_FILE" "$WHITELIST_CLEAN" > "$FILTERED_FILE"
+    REMOVED=$(( $(wc -l < "$UNIQUE_IPS_FILE") - $(wc -l < "$FILTERED_FILE") ))
+    mv "$FILTERED_FILE" "$UNIQUE_IPS_FILE"
+    echo "[INFO] Whitelist applied: $WL_COUNT entries loaded, $REMOVED entry/entries removed" >&2
+  else
+    echo "[WARN] Whitelist file $WHITELIST_FILE contains no valid IP/CIDR entries" >&2
+  fi
+fi
+
 IP_COUNT="$(wc -l < "$UNIQUE_IPS_FILE" | tr -d ' ')"
 
 {
@@ -216,6 +240,9 @@ IP_COUNT="$(wc -l < "$UNIQUE_IPS_FILE" | tr -d ' ')"
   for url in "${URLS[@]}"; do
     echo "# - $url"
   done
+  if [[ -n "$WHITELIST_FILE" ]]; then
+    echo "# Whitelist: $WHITELIST_FILE"
+  fi
   echo
   cat "$UNIQUE_IPS_FILE"
 } > "$OUTPUT_FILE"
