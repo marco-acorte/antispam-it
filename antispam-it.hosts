@@ -4,10 +4,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1578
-# Total Emails: 205
-# Total IPs: 117408
-# Last Update: 260429T204659+0200
+# Total Domains: 1580
+# Total Emails: 206
+# Total IPs: 118612
+# Last Update: 260504T111251+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -16,6 +16,8 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    algora.io
+0.0.0.0    techirons.com
 0.0.0.0    prontointerventoidraulico24ore.it
 0.0.0.0    prontointerventofabbro24ore.it
 0.0.0.0    serviziurgenti24ore.it

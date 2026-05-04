@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@algora.io
+blacklist_from *.algora.io
+blacklist_from *@techirons.com
+blacklist_from *.techirons.com
 blacklist_from *@prontointerventoidraulico24ore.it
 blacklist_from *.prontointerventoidraulico24ore.it
 blacklist_from *@prontointerventofabbro24ore.it
@@ -3158,7 +3162,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
-blacklist_from SwiftDeveloper05@hotmail.com
+blacklist_from poddubnyi.1409@outlook.com
+blacklist_from swiftdeveloper05@hotmail.com
 blacklist_from info.impresa2026@libero.it
 blacklist_from zoefen75@outlook.com
 blacklist_from anitakumari121@outlook.com
