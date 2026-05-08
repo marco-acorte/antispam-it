@@ -3,10 +3,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1580
+# Total Domains: 1581
 # Total Emails: 206
-# Total IPs: 143308
-# Last Update: 260505T215318+0200
+# Total IPs: 144373
+# Last Update: 260508T090110+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -26,7 +26,8 @@ require ["envelope", "fileinto", "reject"];
 
 # Blocks emails from spam domains
 if anyof (
-    envelope :domain :is "from" "algora.io"
+    envelope :domain :is "from" "wangbaohehotel.com"
+    ,envelope :domain :is "from" "algora.io"
     ,envelope :domain :is "from" "techirons.com"
     ,envelope :domain :is "from" "prontointerventoidraulico24ore.it"
     ,envelope :domain :is "from" "prontointerventofabbro24ore.it"
