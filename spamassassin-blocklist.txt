@@ -2,6 +2,10 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@centroitalfin.net
+blacklist_from *.centroitalfin.net
+blacklist_from *@newsno.cloud
+blacklist_from *.newsno.cloud
 blacklist_from *@wangbaohehotel.com
 blacklist_from *.wangbaohehotel.com
 blacklist_from *@algora.io
@@ -3164,6 +3168,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from lucpotier1949@gmail.com
 blacklist_from poddubnyi.1409@outlook.com
 blacklist_from swiftdeveloper05@hotmail.com
 blacklist_from info.impresa2026@libero.it
