@@ -6,7 +6,7 @@
 # Total Domains: 1585
 # Total Emails: 207
 # Total IPs: 187394
-# Last Update: 260519T093617+0200
+# Last Update: 260521T101441+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 

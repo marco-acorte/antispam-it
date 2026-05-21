@@ -3379,6 +3379,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from consulenzaprestitigarantiti26@pecditta.com
 blacklist_from eurofintech.pec@pec.it
 blacklist_from finanziamenti.pmi@pecaruba.it
 blacklist_from funding.impresa2025@pec.it
