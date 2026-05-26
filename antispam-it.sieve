@@ -3,10 +3,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1585
+# Total Domains: 1588
 # Total Emails: 207
-# Total IPs: 194724
-# Last Update: 260521T101712+0200
+# Total IPs: 194721
+# Last Update: 260526T094208+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -26,7 +26,10 @@ require ["envelope", "fileinto", "reject"];
 
 # Blocks emails from spam domains
 if anyof (
-    envelope :domain :is "from" "iberelectra.pt"
+    envelope :domain :is "from" "centroitalfin.org"
+    ,envelope :domain :is "from" "okinfo.eu"
+    ,envelope :domain :is "from" "stopinfo.eu"
+    ,envelope :domain :is "from" "iberelectra.pt"
     ,envelope :domain :is "from" "tectaproje.com"
     ,envelope :domain :is "from" "centroitalfin.net"
     ,envelope :domain :is "from" "newsno.cloud"

@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "centroitalfin.org",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "okinfo.eu",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "stopinfo.eu",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "iberelectra.pt",
     "description": "",
     "source": "",
