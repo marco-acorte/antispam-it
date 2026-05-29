@@ -3180,6 +3180,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from xcrino.alisha@gmail.com
 blacklist_from lucpotier1949@gmail.com
 blacklist_from poddubnyi.1409@outlook.com
 blacklist_from swiftdeveloper05@hotmail.com
