@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@promotamigi.it
+blacklist_from *.promotamigi.it
+blacklist_from *@convocazione-governo.com
+blacklist_from *.convocazione-governo.com
+blacklist_from *@aemgnascente.pt
+blacklist_from *.aemgnascente.pt
 blacklist_from *@bondlyst.com
 blacklist_from *.bondlyst.com
 blacklist_from *@centroitalfin.org
