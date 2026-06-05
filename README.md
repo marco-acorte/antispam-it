@@ -37,6 +37,8 @@ For IP blocklist management with iptables/ipset, see the [IP blocklist guide](do
 - Buy me a coffee: [Donation](https://buymeacoffee.com/marcoacorte)
 - PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
 
+If you like the project and you can benefit from it, leave a ⭐ (top right) and become a [stargazer](https://github.com/marco-acorte/antispam-it/stargazers)! Thanks for your support!
+
 Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE) license.
 
 The project is developed by [Marco Acorte](https://marcoacorte.com) and is available on [GitHub](https://github.com/marco-acorte/antispam-it).
