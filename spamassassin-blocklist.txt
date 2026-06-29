@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@ruisargentorealestate.pt
+blacklist_from *.ruisargentorealestate.pt
 blacklist_from *@4dem.it
 blacklist_from *.4dem.it
 blacklist_from *@ceogroup.it
@@ -3190,6 +3192,8 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from ruisargentoconsultor@gmail.com
+blacklist_from ruisargento@kwportugal.pt
 blacklist_from thaison200490@gmail.com
 blacklist_from xcrino.alisha@gmail.com
 blacklist_from lucpotier1949@gmail.com

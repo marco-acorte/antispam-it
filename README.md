@@ -4,9 +4,9 @@
 
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
-- Currently blocking **1594** domains. Last Update: **sab, 27 giu 2026 21:53:00 UTC**
-- Currently blocking **209** emails.
-- Currently blocking **282486** IP addresses.
+- Currently blocking **1595** domains. Last Update: **lun, 29 giu 2026 14:24:18 UTC**
+- Currently blocking **211** emails.
+- Currently blocking **293358** IP addresses.
 
 Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam/scam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 
