@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@drinkspindrift.com
+blacklist_from *.drinkspindrift.com
+blacklist_from *@rltnetworks.com
+blacklist_from *.rltnetworks.com
+blacklist_from *@macrovisiongroup.com
+blacklist_from *.macrovisiongroup.com
 blacklist_from *@ruisargentorealestate.pt
 blacklist_from *.ruisargentorealestate.pt
 blacklist_from *@4dem.it
