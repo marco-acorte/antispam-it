@@ -1,6 +1,30 @@
 {
 "domains": [
   {
+    "domain": "school-of-rock.de",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "waelderakademie.de",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
+    "domain": "starclub-zittau.de",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "openai-chatgpt.chat",
     "description": "",
     "source": "",
