@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "openai-chatgpt.chat",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "drinkspindrift.com",
     "description": "",
     "source": "",
