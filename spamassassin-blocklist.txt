@@ -2,6 +2,12 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@boysmells.com
+blacklist_from *.boysmells.com
+blacklist_from *@blockhaus-news.com
+blacklist_from *.blockhaus-news.com
+blacklist_from *@theblockhaus.io
+blacklist_from *.theblockhaus.io
 blacklist_from *@school-of-rock.de
 blacklist_from *.school-of-rock.de
 blacklist_from *@waelderakademie.de
