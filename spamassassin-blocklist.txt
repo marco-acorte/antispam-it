@@ -2,6 +2,14 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@messenger.vendors.vu
+blacklist_from *.messenger.vendors.vu
+blacklist_from *@almirasa.com
+blacklist_from *.almirasa.com
+blacklist_from *@divwz.com
+blacklist_from *.divwz.com
+blacklist_from *@zhcn-app-ninglive.com
+blacklist_from *.zhcn-app-ninglive.com
 blacklist_from *@zh-official-lanjingtiyu.com
 blacklist_from *.zh-official-lanjingtiyu.com
 blacklist_from *@hnyuyiyouwl.com
