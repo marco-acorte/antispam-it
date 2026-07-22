@@ -1,6 +1,14 @@
 {
 "domains": [
   {
+    "domain": "agripel.com",
+    "description": "",
+    "source": "",
+    "category": "",
+    "sub-category": "",
+    "note": ""
+  }
+  ,{
     "domain": "messenger.vendors.vu",
     "description": "",
     "source": "",

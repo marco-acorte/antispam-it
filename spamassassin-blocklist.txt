@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@agripel.com
+blacklist_from *.agripel.com
 blacklist_from *@messenger.vendors.vu
 blacklist_from *.messenger.vendors.vu
 blacklist_from *@almirasa.com
