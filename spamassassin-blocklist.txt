@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@festivaldelmedioevo.it
+blacklist_from *.festivaldelmedioevo.it
 blacklist_from *@algora.io
 blacklist_from *.algora.io
 blacklist_from *@techirons.com
@@ -3162,6 +3164,7 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+blacklist_from tuyen.appdev@gmail.com
 blacklist_from poddubnyi.1409@outlook.com
 blacklist_from swiftdeveloper05@hotmail.com
 blacklist_from info.impresa2026@libero.it
