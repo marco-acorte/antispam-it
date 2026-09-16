@@ -5,11 +5,11 @@
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
 <<<<<<< HEAD
-- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:20:35 UTC**
+- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:21:26 UTC**
 - Currently blocking **212** emails.
 - Currently blocking **349842** IP addresses.
 =======
-- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:20:35 UTC**
+- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:21:26 UTC**
 - Currently blocking **212** emails.
 - Currently blocking **349842** IP addresses.
 >>>>>>> 67587038444ff9adbaf534b95afbd55ceff30396

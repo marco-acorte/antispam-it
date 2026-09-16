@@ -4,14 +4,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1581
-# Total Emails: 207
-# Total IPs: 137814
-# Last Update: 260916T091804+0200
-# Total Domains: 1619
-# Total Emails: 211
-# Total IPs: 347591
-# Last Update: 260722T084611+0200
+# Total Domains: 1620
+# Total Emails: 212
+# Total IPs: 349842
+# Last Update: 260916T092125+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -20,9 +16,7 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
-<<<<<<< HEAD
 0.0.0.0    festivaldelmedioevo.it
-=======
 0.0.0.0    agripel.com
 0.0.0.0    messenger.vendors.vu
 0.0.0.0    almirasa.com
@@ -62,7 +56,6 @@
 0.0.0.0    centroitalfin.net
 0.0.0.0    newsno.cloud
 0.0.0.0    wangbaohehotel.com
->>>>>>> 67587038444ff9adbaf534b95afbd55ceff30396
 0.0.0.0    algora.io
 0.0.0.0    techirons.com
 0.0.0.0    prontointerventoidraulico24ore.it
