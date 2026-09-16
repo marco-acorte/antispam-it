@@ -2,6 +2,14 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@wntvirtualservices.com
+blacklist_from *.wntvirtualservices.com
+blacklist_from *@rankseocompany.com
+blacklist_from *.rankseocompany.com
+blacklist_from *@info-azienda.cloud
+blacklist_from *.info-azienda.cloud
+blacklist_from *@innotecno.com
+blacklist_from *.innotecno.com
 blacklist_from *@festivaldelmedioevo.it
 blacklist_from *.festivaldelmedioevo.it
 blacklist_from *@agripel.com
@@ -3454,6 +3462,7 @@ blacklist_from info654609@gmail.com
 blacklist_from tranthihien36k15.2@gmail.com
 blacklist_from caybang.cl@gmail.com
 blacklist_from jamilyob830@gmail.com
+blacklist_from eurofintechfinanziamenti2026@arubapec.it
 blacklist_from prestitidigitaligarantiti@pec.it
 blacklist_from consulenzefintech@pecaruba.it
 blacklist_from consulenzaprestitigarantiti26@mypec.eu
