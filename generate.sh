@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# get last version from git
-last_version=$(git describe --tags --abbrev=0)
-
-echo "[INFO] Last version from git: $last_version" >&2
-
 # print a separator for clarity
 echo "[INFO] -----------------------------" >&2
 echo "[INFO] Starting generation process..." >&2
