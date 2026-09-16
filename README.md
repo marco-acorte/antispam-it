@@ -4,9 +4,15 @@
 
 lists to spam a lot of rubbish ... hand-curated to fight spammers harassing poor mailboxes .it #spamrevenge
 
-- Currently blocking **1581** domains. Last Update: **mer, 16 set 2026 09:18:05 UTC**
-- Currently blocking **207** emails.
-- Currently blocking **137814** IP addresses.
+<<<<<<< HEAD
+- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:20:35 UTC**
+- Currently blocking **212** emails.
+- Currently blocking **349842** IP addresses.
+=======
+- Currently blocking **1620** domains. Last Update: **mer, 16 set 2026 09:20:35 UTC**
+- Currently blocking **212** emails.
+- Currently blocking **349842** IP addresses.
+>>>>>>> 67587038444ff9adbaf534b95afbd55ceff30396
 
 Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam/scam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 
@@ -36,6 +42,8 @@ For IP blocklist management with iptables/ipset, see the [IP blocklist guide](do
 - Liberapay: [Donation](https://liberapay.com/acor3/donate)
 - Buy me a coffee: [Donation](https://buymeacoffee.com/marcoacorte)
 - PayPal: [Donation](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
+
+If you like the project and you can benefit from it, leave a ⭐ (top right) and become a [stargazer](https://github.com/marco-acorte/antispam-it/stargazers)! Thanks for your support!
 
 Antispam-it is open source software licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE) license.
 

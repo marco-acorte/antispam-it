@@ -8,6 +8,10 @@
 # Total Emails: 207
 # Total IPs: 137814
 # Last Update: 260916T091804+0200
+# Total Domains: 1619
+# Total Emails: 211
+# Total IPs: 347591
+# Last Update: 260722T084611+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -16,7 +20,49 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+<<<<<<< HEAD
 0.0.0.0    festivaldelmedioevo.it
+=======
+0.0.0.0    agripel.com
+0.0.0.0    messenger.vendors.vu
+0.0.0.0    almirasa.com
+0.0.0.0    divwz.com
+0.0.0.0    zhcn-app-ninglive.com
+0.0.0.0    zh-official-lanjingtiyu.com
+0.0.0.0    hnyuyiyouwl.com
+0.0.0.0    hbdxjyfc.com
+0.0.0.0    init-home-kering.com
+0.0.0.0    qfewz.com
+0.0.0.0    tv-cn-leisusport.com
+0.0.0.0    pmdmiat.com
+0.0.0.0    szipfq.com
+0.0.0.0    grgltd.com
+0.0.0.0    boysmells.com
+0.0.0.0    blockhaus-news.com
+0.0.0.0    theblockhaus.io
+0.0.0.0    school-of-rock.de
+0.0.0.0    waelderakademie.de
+0.0.0.0    starclub-zittau.de
+0.0.0.0    openai-chatgpt.chat
+0.0.0.0    drinkspindrift.com
+0.0.0.0    rltnetworks.com
+0.0.0.0    macrovisiongroup.com
+0.0.0.0    ruisargentorealestate.pt
+0.0.0.0    4dem.it
+0.0.0.0    ceogroup.it
+0.0.0.0    promotamigi.it
+0.0.0.0    convocazione-governo.com
+0.0.0.0    aemgnascente.pt
+0.0.0.0    bondlyst.com
+0.0.0.0    centroitalfin.org
+0.0.0.0    okinfo.eu
+0.0.0.0    stopinfo.eu
+0.0.0.0    iberelectra.pt
+0.0.0.0    tectaproje.com
+0.0.0.0    centroitalfin.net
+0.0.0.0    newsno.cloud
+0.0.0.0    wangbaohehotel.com
+>>>>>>> 67587038444ff9adbaf534b95afbd55ceff30396
 0.0.0.0    algora.io
 0.0.0.0    techirons.com
 0.0.0.0    prontointerventoidraulico24ore.it

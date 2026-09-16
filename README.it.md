@@ -4,9 +4,15 @@
 
 liste per mandare in spam un sacco di zozzeria... curata a mano per combattere gli spammer che tartassano povere mailbox .it #spamrevenge
 
-- Attualmente blocca **1581** domini. Ultimo aggiornamento: **mer, 16 set 2026 09:18:05 UTC**
-- Attualmente blocca **207** email.
-- Attualmente blocca **137814** indirizzi IP.
+<<<<<<< HEAD
+- Attualmente blocca **1620** domini. Ultimo aggiornamento: **mer, 16 set 2026 09:20:35 UTC**
+- Attualmente blocca **212** email.
+- Attualmente blocca **349842** indirizzi IP.
+=======
+- Attualmente blocca **1620** domini. Ultimo aggiornamento: **mer, 16 set 2026 09:20:35 UTC**
+- Attualmente blocca **212** email.
+- Attualmente blocca **349842** indirizzi IP.
+>>>>>>> 67587038444ff9adbaf534b95afbd55ceff30396
 
 Blocca rigorosamente i domini usati dalle reti pubblicitarie, i malware, gli spam, gli scam, le statistiche e i tracker inclusi nelle campagne di phishing/malware/spam che molestano le povere caselle di posta italiane (domain.it).
 
@@ -38,6 +44,8 @@ Per la gestione delle blocklist IP con iptables/ipset, vedi [guida blocklist IP]
 - Liberapay: [Donazione](https://liberapay.com/acor3/donate)
 - Buy me a coffee: [Donazione](https://buymeacoffee.com/marcoacorte)
 - PayPal: [Donazione](https://www.paypal.com/donate?business=4RXVK5TKS3YT2&currency_code=EUR)
+
+Se ti piace il progetto e puoi trarne beneficio, lascia una ⭐ (in alto a destra) e diventa uno [stargazer](https://github.com/marco-acorte/antispam-it/stargazers)! Grazie per il tuo supporto!
 
 Antispam-it è un software open source concesso in licenza con licenza  [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
