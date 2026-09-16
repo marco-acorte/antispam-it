@@ -2,6 +2,8 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+blacklist_from *@ennezeta.net
+blacklist_from *.ennezeta.net
 blacklist_from *@wntvirtualservices.com
 blacklist_from *.wntvirtualservices.com
 blacklist_from *@rankseocompany.com
