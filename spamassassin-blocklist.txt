@@ -2,6 +2,7 @@ blacklist_from *.cyou
 blacklist_from *.ovh
 blacklist_from *.firebaseapp.com
 blacklist_from *.cfd
+<<<<<<< HEAD
 blacklist_from *@ennezeta.net
 blacklist_from *.ennezeta.net
 blacklist_from *@wntvirtualservices.com
@@ -14,6 +15,12 @@ blacklist_from *@innotecno.com
 blacklist_from *.innotecno.com
 blacklist_from *@festivaldelmedioevo.it
 blacklist_from *.festivaldelmedioevo.it
+=======
+blacklist_from *@wntppcagency.com
+blacklist_from *.wntppcagency.com
+blacklist_from *@neovisione.com
+blacklist_from *.neovisione.com
+>>>>>>> f7dd1de (Update blocklists ver. 2026.10.20.14.52.55)
 blacklist_from *@agripel.com
 blacklist_from *.agripel.com
 blacklist_from *@messenger.vendors.vu
@@ -3252,7 +3259,11 @@ blacklist_from *@xu.com
 blacklist_from *.xu.com
 blacklist_from *@zekellio
 blacklist_from *.zekellio
+<<<<<<< HEAD
 blacklist_from tuyen.appdev@gmail.com
+=======
+blacklist_from RichardGreenU78128@outlook.com
+>>>>>>> f7dd1de (Update blocklists ver. 2026.10.20.14.52.55)
 blacklist_from ruisargentoconsultor@gmail.com
 blacklist_from ruisargento@kwportugal.pt
 blacklist_from thaison200490@gmail.com
