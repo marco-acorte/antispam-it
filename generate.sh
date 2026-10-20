@@ -5,6 +5,7 @@ echo "[INFO] -----------------------------" >&2
 echo "[INFO] Starting generation process..." >&2
 
 # sync source from git
+# sync with remote repository
 git pull
 
 # calculate version based on current datetime .example: 2021.01.01.01.01.01
