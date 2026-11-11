@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 ennezeta.net
 wntvirtualservices.com
 rankseocompany.com
 info-azienda.cloud
 innotecno.com
 festivaldelmedioevo.it
-=======
-wntppcagency.com
-neovisione.com
->>>>>>> f7dd1de (Update blocklists ver. 2026.10.20.14.52.55)
 agripel.com
 messenger.vendors.vu
 almirasa.com
@@ -1628,11 +1623,7 @@ wmtech360.com
 wowmobileapp.tech
 xu.com
 zekellio
-<<<<<<< HEAD
 tuyen.appdev@gmail.com
-=======
-RichardGreenU78128@outlook.com
->>>>>>> f7dd1de (Update blocklists ver. 2026.10.20.14.52.55)
 ruisargentoconsultor@gmail.com
 ruisargento@kwportugal.pt
 thaison200490@gmail.com
