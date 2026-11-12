@@ -1,4 +1,4 @@
-# this file must contain only IP addresses to be whitelisted (one per line)
+# this file must contain only IPv4 addresses to be whitelisted (one per line)
 # usage:
 #   ./import-ip-blocklists.sh --whitelist-file ip-to-ban-whitelist.txt
 # Note:
@@ -9,5 +9,10 @@
 # 192.168.0.1
 # 10.0.0.1
 
-127.0.0.1
+127.0.0.1 # localhost, always safe to whitelist
+127.0.0.0/8 # localhost range, always safe to whitelist
+10.0.0.0/8 # private network range, safe to whitelist
+192.168.0.0/16 # private network range, safe to whitelist
+172.16.0.0/12 # private network range, safe to whitelist
+
 
