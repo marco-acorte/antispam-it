@@ -2,17 +2,23 @@
 # usage:
 #   ./import-ip-blocklists.sh --whitelist-file ip-to-ban-whitelist.txt
 # Note:
-# - Verifica sempre policy/licenza e impatto su falsi positivi prima dell'uso in produzione.
-# - Queste fonti sono pubbliche e comunemente usate in ambito anti-abuse.
-# Esempio di IP da escludere da ban (IP di servizi legittimi, provider, ecc.)
-# Esempio:
+# - Always check policy/license and impact on false positives before using in production.
+# - These sources are public and commonly used in anti-abuse contexts.
+# Example of IPs to exclude from ban (IPs of legitimate services, providers, etc.)
+# Example:
 # 192.168.0.1
 # 10.0.0.1
+# 127.0.0.1 # localhost, always safe to whitelist
+# 127.0.0.0/8 # localhost range, always safe to whitelist
+# 10.0.0.0/8 # private network range, safe to whitelist
+# 192.168.0.0/16 # private network range, safe to whitelist
+# 172.16.0.0/12 # private network range, safe to whitelist
+127.0.0.1
+127.0.0.0/8
+10.0.0.0/8
+192.168.0.0/16
+172.16.0.0/12
 
-127.0.0.1 # localhost, always safe to whitelist
-127.0.0.0/8 # localhost range, always safe to whitelist
-10.0.0.0/8 # private network range, safe to whitelist
-192.168.0.0/16 # private network range, safe to whitelist
-172.16.0.0/12 # private network range, safe to whitelist
+
 
 
